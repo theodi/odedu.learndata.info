@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "5955046fd084d5167a0508f7",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/dd448eba6939ee52c989ec2d5151d71c3858c5ac.png"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This module explores digital maps: how open data can enhance maps; how to use maps&nbsp;in web sites and projects; and how to visualise and explore data with them.</p>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

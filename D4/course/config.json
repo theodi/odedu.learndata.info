@@ -1,0 +1,64 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_id": "59550470d084d5167a0509cc",
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_courseId": "5955046fd084d5167a0508f5",
+  "_accessibility": {
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isEnabled": false
+  },
+  "__v": 0,
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/odi-logo.png",
+          "alt": "The Open Data Institute"
+        },
+        "description": "<p>Expert knowledge and content development provided by the <span>Open Data Institute</span>.</p>\n",
+        "title": "The Open Data Institute"
+      },
+      {
+        "_graphic": {
+          "src": "http://accelerate.theodi.org/en/module1/adapt/css/assets/adapt.png",
+          "alt": "Adapt eLearning"
+        },
+        "description": "<p>Open source learning platform developed by <span>Adapt elearning</span>.</p>\n",
+        "title": "Adapt eLearning"
+      }
+    ]
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-odedu",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-contrib-graphic",
+      "adapt-contrib-text",
+      "adapt-contrib-media",
+      "adapt-contrib-narrative",
+      "adapt-contrib-accordion",
+      "adapt-contrib-mcq"
+    ]
+  }
+}

@@ -1,0 +1,2256 @@
+[
+  {
+    "_id": "58fb5499d084d5167a04dc84",
+    "_layout": "right",
+    "_parentId": "58fb5499d084d5167a04dc7a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "591d9520d084d5167a04e756",
+    "_layout": "left",
+    "_parentId": "591d9520d084d5167a04e755",
+    "_type": "component",
+    "body": "<p>Here are some questions to test what you&#39;ve learnt.</p>",
+    "displayTitle": "Are you ready to use the Data Spectrum?",
+    "title": "Are you ready to use the Data Spectrum?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b19fd084d5167a04d963",
+    "_layout": "right",
+    "_parentId": "58f8b19ed084d5167a04d8db",
+    "_type": "component",
+    "body": "<p>Data that anyone can access but can&#39;t use or share is...</p>",
+    "displayTitle": "The Data Spectrum",
+    "title": "The Data Spectrum",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "open data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "shared data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "closed data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data that anyone can access but can&#39;t use or share is an example of shared data.</p><p>For data to be open, anyone must be able to access, use and share it. Open data must be free from restrictions and published under an open licence.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Data that anyone can access but can&#39;t use or share is an example of shared data.</p><p>For data to be open, anyone must be able to access, use and share it. Open data must be free from restrictions and published under an open licence.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b19fd084d5167a04d95d",
+    "_layout": "left",
+    "_parentId": "58f8b19ed084d5167a04d8d4",
+    "_type": "component",
+    "body": "<p>Why should&nbsp;some data remain shared or closed?</p>",
+    "displayTitle": "Why we need open, shared and closed data",
+    "title": "Why we need open, shared and closed data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select two answers and then click 'submit'",
+    "_items": [
+      {
+        "text": "To protect individual's rights",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To retain control over how sensitive data is used",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To increase the value of the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To ensure maximum reuse",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Some data, such as medical records, should remain closed or shared&nbsp;to protect individual&#39;s rights and retain control over how sensitive data is used.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Some data, such as medical records, should remain closed or shared&nbsp;to protect individual&#39;s rights and retain control over how sensitive data is used.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b19ed084d5167a04d903",
+    "_layout": "right",
+    "_parentId": "58f8b19ed084d5167a04d8da",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7c1475d034cb3de18e7b927d189ddd5185822c67.jpg",
+      "small": "course/en/assets/7c1475d034cb3de18e7b927d189ddd5185822c67.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">D3Images / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b19ed084d5167a04d8f3",
+    "_layout": "left",
+    "_parentId": "58f8b19ed084d5167a04d8db",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e81e135ab313f9a43ebce7998963508d6c7af5cf.png",
+      "small": "course/en/assets/e81e135ab313f9a43ebce7998963508d6c7af5cf.png",
+      "attribution": "<a href=\"https://theodi.org/data-spectrum\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "58f8b19ed084d5167a04d912",
+    "_layout": "right",
+    "_parentId": "58f8b19ed084d5167a04d8d4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d9a96ee9e69782800d6afd4336688b2a0a5f62da.jpg",
+      "small": "course/en/assets/d9a96ee9e69782800d6afd4336688b2a0a5f62da.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/2781302649\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58fa0eecd084d5167a04dc03",
+    "_layout": "right",
+    "_parentId": "58fa0ed6d084d5167a04dc01",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "58fa0ecbd084d5167a04dbfd",
+    "_layout": "right",
+    "_parentId": "58fa0eb3d084d5167a04dbfb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fa0ec7d084d5167a04dbfc",
+    "_layout": "left",
+    "_parentId": "58fa0eb3d084d5167a04dbfb",
+    "_type": "component",
+    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail provides an opportunity to help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module we will look broadly at what data annotation is and how it can be applied to many types of data and datasets.</p><p>This module looks at:</p><ul><li>What is data annotation?</li><li>Why annotate data?</li><li>What is describing data?</li><li>Why describe data?</li><li>Best practices for annotating and describing data</li></ul>",
+    "displayTitle": "Annotating and describing data",
+    "title": "Annotating and describing data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fa119fd084d5167a04dc0f",
+    "_layout": "right",
+    "_parentId": "58fa0f34d084d5167a04dc08",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "small": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/115327016@N06/15383638574\" target=\"_blank\">vickysandoval22</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58fa11a4d084d5167a04dc10",
+    "_layout": "left",
+    "_parentId": "58fa0f34d084d5167a04dc08",
+    "_type": "component",
+    "body": "<p>Traditionally an annotation refers to a comment or explanation added to text or a diagram. Annotations traditionally appear in the margin of a book or as a highlight in the text itself.</p><p>The key concept of an annotation is that it is separate to the content itself and is added to assist explanation, emphasise a particular aspect or to provide comment. Annotations are added to specific parts of the original content or data, not the whole (covered&nbsp;in describing data).</p><p>In data, annotation is used to aid with visual presentation (e.g. on web pages), define types and languages of data (e.g. to distinguish between US and British date formats) and to provide comment in source control systems.&nbsp;</p>",
+    "displayTitle": "What is data annotation?",
+    "title": "What is data annotation?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fa1676d084d5167a04dc15",
+    "_layout": "full",
+    "_parentId": "58fa0f3bd084d5167a04dc09",
+    "_type": "component",
+    "body": "<p>Data annotation assists with the presentation, definition and description of parts of data. Explore how each is used below.&nbsp;</p>",
+    "displayTitle": "Why annotate data?",
+    "title": "Why annotate data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Presenting data",
+        "body": "<p>Markup languages, like <a href=\"https://en.wikipedia.org/wiki/XML\" title=\"XML\">XML</a> and <a href=\"https://en.wikipedia.org/wiki/HTML\" title=\"HTML\">HTML</a> annotate text in a way that is syntactically distinguishable from that text.</p><p>They can be used to add information about the desired visual presentation, or machine-readable semantic information.</p><p>For example the &lt;em&gt; tag in HTML is used to <em>emphasise a block of text</em>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9f925128ca30dec28891ea6f95bdae4390b27131.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/computer-code-html-on-monitor-119236978\" target=\"_blank\">spaxiax</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Presenting data"
+      },
+      {
+        "title": "Defining data",
+        "body": "<p>One of the key roles of annotation in data is to help define data types and formats.&nbsp;</p><p>One of the key examples is to define date formats and timezones. This could potentially vary depending the geographic location of the person doing the data entry.</p><p>Annotating the date with aspects such as format and timezone can help both presentation and re-use of the data.&nbsp;</p><p>This type of annotation is commonly used in data schemas. You can discover more about date and time datatypes in XML <a href=\"https://docstore.mik.ua/orelly/xml/schema/ch04_05.htm\" target=\"_blank\">here</a>.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Defining data"
+      },
+      {
+        "title": "Providing comment",
+        "body": "<p>Much like writing in the margin of a book, there are systems which allow the general commenting of data and other digital resources.&nbsp;</p><p>Track changes and version control systems (such as GIT) are the most widely used. As well as allowing comment these systems also allow the collaborative working and resolution of comments and questions. Both also track who is was they commented and/or fixed the problem and when this took place allowing a history to be viewed.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/data-transferring-285210746\" target=\"_blank\">Horscope </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Providing comment"
+      }
+    ]
+  },
+  {
+    "_id": "58fa208dd084d5167a04dc1b",
+    "_layout": "left",
+    "_parentId": "58fa0f41d084d5167a04dc0a",
+    "_type": "component",
+    "body": "<p>When assisting with the description of the whole dataset, it is often useful to add metadata (data about data). Like annotations, metadata exists &quot;after&quot; or &quot;beyond&quot; the main content, hence the use of Greek proposition &quot;meta&quot; which means &quot;after&quot; or &quot;beyond&quot;. Unlike an annotation however, metadata is primarily about describing the whole of the dataset or object e.g. the publisher of a book.</p><p>There are three main types of metadata (<a href=\"https://en.wikipedia.org/wiki/Metadata\" target=\"_blank\">source</a>):</p>",
+    "displayTitle": "What is describing data?",
+    "title": "What is describing data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Descriptive metadata",
+        "body": "<p>Descriptive metadata describes a resource for purposes such as discovery and identification. It can include elements such as title, abstract, author, and keywords.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Structural metadata",
+        "body": "<p>Structural metadata is metadata about containers of metadata and indicates how compound objects are put together, for example, how pages are ordered to form chapters.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Administrative metadata",
+        "body": "<p>Administrative metadata provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fa212dd084d5167a04dc1f",
+    "_layout": "full",
+    "_parentId": "58fa0f4cd084d5167a04dc0b",
+    "_type": "component",
+    "body": "<p>Metadata plays a key role in three key areas.</p>",
+    "displayTitle": "Why describe data?",
+    "title": "Why describe data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Facilitating discovery",
+        "body": "<p>With it roots in library catalogues, metadata has always been about discovery.&nbsp;</p><p>Using metadata to help describe items is not just about knowing the title, abstract and author. Adding genre or other classification data can help ease the discovery of related newer (or older) material on the same subject.&nbsp;</p><p>On the web, metadata helps search engines index content from across the web. Careful management of your metadata will help with the discovery of your carefully curated content.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6ca9f8b249c890d314fe9012afb7ac4360e61f26.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/dejonghe/8047778507\" target=\"_blank\">jitterbug!</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Facilitating discovery"
+      },
+      {
+        "title": "Providing context",
+        "body": "<p>In addition to general descriptive metadata, adding further contextual data and&nbsp;references to related content can help place one item or dataset amongst others.&nbsp;</p><p>For example, in photographs, often metadata is added pertaining to where the photo was taken, on which camera and with which lense.</p><p>On the web, related items can be linked with the &lt;link&gt; annotation, helping reference &quot;another book on the shelf&quot;.&nbsp;</p><p>In data, it might be useful to outline how the data was collected and when it should and shouldn&#39;t be used.</p>",
+        "_graphic": {
+          "src": "course/en/assets/c7c39a53b1f755cdd9d80c1f076f62b5c8a646b2.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/mrzeon/5336485299\" target=\"_blank\">Daniel Dionne</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Providing context"
+      },
+      {
+        "title": "Controlling usage",
+        "body": "<p>While libraries can control usage of book through who is allowed in the door, it is a lot more challenging with digital resources on the web.&nbsp;</p><p>Providing metadata containing rights statements and licenses is of critical importance for both machine and human usage of data.&nbsp;</p><p>The use of such metadata is exemplified on sites such as flickr. Using the advanced search you can filter searches to photos that can be modified and used commercially.</p>",
+        "_graphic": {
+          "src": "course/en/assets/bb9435eeccee0fd39cf1f5f7a054bd33d7de5ee3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/rabiem/8353589615\" target=\"_blank\">rabiem22</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Controlling usage"
+      }
+    ]
+  },
+  {
+    "_id": "58fa20a3d084d5167a04dc1c",
+    "_layout": "right",
+    "_parentId": "58fa0f41d084d5167a04dc0a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg",
+      "small": "course/en/assets/a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/search-icon-loupe-symbol-application-button-180739841?src=lb-36497927\" target=\"_blank\">Tarchyshnik Andrei</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fa2e51d084d5167a04dc37",
+    "_layout": "left",
+    "_parentId": "58fa2112d084d5167a04dc1d",
+    "_type": "component",
+    "body": "<p>When annotating or describing data it is best to use existing, widely used and supported&nbsp;standards and vocabularies. A number that are closely related to data are listed below.</p>",
+    "displayTitle": "Best practices for annotating and describing data",
+    "title": "Best practices for annotating and describing data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Data schema",
+        "body": "<p>When publishing data, providing a schema will help the user understand how the data is organised and what value the data contains.&nbsp;</p><p>A schema is basically a description&nbsp;of the column headings (or titles) in a dataset and a definition of the type of data that is contained within each defined column.</p><p>Many data representation languages have related schemas:</p><ul><li><a href=\"https://en.wikipedia.org/wiki/XML_Schema_(W3C)\" target=\"_blank\">XML Schema</a></li><li><a href=\"http://json-schema.org/\" target=\"_blank\">JSON Schema</a></li></ul><p>It is also useful to note that you can validate a simple CSV file using a JSON Schema. Why not try this&nbsp;out at <a href=\"https://csvlint.io/\" target=\"_blank\">CSVLint.io</a>?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Dublin Core",
+        "body": "<p>The&nbsp;Dublin Core Schema&nbsp;is a small set of vocabulary terms that can be used to describe web resources (video, images, web pages, etc.), as well as physical resources such as books or CDs, and objects like artworks.</p><p>The original&nbsp;Dublin Core Metadata Element Set&nbsp;consists of 15 metadata elements including title, creator, type, format, source and rights.</p><p>Dublin core is now widely used in library catalog systems.</p><p>Read more about Dublin Core on <a href=\"https://en.wikipedia.org/wiki/Dublin_Core\" target=\"_blank\">wikipedia</a>.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data Catalog vocabulary",
+        "body": "<p>The&nbsp;<a href=\"http://www.w3.org/TR/vocab-dcat/\" rel=\"external\">Data Catalog Vocabulary (DCAT)</a>&nbsp;defines a standard way to publish machine-readable metadata about a dataset.</p><p>DCAT has been designed to compliment Dublin Core and extend it to enable the specific description of a dataset rather than just resources in general.&nbsp;</p><p>The Open Data Institute provides a useful guide&nbsp;on <a href=\"https://theodi.org/guides/marking-up-your-dataset-with-dcat\" target=\"_blank\">how to mark&nbsp;up your dataset with DCAT</a>.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open Data Rights Statement vocabulary",
+        "body": "<p>Data published to the web should always be accompanied by machine-readable metadata that describes the dataset, its means of creation and, importantly, a statement of the rights that relate to potential re-use of the data.</p><p>A clear statement of rights can ensure that data re-users fully understand the potential for re-use of a dataset, whether it is suitable for their purposes, and any obligations that may incur through using the data.</p><p>The ODRS vocabulary&nbsp;is based around describing the relationships between three types of resource:&nbsp;Datasets,&nbsp;Rights Statements&nbsp;and&nbsp;Licences.</p><p>The Open Data Institute provides both a <a href=\"https://theodi.org/guides/publishers-guide-to-the-open-data-rights-statement-vocabulary\" target=\"_blank\">publishers</a> and <a href=\"https://theodi.org/guides/odrs-reusers-guide\" target=\"_blank\">re-users</a> guide to the&nbsp;Open Data Rights Statement vocabulary.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fa2130d084d5167a04dc20",
+    "_layout": "right",
+    "_parentId": "58fa2112d084d5167a04dc1d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/baa4c189f72ba8ad8f6c60e70d67a11e5ad8bb1b.jpg",
+      "small": "course/en/assets/baa4c189f72ba8ad8f6c60e70d67a11e5ad8bb1b.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58fa365ad084d5167a04dc5f",
+    "_layout": "left",
+    "_parentId": "58fa3645d084d5167a04dc5e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to annotate and describe your data?",
+    "title": "Are you ready to annotate and describe your data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fa3661d084d5167a04dc60",
+    "_layout": "right",
+    "_parentId": "58fa3645d084d5167a04dc5e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fb5499d084d5167a04dc9d",
+    "_layout": "left",
+    "_parentId": "58fb5499d084d5167a04dc80",
+    "_type": "component",
+    "body": "<p>Data is&nbsp;&#39;the raw material from which information and knowledge can be derived&#39;. This &#39;raw material&#39; covers a wide variety of things, &nbsp;including cinema screenings, train times, companies&#39;&nbsp;financials, or&nbsp;individuals&#39;&nbsp;medical history.</p><p>The Open Data Institute&#39;s data spectrum can help as to classify data as open, shared or closed.</p>",
+    "displayTitle": "Open, shared, closed data",
+    "title": "Open, shared, closed data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Open data",
+        "body": "<p>Open data is data that anyone can access, use and share. Governments and organisations have opened up access to data such as weather records, earthquake monitoring, and even particle physics, allowing others to use this data and discover new solutions for the benefit of all.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Shared data",
+        "body": "<p>Shared data is data that is shared with a&nbsp;shared with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected everyday. Your supermarket shopping habits and the electoral register are just two examples of shared data.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Closed data",
+        "body": "<p>Closed data is data that only individuals or people inside a single&nbsp;organisation can see. &nbsp;There are often good reasons why this data should remain closed, and why we don&#39;t want anyone to be able to access and use it.&nbsp;Such data includes personal and company email.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fb5499d084d5167a04dc9e",
+    "_layout": "right",
+    "_parentId": "58fb5499d084d5167a04dc80",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7c1475d034cb3de18e7b927d189ddd5185822c67.jpg",
+      "small": "course/en/assets/25938608af908a0b49bc84cd8a11689f7203a51c.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">D3Images / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58fb5499d084d5167a04dca1",
+    "_layout": "full",
+    "_parentId": "58fb5499d084d5167a04dc81",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "The Data Spectrum",
+    "title": "The Data Spectrum",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "hotgraphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/assets/e81e135ab313f9a43ebce7998963508d6c7af5cf.png",
+      "alt": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Only you",
+        "body": "<p dir=\"ltr\"><span style=\"color:#000000\">Closed: Data that only you can access and use. This is the extreme end of closed data and includes data such as PIN numbers or passwords.</span></p>",
+        "strapline": "Only you",
+        "_graphic": {
+          "src": "course/en/assets/6a0a91e76bc18535113eb85d50ab3cee62d57e04.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 8.2,
+        "_top": 54
+      },
+      {
+        "title": "Known people",
+        "body": "<p dir=\"ltr\"><span style=\"color:#000000\">Closed/shared: Data that known people can access and use. This includes data that is private within an organisation, such as personal records and financial records. In this part of the spectrum a limited number of known individuals (even within an organisation) have access to usually sensitive information. In this part of the spectrum, the data provider is able to control exactly which individuals can access and use the data. </span></p>",
+        "strapline": "Known people",
+        "_graphic": {
+          "src": "course/en/assets/d2a6aea242ee20f9a5083afe1f520727c022484a.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 22.5,
+        "_top": 54
+      },
+      {
+        "title": "Limited groups",
+        "body": "<p dir=\"ltr\"><span style=\"color:#000000\">Shared (usable): Data that limited groups can access and use. Data in this part of the spectrum is normally able to be accessed and used for specific purposes, although the individuals are not known to the provider. For example, data that is available under a non-commercial or research-only licence. Copyright exceptions to data use is also included in this part of the spectrum.</span></p>",
+        "strapline": "Limited groups",
+        "_graphic": {
+          "src": "course/en/assets/85a49d9ec53c78ab856cfcd3de0f7de618c4f2a4.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 41.9,
+        "_top": 54
+      },
+      {
+        "title": "Anyone",
+        "body": "<p><span style=\"color:#000000\">Shared (unusable) : Data that anyone can access but can&rsquo;t use or share. This covers the vast majority of data and information available on the web; accessible but not usable. Because copyright automatically applies to most content, all data that is not licensed for use (openly or otherwise) falls into this category.</span></p>",
+        "strapline": "Anyone",
+        "_graphic": {
+          "src": "course/en/assets/f494970aa6b0cccd94671238e7d8bd663f59fa1d.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 61.3,
+        "_top": 54
+      },
+      {
+        "title": "Anyone (open)",
+        "body": "<p dir=\"ltr\"><span style=\"color:#000000\">Open: Data that anyone can access, use and share. Open data must be free from restrictions and published under an open licence.</span></p>",
+        "strapline": "Anyone (open)",
+        "_graphic": {
+          "src": "course/en/assets/a3038084b5bda8cb230ca1e2ecf31c85f3abb662.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 79.7,
+        "_top": 54
+      }
+    ]
+  },
+  {
+    "_id": "58fb5499d084d5167a04dca8",
+    "_layout": "full",
+    "_parentId": "58fb5499d084d5167a04dc82",
+    "_type": "component",
+    "body": "<p>Not all data is open data, nor should it be. Open, shared and closed data are all equally important and each have their own role to play.</p>",
+    "displayTitle": "Why we need open, shared and closed data",
+    "title": "Why we need open, shared and closed data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Open",
+        "body": "<p>Open data is where data is available for anyone to access, use and share.</p><p>Open data maximises innovation and opportunities for unexpected benefit.</p><p>Without open data,&nbsp;<a href=\"https://citymapper.com/berlin\" target=\"_blank\">Citymapper</a> and <a href=\"https://www.google.co.uk/maps\">Google Maps</a> would not be able to tell you&nbsp;the time of&nbsp;the next bus or train home.</p><p>Find out more about the value of open data in Unlocking value from open data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Open"
+      },
+      {
+        "title": "Shared",
+        "body": "<p>With shared data, data is released to a specific group of people. Sometimes data is shared for a specific purpose only.</p><p>Sharing&nbsp;medical records and research with specific companies is critical to help&nbsp;improve healthcare. However, this data is still very sensitive and in most cases cannot be shared widely.</p><p>Data sharing has the advantage of allowing a slightly wider group of people to use and benefit from it, whilst also retaining some control and limiting usage required of sensitive data. &nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/4f3e720f0df8c5e9e8980551e0e4f1b499568325.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/2781302649\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Shared"
+      },
+      {
+        "title": "Closed",
+        "body": "<p>Closed data remains locked away in individual organisations. Sometimes only a handful of named individuals will have access to the data.</p><p>Examples of this include national security data, confidential business secrets, or your employment record with human resources.</p><p>Closed data is necessary to protect the&nbsp;rights of individuals and&nbsp;the intellectual capital of organisations.</p><p>However, not all data needs to be closed. It can be useful to look at data from a different angle, to justify why it should be closed, instead of justifying why it should be open. This approach is called &#39;open by default.&#39;</p>",
+        "_graphic": {
+          "src": "course/en/assets/f476f3f4c685b49d3767079ce18a539ee8bbb892.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/catatronic/2160544145\" target=\"_blank\">William Grootonk</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Closed"
+      }
+    ]
+  },
+  {
+    "_id": "58fb549ad084d5167a04dcac",
+    "_layout": "full",
+    "_parentId": "58fb5499d084d5167a04dc83",
+    "_type": "component",
+    "body": "<p>The world of data&nbsp;is starting to be defined by three different types of data: open, shared and closed data. Find out more about each in this short video.</p>",
+    "displayTitle": "Open / Shared / Closed: The world of data",
+    "title": "Open / Shared / Closed: The world of data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/125783029",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "58fb5499d084d5167a04dc87",
+    "_layout": "left",
+    "_parentId": "58fb5499d084d5167a04dc7a",
+    "_type": "component",
+    "body": "<p>Not all data is open data, and nor should it be. It can be useful to think of data as a spectrum,&nbsp;from closed, to shared, to open.&nbsp;</p><p>The terms open, closed and shared are commonly confused and, if you use them incorrectly, can negatively impact trust around data.</p><p>In this module we explore:</p><ul dir=\"ltr\"><li>open, shared and closed data</li><li>the data spectrum</li><li>why we need open, shared and closed data</li></ul>",
+    "displayTitle": "The Data Spectrum",
+    "title": "The Data Spectrum",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fb54d7d084d5167a04dcb7",
+    "_layout": "left",
+    "_parentId": "58fb54d7d084d5167a04dcb3",
+    "_type": "component",
+    "body": "<p>Not all data is open data, and nor should it be. It can be useful to think of data as a spectrum,&nbsp;from closed, to shared, to open.&nbsp;</p><p>The terms open, closed and shared are commonly confused and, if you use them incorrectly, can negatively impact trust around data.</p><p>Open data is data that anyone can access use and share.&nbsp;Open data must be free from restrictions and published under an open licence.</p><p>Shared data is data that is shared with a&nbsp;shared with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected everyday.</p><p>Closed data is data that only individuals or people inside a single&nbsp;organisation can see. There are often good reasons why this data should remain closed, and why we don&#39;t want anyone to be able to access and use it.&nbsp;</p><p><a href=\"https://theodi.org/blog/closed-shared-open-data-whats-in-a-name\">Find out more about about the Open Data Institute&#39;s&nbsp;Data Spectrum</a>.</p>",
+    "displayTitle": "The Data Spectrum",
+    "title": "The Data Spectrum",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "591d9520d084d5167a04e757",
+    "_layout": "right",
+    "_parentId": "591d9520d084d5167a04e755",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fa051ed084d5167a04dbee",
+    "_layout": "left",
+    "_parentId": "58f8b19ed084d5167a04d8da",
+    "_type": "component",
+    "body": "<p><strong>The Data Spectrum includes open, shared and closed data.</strong></p><p><strong>Match each example to the type of data.</strong></p>",
+    "displayTitle": "Open, shared, closed data",
+    "title": "Open, shared, closed data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Open data",
+        "_options": [
+          {
+            "text": "Weather data",
+            "_isCorrect": true
+          },
+          {
+            "text": "The electoral register",
+            "_isCorrect": false
+          },
+          {
+            "text": "Employee records",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Shared data",
+        "_options": [
+          {
+            "text": "Weather data",
+            "_isCorrect": false
+          },
+          {
+            "text": "The electoral register",
+            "_isCorrect": true
+          },
+          {
+            "text": "Employee records",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Closed data",
+        "_options": [
+          {
+            "text": "Weather data",
+            "_isCorrect": false
+          },
+          {
+            "text": "The electoral register",
+            "_isCorrect": false
+          },
+          {
+            "text": "Employee records",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Weather data is an example of open data, the electoral register is an example of shared data and employee records are an example of closed data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Weather data is an example of open data, the electoral register is an example of shared data and employee records are an example of closed data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5943e378d084d5167a04fe64",
+    "_layout": "right",
+    "_parentId": "58fa0ecdd084d5167a04dbff",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "small": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/115327016@N06/15383638574\" target=\"_blank\">vickysandoval22</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58fa2d8fd084d5167a04dc30",
+    "_layout": "right",
+    "_parentId": "58fa0f68d084d5167a04dc0c",
+    "_type": "component",
+    "body": "<p><strong>Annotating data helps...?</strong></p>",
+    "displayTitle": "Why annotate data?",
+    "title": "Q: Why annotate data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select up to three answers and click 'submit'",
+    "_items": [
+      {
+        "text": "Present the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Define the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Provide comment",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "License the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data annotation helps present define, present and provide comment on the parts of the data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Data annotation helps present define, present and provide comment on the parts of the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fa2d8ad084d5167a04dc2f",
+    "_layout": "left",
+    "_parentId": "58fa0ecdd084d5167a04dbff",
+    "_type": "component",
+    "body": "<p><strong>Data annotation is...</strong></p>",
+    "displayTitle": "What is data annotation?",
+    "title": "Q: What is data annotation?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer and click 'submit'",
+    "_items": [
+      {
+        "text": "separate to the content itself and is added to assist explanation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "a means of expanding the content",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "a way to provide metadata",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The key concept of an annotation is that it is separate to the content itself and is added to assist explanation, emphasise a particular aspect or to provide comment.&nbsp;Annotations are added to specific parts of the original content or data, not the whole, thus they are not metadata.&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The key concept of an annotation is that it is separate to the content itself and is added to assist explanation, emphasise a particular aspect or to provide comment.&nbsp;Annotations are added to specific parts of the original content or data, not the whole, thus they are not metadata.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5943e5d4d084d5167a04fe67",
+    "_layout": "left",
+    "_parentId": "58fa0f68d084d5167a04dc0c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/60460faba5954eed63e91fdfcc51e2abb1ed200b.jpg",
+      "small": "course/en/assets/60460faba5954eed63e91fdfcc51e2abb1ed200b.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/computer-code-html-on-monitor-119236978\" target=\"_blank\">spaxiax</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fa2d96d084d5167a04dc31",
+    "_layout": "left",
+    "_parentId": "58fa0f78d084d5167a04dc0d",
+    "_type": "component",
+    "body": "<p><strong>There are three main types of metadata, descriptive metadata, structural metadata and administrative metadata. </strong></p><p><strong>Which of the following would be considered&nbsp;administrative metadata?</strong></p>",
+    "displayTitle": "Describing data",
+    "title": "Q: Describing data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Title and abstract",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Page numbers",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "When and who created an object",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Administrative metadata provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Administrative metadata provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5943e6f0d084d5167a04fe6a",
+    "_layout": "right",
+    "_parentId": "58fa0f78d084d5167a04dc0d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg",
+      "small": "course/en/assets/a2cf7964e88c87419cb331fe181d58b5e1d76317.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/search-icon-loupe-symbol-application-button-180739841?src=lb-36497927\" target=\"_blank\">Tarchyshnik Andrei</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5943e71ed084d5167a04fe6d",
+    "_layout": "left",
+    "_parentId": "58fa0f82d084d5167a04dc0e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/baa4c189f72ba8ad8f6c60e70d67a11e5ad8bb1b.jpg",
+      "small": "course/en/assets/baa4c189f72ba8ad8f6c60e70d67a11e5ad8bb1b.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5943e7add084d5167a04fe70",
+    "_layout": "right",
+    "_parentId": "58fa0f82d084d5167a04dc0e",
+    "_type": "component",
+    "body": "<p><strong>When annotating or describing data it is best to use existing, widely used and supported&nbsp;standards and vocabularies. Match each one to its usage below.</strong></p>",
+    "displayTitle": "Best practices",
+    "title": "Q: Best practices",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Data schema",
+        "_options": [
+          {
+            "text": "Provides a description of the column headings",
+            "_isCorrect": true
+          },
+          {
+            "text": "Provides metadata",
+            "_isCorrect": false
+          },
+          {
+            "text": "Provides re-use information",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dublin core",
+        "_options": [
+          {
+            "text": "Provides a description of the column headings",
+            "_isCorrect": false
+          },
+          {
+            "text": "Provides metadata",
+            "_isCorrect": true
+          },
+          {
+            "text": "Provides re-use information",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Open Data Rights Statement vocabulary",
+        "_options": [
+          {
+            "text": "Provides a description of the column headings",
+            "_isCorrect": false
+          },
+          {
+            "text": "Provides metadata",
+            "_isCorrect": false
+          },
+          {
+            "text": "Provides re-use information",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A schema&nbsp;provides a&nbsp;definition of the data. Dublin core&nbsp;is a&nbsp;vocabulary of metadata terms that can be used to describe resources.&nbsp;The ODRS vocabulary provides a statement of re-use rights.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A schema&nbsp;provides a&nbsp;definition of the data. Dublin core&nbsp;is a&nbsp;vocabulary of metadata terms that can be used to describe resources.&nbsp;The ODRS vocabulary provides a statement of re-use rights.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fa0ee9d084d5167a04dc02",
+    "_layout": "left",
+    "_parentId": "58fa0ed6d084d5167a04dc01",
+    "_type": "component",
+    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail provides an opportunity to help with discovery, access, retrieval, organisation and&nbsp;understanding.</p><p>When annotating or describing data it is best to use existing, widely used and supported&nbsp;standards and vocabularies.&nbsp;</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5943ec46d084d5167a04fe87",
+    "_layout": "right",
+    "_parentId": "5943ec45d084d5167a04fe7b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5943ec46d084d5167a04fe8a",
+    "_layout": "left",
+    "_parentId": "5943ec45d084d5167a04fe7b",
+    "_type": "component",
+    "body": "<p>Open data and open standards are very closely related, both in definition and application. This module examines what open standards are and why they are important for open data.</p><p>This module looks at:</p><ul><li>What is a standard and why do we need them</li><li>What is an open standard</li><li>The types of open standard</li><li>Open standards and open data</li></ul>",
+    "displayTitle": "Open data and open standards",
+    "title": "Open data and open standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5943ec46d084d5167a04fe8b",
+    "_layout": "left",
+    "_parentId": "5943ec45d084d5167a04fe7c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
+      "small": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=144334663&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5943ec46d084d5167a04fea9",
+    "_layout": "right",
+    "_parentId": "5943ec46d084d5167a04fe80",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c3ace2f57b173e56cfdaea4e8758cc0ab147a2b0.jpg",
+      "small": "course/en/assets/c3ace2f57b173e56cfdaea4e8758cc0ab147a2b0.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/art-cogs-colorful-colourful-1866468/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5943ec46d084d5167a04fec0",
+    "_layout": "left",
+    "_parentId": "5943ec46d084d5167a04fe81",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready for open standards?",
+    "title": "Are you ready for open standards?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5943ec46d084d5167a04fec1",
+    "_layout": "right",
+    "_parentId": "5943ec46d084d5167a04fe81",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5943ec46d084d5167a04fed9",
+    "_layout": "right",
+    "_parentId": "5943ec46d084d5167a04fe82",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/662c18f82d8a2a46d9c0e783ebc508352e9ff34f.jpg",
+      "small": "course/en/assets/662c18f82d8a2a46d9c0e783ebc508352e9ff34f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=1118698&term=railway\" target=\"_blank\">ilovehz / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5943ec46d084d5167a04fedc",
+    "_layout": "left",
+    "_parentId": "5943ec46d084d5167a04fe83",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
+      "small": "course/en/assets/c9e5a7726f99bdb20ef3e3e96449bb613a982ae8.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=144334663&src=lb-36497927\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5943ec46d084d5167a04fee4",
+    "_layout": "right",
+    "_parentId": "5943ec46d084d5167a04fe85",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/60460faba5954eed63e91fdfcc51e2abb1ed200b.jpg",
+      "small": "course/en/assets/60460faba5954eed63e91fdfcc51e2abb1ed200b.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5943ec47d084d5167a04fee8",
+    "_layout": "right",
+    "_parentId": "5943ec46d084d5167a04fe86",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5943ec46d084d5167a04fe8e",
+    "_layout": "right",
+    "_parentId": "5943ec45d084d5167a04fe7c",
+    "_type": "component",
+    "body": "<p>If open data is <strong>data</strong> that anyone can&nbsp;<strong>access</strong>,&nbsp;<strong>use</strong>&nbsp;and&nbsp;<strong>share</strong>, then logically an open standard is a&nbsp;<strong>standard&nbsp;</strong>that anyone can&nbsp;<strong>access</strong>,&nbsp;<strong>use</strong>&nbsp;and&nbsp;<strong>share</strong>?&nbsp;</p><p>This should be correct however the application of open to standards has also been applied to mean that the development of the standard in the first place is open and collaborative. Others, such as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/World_Wide_Web_Consortium\" title=\"World Wide Web Consortium\">World Wide Web Consortium</a>&nbsp;(W3C) classify open standards as those which can be adopted without payment of royalty fees. While other standards bodies, such as&nbsp;&nbsp;<a href=\"https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force\" title=\"Internet Engineering Task Force\">Internet Engineering Task Force</a>&nbsp;(IETF),&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Organization_for_Standardization\" title=\"International Organization for Standardization\">International Organization for Standardization</a>&nbsp;(ISO),&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Electrotechnical_Commission\" title=\"International Electrotechnical Commission\">International Electrotechnical Commission</a>&nbsp;(IEC), and&nbsp;<a href=\"https://en.wikipedia.org/wiki/ITU-T\" title=\"ITU-T\">ITU-T</a>&nbsp;permit the charging of royalty fees.&nbsp;</p><p>The confusing nature of different interpretations means that it can be a very complex. Especially when the standards definitions themselves might be highly copyrighted but still allow for the implementation and broad usage of the standard it defines.&nbsp;</p>",
+    "displayTitle": "What is an open standard?",
+    "title": "What is an open standard?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5943f36cd084d5167a04fef0",
+    "_layout": "right",
+    "_parentId": "5943f36cd084d5167a04feef",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/662c18f82d8a2a46d9c0e783ebc508352e9ff34f.jpg",
+      "small": "course/en/assets/662c18f82d8a2a46d9c0e783ebc508352e9ff34f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=1118698&term=railway\" target=\"_blank\">ilovehz / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5943f36cd084d5167a04fef3",
+    "_layout": "left",
+    "_parentId": "5943f36cd084d5167a04feef",
+    "_type": "component",
+    "body": "<p>Standards enable the exchange and interaction with multiple systems. For example a standard guage railway is 4 ft 8&frac12; inches wide and allows for trains to travel huge distances without their wheels having to be re-spaced for each providers line.&nbsp;</p><p>Standards are critical to ensure one thing is compatible with another no matter where in the world that thing is. They mean that planes can be refuelled at any airport, DVDs read on any DVD player and documents can be opened on any PC. However it is this last one that is not always true as you may require a very specific piece of software from one manufacturer to open that document, thus in some cases not all computer formats or standards are open. First then, let&#39;s take a look at what open standards are and start to discover why this might be.</p><p>&nbsp;</p>",
+    "displayTitle": "What is a standard and why do we need them?",
+    "title": "What is a standard and why do we need them?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5943ec46d084d5167a04fe8f",
+    "_layout": "full",
+    "_parentId": "5943ec46d084d5167a04fe7d",
+    "_type": "component",
+    "body": "<p>There are many types of open standard, explore some of them below:</p>",
+    "displayTitle": "The types of open standard",
+    "title": "The types of open standard",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Open formats",
+        "body": "<p>An <strong>open format</strong>&nbsp;is a file format for storing digital data, defined by a published specification usually maintained by a standards organisation, and which can be used and implemented by anyone.</p><p>An open format can be implemented by both proprietary and free and open source software, using the typical software licenses used by each.</p><p>In contrast to open formats, closed formats are considered trade secrets and cannot be implemented by anyone.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/33b76c4dfe290d32014380f8a22b8918ba550bb9.jpg",
+          "alt": "",
+          "attribution": "<a href=\"www.shutterstock.com/pic.mhtml?id=205002868&src=id\" target=\"_blank\">Blan-k</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Open formats"
+      },
+      {
+        "title": "Open data schema",
+        "body": "<p>The term <strong>data schema</strong>&nbsp;refers to the organisation of data as a blueprint of how the&nbsp;data is constructed and organised. A&nbsp;schema may also define a number of formula or integrity constraints imposed on the data.&nbsp;</p><p>An open schema allows others to use this blueprint to create their own data which may then be easy combined and analysed.&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/9f925128ca30dec28891ea6f95bdae4390b27131.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/computer-code-html-on-monitor-119236978\" target=\"_blank\">spaxiax</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Open data schema"
+      },
+      {
+        "title": "Open identifiers",
+        "body": "<p><strong>Identifiers</strong> are at the heart of how data can be effectively published, retrieved, reused and linked.</p><p>They cover everything from postcodes and country codes to company numbers and ISBNs for books.&nbsp;</p><p>Open identifiers are those which anyone can use in their own data in order to ensure data can be reused and linked to other data.&nbsp;</p><p>Data increases in value the more it is connected, so open identifiers are critical to ensure such value can be maximised without restrictive licensing getting in the way.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Open identifiers"
+      },
+      {
+        "title": "Open interfaces",
+        "body": "<p>An <strong>open interface</strong> is one to which any device can be connected without restriction.</p><p>Within our own homes we have plug sockets and lighting circuits which can connect to any number of devices and there are international standards related to everything from wiring colours to current.&nbsp;</p><p>In the world of data, an open interface (or public API) is an interface which does the same for machines. It allows anyone to interface with a data endpoint or machine interface without restriction.&nbsp;</p><p>Currently the internet of things has many competing and proprietary standards meaning that not all smart light bulbs can interface with every smart switch, which is not so smart really.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2f02baa67a4f8276891c6dd8549dc00678e3abf3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business Transparent image\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Open interfaces"
+      }
+    ]
+  },
+  {
+    "_id": "5943fc1ed084d5167a04ff1d",
+    "_layout": "left",
+    "_parentId": "5943ec46d084d5167a04fe80",
+    "_type": "component",
+    "body": "<p>Without open standards, you might not have open data.</p><p>For example, data that is only made available in a closed format cannot be said to be open as only those who have access to the format specification can manipulate (i.e. use) the data. Additionally while the data might be open, if the schema is not open then it may be impossible to interpret the data and if the data is changed then you may invalidate the terms of use of that schema, e.g. by using it on your own data. Likewise for identifiers, some data cannot be made open as the identifiers are not licenced openly and this has profound knock on effects when we are not allowed to identify things in the public sector, like <a href=\"https://theodi.org/blog/when-data-is-free-but-not-open\" target=\"_blank\">addresses</a>. Finally, without open interfaces, the access to data might be restricted, stopping the integration with key services. Imagine if you had to have a different size power plug for everything in your house because there was no open standard interface?&nbsp;</p><p>Open data and open standards go hand in hand and ensure that value can be maximised for all. They provide a level playing field on which everyone can build for everyones benefit.&nbsp;</p>",
+    "displayTitle": "Open data and open standards",
+    "title": "Open data and open standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "594bc12ad084d5167a0500aa",
+    "_layout": "left",
+    "_parentId": "5943ec46d084d5167a04fe82",
+    "_type": "component",
+    "body": "<p><strong>Standards are useful because...</strong></p>",
+    "displayTitle": "Why do we need standards?",
+    "title": "Q: Why do we need standards?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "they ensure compatibility",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "railway gauges are standardised at 4 ft 8.5 inches",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "you need specific standardised software ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Standards are critical to ensure one thing is compatible with another no matter where in the world that thing is. They mean that planes can be refuelled at any airport, DVDs read on any DVD player and documents can be opened on any PC.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Standards are critical to ensure one thing is compatible with another no matter where in the world that thing is. They mean that planes can be refuelled at any airport, DVDs read on any DVD player and documents can be opened on any PC.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "594bc3e9d084d5167a0500ac",
+    "_layout": "left",
+    "_parentId": "5943ec46d084d5167a04fe85",
+    "_type": "component",
+    "body": "<p><strong>In this module we explored four types of open standards, but why are they beneficial?</strong></p>",
+    "displayTitle": "Types of open standards",
+    "title": "Q: Types of open standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Match each heading to its benefit, then click 'Submit'.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Open formats",
+        "_options": [
+          {
+            "text": "can be used and implemented by anyone without the need for specific software",
+            "_isCorrect": true
+          },
+          {
+            "text": "reduce the risk of malware and computer viruses.",
+            "_isCorrect": false
+          },
+          {
+            "text": "make higher profit margins for their developers.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Open data schema",
+        "_options": [
+          {
+            "text": "ensure maximum compatibility as data is collected following the same structure.",
+            "_isCorrect": true
+          },
+          {
+            "text": "enables anyone to open the file format.",
+            "_isCorrect": false
+          },
+          {
+            "text": "makes the data good quality",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Open identifiers",
+        "_options": [
+          {
+            "text": "increases the value of data through linking to other datasets",
+            "_isCorrect": true
+          },
+          {
+            "text": "include ISBNs and postcodes.",
+            "_isCorrect": false
+          },
+          {
+            "text": "help users add context to data",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Open interfaces",
+        "_options": [
+          {
+            "text": "encourages competing and proprietary standards",
+            "_isCorrect": false
+          },
+          {
+            "text": "allows anyone to interact with a data endpoint or interface without restriction.",
+            "_isCorrect": true
+          },
+          {
+            "text": "facilitates data analysis",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right</strong></p><p>Open formats can be used and implemented by anyone without the need for specific software.</p><p>Open data schema ensure maximum compatibility was data is collected following&nbsp;the same structure or blueprint.</p><p>Open identifiers&nbsp;increase the value of data through linking to other datasets.</p><p>Open interfaces allows anyone to interact with a data endpoint or interface without restriction.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open formats can be used and implemented by anyone without the need for specific software.</p><p>Open data schema ensure maximum compatibility was data is collected following&nbsp;the same structure or blueprint.</p><p>Open identifiers&nbsp;increase the value of data through linking to other datasets.</p><p>Open interfaces allows anyone to interact with a data endpoint or interface without restriction.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5943ec47d084d5167a04feed",
+    "_layout": "left",
+    "_parentId": "5943ec46d084d5167a04fe86",
+    "_type": "component",
+    "body": "<p>Open data and open standards are very closely related, both in definition and application.</p><p>Closed and proprietary formats, schemas, identifiers and interfaces reduce use and compatibility with other data. This results in data being of less value than it otherwise would be.</p><p>Open data and open standards go hand in hand and ensure that value can be maximised for all. They provide a level playing field on which everyone can build for the benefit of all.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "594bc2bad084d5167a0500ab",
+    "_layout": "right",
+    "_parentId": "5943ec46d084d5167a04fe83",
+    "_type": "component",
+    "body": "<p><strong>An open standard should be...</strong></p>",
+    "displayTitle": "What is an open standard?",
+    "title": "Q: What is an open standard?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select two answers, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "available for anyone to implement and use.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "regulated by an industry body.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "built collaboratively.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "paid for by users.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Whilst there are a few different definitions of an open standard, it should be built collaboratively and be made available for anyone to implement and use.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Whilst there are a few different definitions of an open standard, it should be built collaboratively and be made available for anyone to implement and use.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fb54d7d084d5167a04dcb4",
+    "_layout": "right",
+    "_parentId": "58fb54d7d084d5167a04dcb3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  }
+]

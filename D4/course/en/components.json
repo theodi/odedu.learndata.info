@@ -1,0 +1,735 @@
+[
+  {
+    "_id": "59550470d084d5167a0509a7",
+    "_layout": "right",
+    "_parentId": "5955046fd084d5167a050937",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "small": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509a8",
+    "_layout": "left",
+    "_parentId": "5955046fd084d5167a050937",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance them; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;By the end of the module, you&#39;ll have a good understanding of the issues around digital mapping, and&nbsp;skills&nbsp;that can be used in your own work.</p><p>The module explores:</p><ul><li>Introduction to digital maps</li><li>Benefits of open mapping</li><li>How to describe something on a map</li><li>Formats and standards</li><li>Practical mapping with CartoDB</li></ul>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59550470d084d5167a0509a9",
+    "_layout": "left",
+    "_parentId": "5955046fd084d5167a050938",
+    "_type": "component",
+    "body": "<p>Digital maps and the associated Geographic Information Systems (GIS) enable us to easily capture, manipulate, analyse and present spatial and geographic data.&nbsp;</p><p>Geographic data here refers to any data that has an implicit or explicit association with a location. Typically, this covers a wide range of&nbsp;data, including positional data (e.g. locations of schools), boundary data (e.g. regions of Tanzania) and elevation data (e.g. the height of Kilimanjaro).&nbsp;</p><p>Maps have for centuries been critical to helping us to understand where we are and what is around us. Digital maps go beyond this and allow us to create new data visualisations for any dataset that has a geographic connection.&nbsp;</p>",
+    "displayTitle": "Introduction to digital mapping",
+    "title": "Introduction to digital mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59550470d084d5167a0509aa",
+    "_layout": "right",
+    "_parentId": "5955046fd084d5167a050938",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509ab",
+    "_layout": "full",
+    "_parentId": "5955046fd084d5167a05093a",
+    "_type": "component",
+    "body": "<p>Open digital mapping platforms enable anyone to make their own maps.&nbsp;Ramani Huria is a community-based mapping project that began in Dar es Salaam. Its initial&nbsp;aim is to&nbsp;create highly accurate maps of the most flood-prone areas of the city. As the maps have taken shape, their benefits have multiplied and their potential magnified. They now serve as foundational tools for development within all socio-economic spheres beyond flood resilience.&nbsp;</p>",
+    "displayTitle": "Community mapping for flood resilience and development",
+    "title": "Community mapping for flood resilience and development",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Watch the video to find out more about the Ramani Huria project.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=7Pa0wgMstE8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509ac",
+    "_layout": "left",
+    "_parentId": "5955046fd084d5167a050939",
+    "_type": "component",
+    "body": "<p>Ramani Huria is an excellent case study in the benefits open mapping can have. The key to the success and multiplied benefits from the project all stem from the completely open approach taken.</p><p>From the choice of mapping platform to the community engagement and crowd sourcing, the project ensured that&nbsp;all data remained open and that the process of collecting it was open.&nbsp;</p><p>OpenStreetMap is a free, editable map of the world that is being built by volunteers largely from scratch and released with an open content license. This is a significantly different model to most mapping providers who guard their maps and charge for access and do not allow any edits. In countries such as Tanzania, OpenStreetMap allows&nbsp;incredibly rich maps to be created, which open up the data, so others can innovate.&nbsp;</p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59550470d084d5167a0509ad",
+    "_layout": "right",
+    "_parentId": "5955046fd084d5167a050939",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "small": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">OpenStreetMap</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509b3",
+    "_layout": "full",
+    "_parentId": "59550470d084d5167a05093b",
+    "_type": "component",
+    "body": "<p>There are many parts to a map and&nbsp;cartography can become an art. This section briefly looks at the many layers of a map.</p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Points",
+        "body": "<p>Points help you precisely locate something on a map, for example, a person or a place.&nbsp;</p><p>Often these are used to mark the middle of an object that might often be better represented by another map feature, such as a line or polygon.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Points"
+      },
+      {
+        "title": "Lines",
+        "body": "<p>Lines represent the shape and location of geographic objects, such as street centre&nbsp;lines, rivers or ferry routes.</p><p>Lines are also used to represent features that have length but no area, such as contour lines and boundaries.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/cc0743d56044f6e585a51f71e14e270e49ecf74e.png",
+          "alt": "",
+          "attribution": "<a href=\"http://ansoncfit.com\" target=\"_blank\">http://ansoncfit.com</a> <span class='assetLicence'>[CC-BY-NC-SA]</span>"
+        },
+        "strapline": "Lines"
+      },
+      {
+        "title": "Polygons",
+        "body": "<p>Polygons are complete shapes that represent a feature such as regions (as shown here) or buildings.</p><p>They can also be used to represent land-use or even soil type.&nbsp;</p><p>Using GIS software, you can automatically calculate which points are in which polygon. This is often used to shade areas on a map dependant on the data collected from many points, e.g. the performance of schools in a region.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+          "alt": "",
+          "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Polygons"
+      },
+      {
+        "title": "Bringing it all together",
+        "body": "<p>Bringing all these features together allows us to create powerful maps that accurately show the layout and features of a huge area.</p><p>The example here of the centre of Dar Es Salaam is one of the most comprehensive examples in the world. This data was gathered as part of the&nbsp;Ramani Huria project and shows roads (lines), buildings (polygons), building use (points) and annotations that describe each point.</p>",
+        "_graphic": {
+          "src": "course/en/assets/168853c0a47147e13d2dc80a40342372a4a63874.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.openstreetmap.org/#map=19/-6.80164/39.25077\" target=\"_blank\">Open Street Map contributors</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Bringing it all together"
+      }
+    ]
+  },
+  {
+    "_id": "59550470d084d5167a0509b4",
+    "_layout": "left",
+    "_parentId": "59550470d084d5167a05093f",
+    "_type": "component",
+    "body": "<p>There are a number of different data formats and standards used to represent mapping data. It is important to understand that all of the different data formats rely on one or more standard ways of representing a simple location (or point). Putting many points together enables&nbsp;lines and polygons to be drawn. &nbsp;</p><p>Explore the different aspects below:</p>",
+    "displayTitle": "Formats and standards",
+    "title": "Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "A standard way to represent a location",
+        "body": "<p>The globally recognised way to represent a location of something is via the Global Positioning Satellite (GPS) system. Devices that use this system typically give location in terms of two X-Y co-ordinates on a map.&nbsp;</p><p>There are however many different X-Y standards including longitude/latitude and easting/northing.&nbsp;</p><p>You will have to be very careful when processing and combining&nbsp;mapping data to ensure that all data is using the same co-ordinates system.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Common data formats",
+        "body": "<p>Representing simple point data (using one X-Y co-ordinate) can be done in a multitude of formats, including&nbsp;spreadsheets.&nbsp;</p><p>However, when it comes to more complex data, such as lines and polygons, there are many other formats more suited to the purpose including <a href=\"https://en.wikipedia.org/wiki/Keyhole_Markup_Language\" target=\"_blank\">KML</a>, <a href=\"https://en.wikipedia.org/wiki/GeoJSON\" target=\"_blank\">GeoJSON</a> and <a href=\"https://en.wikipedia.org/wiki/Shapefile\" target=\"_blank\">GIS Shapefiles</a> (as used by the Ministry of Statistics in Tanzania).&nbsp;</p><p>As with data formats, not all geographic data formats are open and easily usable by all tools. It may be necessary to use a tool such as <a href=\"http://www.mapsdata.co.uk/online-file-converter/\" target=\"_blank\">maps data</a>&nbsp;to convert between the different formats.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59550470d084d5167a0509b5",
+    "_layout": "right",
+    "_parentId": "59550470d084d5167a050940",
+    "_type": "component",
+    "body": "<p><a href=\"http://cartodb.com/\" target=\"_blank\">CartoDB</a>&nbsp;is a very popular online tool for creating geographic visualisations on maps. It has simple wizards to help you get started but also allows you to expose the code and customise your GIS queries to take complete control. CartoDB can also merge and boundary-locate geographic data without you having to write complex GIS queries yourself.</p><p>Several exercises have been developed to help you explore the features of CartoDB</p>",
+    "displayTitle": "Practical mapping with CartoDB",
+    "title": "Practical mapping with CartoDB",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore the exercises below",
+    "_items": [
+      {
+        "title": "Population and education in Tanzania",
+        "body": "<p>This exercise focuses on plotting population statistics for the different districts in Tanzania. This is then combined with the educational attainment of each district.</p><p>You will need the following datasets for this exercise:</p><p><strong>Tanzania district boundaries</strong></p><p>Official boundary files for Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_regions.kml\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbstz/index.php/english/statistics-by-subject/population-and-housing-census/258-2012-phc-shapefiles-level-one-and-two\" target=\"_blank\">View source</a></p><p><strong>Tanzania population data</strong></p><p>Official statistics on Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_population.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbs/takwimu/references/Tanzania_in_Figures_2015.pdf\" target=\"_blank\">View source</a></p><p><strong>Tanzania education data</strong></p><p>Performance of schools with 40 or more pupils across Tanzania</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/BRN2015_RANKING_40_AND_MORE-PIVOT.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.necta.go.tz/brn2015/\" target=\"_blank\">View source</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzania.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Water points in Tanzania",
+        "body": "<p>This exercise focuses on plotting simple point-based data on a map. It focusses on combining many aspects to indicate the type of water supply and the quality of the water.</p><p>You will need the following datasets for this exercise:</p><p><strong>Water points in Tanzania (July 2015)</strong></p><p>Open data from the Tanzania Open Data portal.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/allwaterpointsjuly2015-cleaned.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://opendata.go.tz/dataset/water-dashboard/resource/58edfa63-b329-45b5-b17f-27603420cd10\" target=\"_blank\">View source</a></p><p><strong>Icon set for map</strong></p><p>A small icon set to use with the map.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/map_icons.zip\" target=\"_blank\">Download</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzaniawateredition.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59550470d084d5167a0509b6",
+    "_layout": "left",
+    "_parentId": "59550470d084d5167a050940",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "small": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "attribution": "<a href=\"http://opendata.go.tz/en/indicator/2cb7fed8-4af4-11e5-a53c-0e9d821ea90d\" target=\"_blank\">Tanzania government open data portal</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509ba",
+    "_layout": "left",
+    "_parentId": "59550470d084d5167a050944",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " Are you ready to map open data?",
+    "title": " Are you ready to map open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59550470d084d5167a0509bb",
+    "_layout": "right",
+    "_parentId": "59550470d084d5167a050945",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "small": "course/en/assets/add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">OpenStreetMap</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509bc",
+    "_layout": "left",
+    "_parentId": "59550470d084d5167a050946",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "small": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509bd",
+    "_layout": "right",
+    "_parentId": "59550470d084d5167a050946",
+    "_type": "component",
+    "body": "<p><strong>What kind of data would you represent with polygons?</strong></p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Complete shapes, such as regions or buildings",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Street centres, rivers or ferry routes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Exact coordinates of places of interest",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509be",
+    "_layout": "right",
+    "_parentId": "59550470d084d5167a050947",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "small": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509bf",
+    "_layout": "left",
+    "_parentId": "59550470d084d5167a050947",
+    "_type": "component",
+    "body": "<p><strong>When mapping location data, you should be aware that...</strong></p>",
+    "displayTitle": "Formats and standards",
+    "title": "Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "there are many different standards for describing location",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "you can ensure maximum media coverage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "all mapping data is standardised and ready to use",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map&nbsp;but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map, but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509c0",
+    "_layout": "left",
+    "_parentId": "59550470d084d5167a050945",
+    "_type": "component",
+    "body": "<p>What is the benefit of mapping data openly?</p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Only your organisation gets the value from the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Anyone can innovate with your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Google maps will benefit from your data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509c1",
+    "_layout": "right",
+    "_parentId": "59550470d084d5167a050944",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509c2",
+    "_layout": "right",
+    "_parentId": "59550470d084d5167a05093f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "small": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509c3",
+    "_layout": "left",
+    "_parentId": "59550470d084d5167a050948",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance maps; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;</p><p>In this module, we have explored the benefits of open mapping,&nbsp;how to describe something on a map and common formats and structures.</p>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59550470d084d5167a0509c4",
+    "_layout": "right",
+    "_parentId": "59550470d084d5167a050948",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  }
+]

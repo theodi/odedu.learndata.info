@@ -1,0 +1,77 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/e81e135ab313f9a43ebce7998963508d6c7af5cf.png"
+    },
+    "_id": "58f8b19ed084d5167a04d887",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Not all data is open and nor should be. It can be useful to think of data as a spectrum,&nbsp;from closed, to shared, to open. In this module we explore these three types of data.</p>",
+    "displayTitle": "The Data Spectrum",
+    "title": "The Data Spectrum",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/cc7d67e7cbd683ea7f97e672a156879ae95b7eba.jpg"
+    },
+    "_id": "58fa0eb3d084d5167a04dbf9",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail provides an opportunity to help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module we will look broadly at what data annotation is and how it can be applied to many types of data and datasets.</p>",
+    "displayTitle": "Annotating and describing data",
+    "title": "Annotating and describing data",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6390ca99e74ee881fc1042c7a43913d91caed010.jpg"
+    },
+    "_id": "5943ec45d084d5167a04fe76",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Open data and open standards are very closely related, both in definition and application. This module examines what open standards are and why they are important for open data.</p>",
+    "displayTitle": "Open data and open standards",
+    "title": "Open data and open standards",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    }
+  }
+]

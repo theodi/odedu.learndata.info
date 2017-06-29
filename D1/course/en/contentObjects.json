@@ -1,0 +1,465 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050572",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits. This module explores what makes data open and why we need it.</p>",
+    "displayTitle": "What is open data?",
+    "title": "What is open data?",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain the need for open data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050577",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p>",
+    "displayTitle": "Unlocking value from open data",
+    "title": "Unlocking value from open data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the benefits of working with open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Describe successful case studies of using and publishing open data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
+    },
+    "_id": "5954ee6ed084d5167a050573",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The most successful open data initiatives share similar characteristics. Understanding these approaches can help those wishing to unlock the value of open data for themselves. In this module we explore how open data can act as an agent of change and the role of leadership in new markets.&nbsp;</p>",
+    "displayTitle": "Open data: agent of change",
+    "title": "Open data: agent of change",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the importance of organisational change to an open data iniative",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Define key aspects of open data leadership",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1680b7a53f513d6f310f30526da1991df11850a5.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050574",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>For data to be open, it should be accessible (this usually means being published online) and licensed for anyone to access, use and share. In this module we explore why open data needs to be licensed, how licences unlock the value of open data and what type of licence suits open data.</p>",
+    "displayTitle": "Why do we need to license?",
+    "title": "Why do we need to license?",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe how copyright and licensing relate to open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Identify instances of open licenses and effective application",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050575",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Assessing how usable open data is is not something that can be done quickly.</p><p>There are a number of community-based standards and quality marques that can help you assess the usability of data.</p><p>In this module we explore what makes data usable, how standards help increase the usability of data and the marques of quality that can help.</p>",
+    "displayTitle": "What makes quality open data",
+    "title": "What makes quality open data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define the benefits of quality open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Describe two guidelines for open data quality",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050576",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Successful open data initiatives do more than simply put data on the web. The most data-savvy organisations also put in place frameworks and policies to support and incentivise innovation. Open data communities need to be built and success stories communicated. Together, these will help more people understand the benefits of open data.</p>",
+    "displayTitle": "Measuring success for open data ",
+    "title": "Measuring success for open data ",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Evaluate the success of open data projects and communities",
+          "credits": 10,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050571",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Open data must be relevant, up-to-date and accessible in order to be useful. Together, these qualities help make a dataset sustainable. A sustainable programme is one that continues to regularly release data with at least the same or improving quality and quantity. In this module we explore how to make sense of sustainability, why sustainability matters and what to look for in sustainable open datasets.</p>",
+    "displayTitle": "Why should we worry about sustainability?",
+    "title": "Why should we worry about sustainability?",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe key success factors for open data sustainability",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Evaluate sustainability for an open dataset",
+          "credits": 10,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1497c2f21a066474c61b08652c841ee6768bfea3.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050578",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>A platform is a major piece of software on which smaller pieces of software and content can be run. For open data, the largest platform is the web. However, lots of other purpose-built software helps simplify publishing open data and provides interactive tools for users to explore. This module looks at how to recognise&nbsp;open data platforms,&nbsp;their importance to users and how to use&nbsp;platforms to explore data.</p>",
+    "displayTitle": "Getting to grips with platforms",
+    "title": "Getting to grips with platforms",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "List a number of open data platforms to explore data",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Examine the benefits and drawbacks of publishing data on different open data platforms",
+          "credits": 10,
+          "level": "practitioner"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg"
+    },
+    "_id": "5954ee6ed084d5167a050579",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The format of an open dataset is the way the data is structured and made available for humans and machines.</p><p>Choosing the right format enables simpler management and reuse of the data. To maximise reuse of the data, it may be necessary for a publisher to use a number of formats and structures available across different platforms that suit a user&rsquo;s needs.</p>",
+    "displayTitle": "Choosing the right format for open data",
+    "title": "Choosing the right format for open data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Identify characteristics of different data formats",
+          "credits": 10,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "List criteria for choosing the right data format",
+          "credits": 5,
+          "level": "practitioner"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/fc2d8d76d6b6a31465bd431007605579174b6e34.jpg"
+    },
+    "_id": "5954ee6ed084d5167a05057a",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Assessing how useful open data is can vary depending on the domain and the content. To assist this process, there are a number of best practice guidelines publishers and users can follow.</p><p>In this module we look at the 5-Stars of linked open data and discover how this can be used to measure the technical usability of data.</p>",
+    "displayTitle": "How useful is my data?",
+    "title": "How useful is my data?",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "List the first three stars of open data",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Understand how to apply the first three stars to a dataset",
+          "credits": 10,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg"
+    },
+    "_id": "5954ee6ed084d5167a05057b",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>One of the biggest challenges when working with any data is errors. Often errors are not even noticed by data publishers because the data can change over many years. In other cases, errors can be the result of human mistakes in data entry, like mistyping or incorrect abbreviations.</p><p>When working with any data, it is important to know how to find errors and correct them to make the data more useful.</p>",
+    "displayTitle": "How to clean your data",
+    "title": "How to clean your data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Clean a dataset",
+          "credits": 10,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Validate data to assess usability",
+          "credits": 5,
+          "level": "practitioner"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/52eb40b636463e780cd9ec9f63f3f19467c819d8.jpg"
+    },
+    "_id": "5954ee6ed084d5167a05057c",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>&lsquo;Open data&rsquo; does not only mean datasets available to download. Downloadable open data represents only a small fraction of the available data on the web.</p><p>The majority of data available on the web is hidden from the human eye. However, machines can find and read this data. In this module we look at techniques to unlock hidden data.</p>",
+    "displayTitle": "Finding hidden data on the Web",
+    "title": "Finding hidden data on the Web",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Identify a number of data sources on the web",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Unlock data that is hidden in the web",
+          "credits": 10,
+          "level": "practitioner"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/bf6698b3ed0b1afeedcf3a4a1bfbc046d987c154.jpg"
+    },
+    "_id": "5954ee6ed084d5167a05057d",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The current web is configured as a series of pages or &lsquo;documents&rsquo;. While these documents draw on rich sources of data, they disguise it beneath pages designed for humans to view. In this module, we explore what would happen if all the pages or documents were removed from the web.</p><p>Imagine you only had the raw data, all open, all usable and all linked together in a network or &#39;web&#39; of data.</p><p>This module also introduces the web of open linked data and look at how the 5-stars of linked open data provide a roadmap for achieving this vision.</p>",
+    "displayTitle": "Linking up the web of data",
+    "title": "Linking up the web of data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the importance of persistent identifiers for data",
+          "credits": 10,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Define linked open data",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

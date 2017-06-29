@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "59550775d084d5167a050bb7",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Opening data can be a valuable activity for any organisation. Whether to drive innovation in the business, develop a clearer picture of operations or improve products and services, a growing number of private and public sector organisations now benefit from publishing and using open data.</p><p dir=\"ltr\">This module will prepare you to deliver a tailored pitch for open data that highlights value and addresses risks.</p>",
+    "displayTitle": "Pitching for open data",
+    "title": "Pitching for open data",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Structure an elevator pitch for an open data business",
+          "credits": 10,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe how to tailor an open data pitch to different audiences",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    }
+  }
+]
