@@ -1,0 +1,1864 @@
+[
+  {
+    "_id": "5954d8efd084d5167a0500ed",
+    "_layout": "right",
+    "_parentId": "5954d8efd084d5167a0500ec",
+    "_type": "component",
+    "body": "<p>Given a point on a map, which enrichment technique would you use to find which district the point is within?</p>",
+    "displayTitle": "Match the need to the method",
+    "title": "Match the need to the method",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Feature extraction",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Derivation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Spatial join",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Entity recognition",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A spatial join can be useful when looking at features of different buildings or services and mapping them on to jurisdiction region to see if any patterns emerge.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A spatial join can be useful when looking at features of different buildings or services and mapping them on to jurisdiction region to see if any patterns emerge.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da8b",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da4b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da90",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da7a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da9a",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da7b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04daa7",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da7c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dabc",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da55",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Open data business models",
+    "title": "Open data business models",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5954d8efd084d5167a0500ee",
+    "_layout": "left",
+    "_parentId": "5954d8efd084d5167a0500ec",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "small": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da88",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da5d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "small": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da8c",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da4b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da8d",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da7a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da8e",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da53",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da96",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da84",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da97",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da46",
+    "_type": "component",
+    "body": "<p>Here are some questions to test what you&#39;ve learnt.</p>\n",
+    "displayTitle": " Are you ready to build an open data business model?",
+    "title": " Are you ready to build an open data business model?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da98",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da7b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da9b",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da4a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to open up research data?",
+    "title": "Are you ready to open up research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04daa4",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da50",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9004395a0af7c84e67b9f3b994f082e2bdf66cf8.png",
+      "small": "course/en/assets/9004395a0af7c84e67b9f3b994f082e2bdf66cf8.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04daa5",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da51",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "small": "course/en/assets/d0bbb7bab4bd1d32d12fe184245de0469eb663c7.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04daa6",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da55",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dab3",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da54",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "small": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dab4",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da3e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dab8",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da4a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dadc",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da5c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dade",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da5c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dae4",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da7c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dae7",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da46",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04daed",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da3c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/724008f00c16619da741356bc607b081fcb67264.png",
+      "small": "course/en/assets/724008f00c16619da741356bc607b081fcb67264.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-189810137.html\" target=\"_blank\">Kritchanut</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04daf5",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da3c",
+    "_type": "component",
+    "body": "<p>The sharing of scientific research has long been an establish process dating back to the 1660s with the establishment of the Royal Society in England. The publication of journal papers allowed scientists to lay claim to their discoveries while sharing findings with others.&nbsp;</p><p>Centuries later, our ability to share outputs now reaches far beyond just the publication, into the data collected as part of the research process.&nbsp;</p><p>This module looks at:</p><ul><li>What is research data and why make it open?</li><li>Where does&nbsp;research data fit?</li><li>The benefits of opening research data</li><li>The support for open research data</li></ul>",
+    "displayTitle": "Why open research data?",
+    "title": "Why open research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04daf6",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da78",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "small": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04daf7",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da7d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/224c3fcd6e754987f512ffb3ba1966c79c27d9a3.jpg",
+      "small": "course/en/assets/224c3fcd6e754987f512ffb3ba1966c79c27d9a3.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04daf8",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da7d",
+    "_type": "component",
+    "body": "<p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to <strong>validate research findings</strong>.&nbsp;</p><p>It is important to think carefully about this definition and not simply get caught up in publishing all research data; a practice that might lead to confusion. The publication of research data requires careful curation, much like a scientific publication. While the publication should be a careful and concise&nbsp;record of the findings, the data should match this concise record and enable others to combine the research method with the data to validate the findings.&nbsp;</p><p>Although not all material will be digital in existence, for the purposes of this module we are going to look solely at data that does exist in digital form.&nbsp;</p><p>&nbsp;</p>",
+    "displayTitle": "What is research data?",
+    "title": "What is research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04daf9",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da78",
+    "_type": "component",
+    "body": "<p>With the main purpose of opening research data being to validate research findings it is important to think carefully about where research data fits in the scholarly publication process. There are many aspects of the process, especially when involving digital tools.</p>",
+    "displayTitle": "Where does research data fit?",
+    "title": "Where does research data fit?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Scholarly publication",
+        "body": "<p>Any published research data should be carefully linked to the research findings.&nbsp;</p><p>Putting together a research publication takes time and you should consider at each stage if there is any additional material required to enable the validation of the research.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Research process",
+        "body": "<p>Although the research methodology should be outlined clearly in the scholarly publication, the concise nature of the publication does not always allow for the full expression of the process.</p><p>Services such as <a href=\"https://www.myexperiment.org/about\" target=\"_blank\">MyExperiment</a>&nbsp;provide&nbsp;a collaborative environment where scientists can safely publish their workflows and&nbsp;<em>in silico</em>&nbsp;experiments. This enables others to view and follow the research process more clearly.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data",
+        "body": "<p>With the process outlined, it is important to try and give access to the relevant data to others.&nbsp;</p><p>If the research has sourced open data then this should be linked to and any specifics over access outlined. If the source data is not open then it will be necessary to carefully check your rights to publish the data for others to use it.&nbsp;</p><p>If you have created the data yourself then you, or your institution, own the data. This means you are free to chose how to publish the data.</p><p>It is recommended that data you own is published under an open licence which required attribution. This way much like citation, you can see who is building upon your data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open source",
+        "body": "<p>Alongside the research data you may used or created tools to process the data. Alternatively you might have used algorithms or processes within tools such as matlab.&nbsp;</p><p>It is important to consider how to share these tools as openly as possible as they may be a necessary and indeed core part of the material required to verify your research results.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dafa",
+    "_layout": "full",
+    "_parentId": "58f8b1b4d084d5167a04da49",
+    "_type": "component",
+    "body": "<p>Other than making research verifiable there are a number of other benefits to be gained from opening up research data.&nbsp;</p>",
+    "displayTitle": "The benefits of opening up research data",
+    "title": "The benefits of opening up research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Enable reuse",
+        "body": "<p>Another key aspect in scientific research is the ability to build upon the research of others, be it in the same domain or a different one.&nbsp;</p><p>The expression&nbsp;<em>&#39;standing on the shoulders of giants&#39;&nbsp;</em>is commonly used within science to express the desire to&nbsp;<em>&#39;discover truth by building on previous discoveries&#39;</em>.&nbsp;</p><p>All researchers build on the research of others, so having data that can be used or bought up to date can save a lot of time vs re-collecting from scratch.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/46876a953db93061532ac45990d1a554be973920.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Enable reuse"
+      },
+      {
+        "title": "Increase citation",
+        "body": "<p>Citation is a key indicator of impact in science and open practices have been shown to increase citation.&nbsp;</p><p>Studies have found that citation advantage can be gained through a combination of:</p><ul><li><a href=\"http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040157&amp;imageURI=info:doi/10.1371/journal.pbio.0040157.t003\" target=\"_blank\">Open access publication</a></li><li><a href=\"https://www.liberquarterly.eu/articles/10.18352/lq.10149/#r26\" target=\"_blank\">Open source code</a></li><li><a href=\"http://doi.org/10.18352/lq.10149\" target=\"_blank\">Open research data</a></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/374e440ba449854466368f44d2391cf75a752a12.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/dan4th/5133979718\" target=\"_blank\">Dan4th Nicholas</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Increase citation"
+      },
+      {
+        "title": "Generate impact",
+        "body": "<p><em><strong>&#39;The initial investment is scientific, but the ultimate return is economic and social&#39;</strong></em></p><p>John Wood, currently the Co-Chair of the global Research Data Alliance (RDA), said that people should&nbsp;&lsquo;plan the harvest&rsquo; for the economic benefits that the significant public investments in data, research and technical infrastructure are bringing.</p><p>Science is not just the study of the world, but also how it can be improved. The benefits of being able to bring the worlds data together as a new scientific resource are not yet being realised due to practices which limit the release of data and then don&#39;t preserve it beyond a <a href=\"http://www.upi.com/Science_News/2013/12/19/80-percent-of-scientific-data-from-publicly-funded-research-is-lost-within-two-decades/8781387477327/#ixzz3PYcUxswu\" target=\"_blank\">few years at best</a>.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Generate impact"
+      }
+    ]
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dafb",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da79",
+    "_type": "component",
+    "body": "<p>The importance of sharing research data has meant that many parties have now put in place policies and mandates that enforce the publication of research data.&nbsp;</p>",
+    "displayTitle": "The support for open research data",
+    "title": "The support for open research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Funder mandates",
+        "body": "<p>Many research funders&nbsp;now require at least a statement in each publication on how and on what terms any underlying data can be accessed by third parties.</p><p>The Digital Curation Center (DCC) provides a great summary of <a href=\"http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies\" target=\"_blank\">funders policy&#39;s</a>&nbsp;including the requirements for long term curation and monitoring.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Institutional policies",
+        "body": "<p>Publishing research data can help increase the reputation of not just the researcher but also the research institution.&nbsp;</p><p>Many institutions have now adopted a research data management policy which is designed to support the publication of research data as a part of normal process.&nbsp;</p><p>Read more about the research data management policies of:</p><ul><li><a href=\"http://researchdata.ox.ac.uk/university-of-oxford-policy-on-the-management-of-research-data-and-records/\" target=\"_blank\">University of Oxford</a></li><li><a href=\"http://www.ed.ac.uk/information-services/research-support/research-data-service\" target=\"_blank\">University of Edinburgh</a></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Journals and publishers",
+        "body": "<p>Many of the biggest journals and publishers now have data sharing requirements that must be met. You can read more about some of these here:</p><ul><li>Science&rsquo;s&nbsp;<a href=\"http://www.sciencemag.org/authors/science-editorial-policies\">Data Deposition Policy</a>. Scroll down to the &ldquo;Data and Materials Availability after Publication&rdquo; section</li><li>SpringerNature&rsquo;s&nbsp;<a href=\"http://www.springernature.com/gp/group/data-policy/\">Data Sharing Policies</a>. Journal example: Nature&rsquo;s policy on&nbsp;<a href=\"http://www.nature.com/authors/policies/availability.html\">Availability of data, materials, and methods</a></li><li>Wiley&rsquo;s<a href=\"https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-and-open-access/open-access/data-sharing.html\">&nbsp;Data Sharing Service</a></li><li>American Geophysical Union&rsquo;s&nbsp;<a href=\"http://publications.agu.org/author-resource-center/publication-policies/data-policy/\">Publication Data Policy</a></li><li>Sage&rsquo;s&nbsp;<a href=\"https://us.sagepub.com/en-us/nam/journal/big-data-society#ARTICLETYPES\">Replication policy</a></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dafc",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da79",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db06",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da50",
+    "_type": "component",
+    "body": "<p><strong>Which of the following are boxes in the business model canvas?</strong></p>\n",
+    "displayTitle": "Building a business model canvas",
+    "title": "Building a business model canvas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select all that apply and then click 'submit'",
+    "_items": [
+      {
+        "text": "Key resources",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Details of your employees",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Customer channels",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Value proposition",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Competing businesses",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Well done!</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db07",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da84",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Existing business models question",
+    "title": "Existing business models question",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Well done!</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db08",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da51",
+    "_type": "component",
+    "body": "<p>Open data is data that anyone can access, use and share. Unlike a traditional business where your resources belong only to you and can be protected, open data can be used by others at the same time. To understand the business models of open data companies, we need to consider the value proposition of open data to a business.</p>",
+    "displayTitle": "Building the value proposition of open",
+    "title": "Building the value proposition of open",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "What is a value proposition?",
+        "body": "<p>The value proposition of a business is&nbsp;the problem(s) that it is&nbsp;solving&nbsp;for its users.</p><p>If your business does&nbsp;not solve&nbsp;a problem for your users, they have no reason to interact with your&nbsp;service or product.</p><p>The value proposition of a business is central to its business model. Without a strong value proposition, a business does not have justification to operate.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Why is the value proposition important?",
+        "body": "<p>The value proposition of a business is central to its business model. Without a strong value proposition, a business does not have justification to operate.</p><p>The value proposition is also the logic on which the rest of the business is based.</p><p>If&nbsp;a business solves a problem for its users&nbsp;and helps them save money or time, there is a reason to charge for this service.</p><p>If&nbsp;a business solves a problem that the users&nbsp;don&#39;t&nbsp;value in monetary terms, that business may need to seek alternative sources of revenue.</p><p>Without a strong value proposition, a business is unlikely to succeed.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "The value proposition of open",
+        "body": "<p>Businesses working in &#39;open&#39; &ndash; whether open source software or open data &ndash; need to consider the value proposition of the open resources they consume.</p><p>This consideration is important when developing a value proposition because using someone else&#39;s data or software in your business changes the problem you solve.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Creating a value proposition for an open data business",
+        "body": "<p>Creating the value proposition for an open data business is different from a traditional business. Where a closed business solves a problem with a solution the customer cannot get anywhere else, an open business uses solutions that are already available in some form elsewhere.</p><p>This means that the value proposition for an open business is usually more convenient or cost-effective than the alternatives.</p><p>Writing a strong value proposition for an open data business means explaining what problem you solve for a customer and why your solution is better than going directly to the data themselves.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db09",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da5d",
+    "_type": "component",
+    "body": "<p>The business model canvas offers a logical view of a business. It is key to identifying any areas of weakness or potential opportunity.</p>\n\n<p>The canvas is formed of nine key boxes.</p>\n\n<p>The value proposition sits in the middle, with three boxes on the left, and three on the right.</p>\n\n<p>On the left of the value proposition are your activities and partnerships that create that value. On the right are your customers and channels to your customers. Finally, underpinning the whole model are costs and revenue.</p>\n\n<p>A good business model canvas should be built on strong financial foundations. It should be&nbsp;balanced with a similar number&nbsp;of points on both the left and the righthand sides.</p>\n",
+    "displayTitle": "The business model canvas",
+    "title": "The business model canvas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db0a",
+    "_layout": "full",
+    "_parentId": "58f8b1b4d084d5167a04da52",
+    "_type": "component",
+    "body": "<p>Having filled in your value proposition, in the middle of the canvas, there are eight other boxes to complete.</p>",
+    "displayTitle": "Building a business model canvass",
+    "title": "Building a business model canvass",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore the boxes below",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Key partners",
+        "body": "<p>Partners supply you and help you optimise your work. In an open data business, who are your sources of data? Who is supplying the most important services to you? Your key partners need to have a close working relationship with you to offer high levels of service guarantee.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d1a863354f7c7c10cb246d3db2e51a54a8964b23.png",
+          "alt": ""
+        },
+        "strapline": "Key partners"
+      },
+      {
+        "title": "Key activities",
+        "body": "<p>What are your key activities that support the business? How much time will you need to support partners, customers, development, marketing and sales of the product?</p>",
+        "_graphic": {
+          "src": "course/en/assets/f0610341fe3a938c2e52a3481600858a4c5b5273.jpg",
+          "alt": ""
+        },
+        "strapline": "Key activities"
+      },
+      {
+        "title": "Key resources",
+        "body": "<p>Who and what do you need in order to deliver your key activities and value proposition? Do you need to register rights over your products and hold IP? What is the thing that customers are buying?</p>",
+        "_graphic": {
+          "src": "course/en/assets/c63245598e40b673e19bef20bb609d0865afba4d.png",
+          "alt": ""
+        },
+        "strapline": "Key resources"
+      },
+      {
+        "title": "Cost structure",
+        "body": "<p>What fixed and variable costs will you have? How much will resources and activities cost?</p>",
+        "_graphic": {
+          "src": "course/en/assets/041ed58c20dfcf8e818b6210565db5aa47afc803.png",
+          "alt": ""
+        },
+        "strapline": "Cost structure"
+      },
+      {
+        "title": "Customer segments",
+        "body": "<p>Who are your customers? For who are you creating value? Can you personally name anyone in each segment? Would they buy your product at the price you are proposing?</p>",
+        "_graphic": {
+          "src": "course/en/assets/6dea7973eea11fc47543bdaa6c2659525fc6656b.png",
+          "alt": ""
+        },
+        "strapline": "Customers"
+      },
+      {
+        "title": "Customer relationships",
+        "body": "<p>What type of relationship will you have with each customer segment? How costly are they? How do you keep them coming back to your product?</p>",
+        "_graphic": {
+          "src": "course/en/assets/459d2295255e21bf83e51cc8f9ff550248735286.jpg",
+          "alt": ""
+        },
+        "strapline": "Customer relationships"
+      },
+      {
+        "title": "Channels",
+        "body": "<p>How will you reach and engage with your customer segments? How do you market, drive purchase, deliver, evaluate and provide care?</p>",
+        "_graphic": {
+          "src": "course/en/assets/d368435d6ec911c7a728c70a0ddaf351f0b54c54.png",
+          "alt": ""
+        },
+        "strapline": "Channels"
+      },
+      {
+        "title": "Revenue streams",
+        "body": "<p>How do you make money? What is the cost of the value you are creating? Do your revenue streams relate to channels and relationships?</p>",
+        "_graphic": {
+          "src": "course/en/assets/d4df87128f27407a4835f94399a131d22185ca26.jpg",
+          "alt": ""
+        },
+        "strapline": "Revenue streams"
+      }
+    ]
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db0b",
+    "_layout": "full",
+    "_parentId": "58f8b1b4d084d5167a04da85",
+    "_type": "component",
+    "body": "<p>Explore existing business models:&nbsp;</p><p>- Potential business models that could be used for this module; Freemium, Premium and Productisation of services.</p><p>Freemium:&nbsp;Business model that works by offering basic Web services, or a basic downloadable digital product, for free, while charging a premium for advanced or special features.</p><p>Premium:&nbsp;Offer high-end products that appeal to brand-conscious<br />consumers.</p><p>productisation of services:&nbsp;Standardising a predetermined bundle of services typically<br />bought together and selling for a fixed price similar to a product. Many times it includes an element of flat-fee pricing as well.</p><p>Premium, Freemium, Elastic, Cross Subsidy, Advertising, Supply platforms, demand platforms, white label.</p>",
+    "displayTitle": " Existing open data business models",
+    "title": " Existing open data business models",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-nine",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Premium",
+        "body": "<ol><li dir=\"ltr\"><p dir=\"ltr\"><strong>Premium- an additional product or a service is offered to the end-user, characterized by high intrinsic value in exchange for a payment per use or for a re-occurring fee.</strong></p></li></ol><p dir=\"ltr\"><strong>Offering additional support and services is a business model which seems to work well for companies built around open source. In the open data world, data publishers could offer paid packages with:</strong></p><ul><li dir=\"ltr\"><p dir=\"ltr\"><strong>guarantees on data availability</strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>prioritisation on bug fixes (both in data and its provision) for paying customers</strong></p></li><li dir=\"ltr\"><p dir=\"ltr\"><strong>timely help for customers using the data</strong></p></li><li dir=\"ltr\"><strong>services around data visualisation, analysis and mashing with other data</strong></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/4d42366f7b347053ff45ca63a31f30f083259dfa.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Premium"
+      }
+    ]
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db0c",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da53",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>A value proposition is important because...</strong></p>",
+    "displayTitle": "The value proposition of open",
+    "title": "The value proposition of open",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "without a strong value proposition, a business is unlikely to succeed.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "It outlines how parts of the business work together.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the value of your business",
+        "_shouldBeSelected": false,
+        "feedback": "It details how your business will make money."
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The value proposition of a business is central to its business model. Without a strong value proposition, a business is unlikely to succeed.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The value proposition of a business is central to its business model. Without a strong value proposition, a business is unlikely to succeed.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db0d",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da54",
+    "_type": "component",
+    "body": "<p><strong>A good business model canvas should...</strong></p>\n",
+    "displayTitle": "Business model canvas",
+    "title": "Business model canvas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "have blank boxes as not every box is relevant to every business",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "be built on strong financial foundations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "be created once your business is established, so you know what to include in the boxes",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Well done!</p>\n\n<p>&nbsp;</p>\n",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04db0e",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da3e",
+    "_type": "component",
+    "body": "<p>​​​​​​Building a business model is essential to having a successful open data business.</p><p>In this module we explore:</p><ul dir=\"ltr\"><li>building a&nbsp;value proposition</li><li>the business model canvass</li><li>building an open data&nbsp;business model</li><li>existing open data business models</li></ul>",
+    "displayTitle": " Open data business models ",
+    "title": " Open data business models ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59492ff8d084d5167a04ff99",
+    "_layout": "left",
+    "_parentId": "59492f9ad084d5167a04ff98",
+    "_type": "component",
+    "body": "<p>Enriching data&nbsp;is a general term that refers to processes used to enhance, refine or otherwise improve or add value to raw data. This module explores some of the many techniques that are commonly applied to raw data and demonstrates how very little data can lead to immense insight through enriching.</p><p>This module explores:</p><ul><li>Derivation and feature extraction</li><li>Combining datasets</li><li>Enriching geographic data</li><li>Enriching qualitative&nbsp;data&nbsp;</li></ul>",
+    "displayTitle": "How to enrich data",
+    "title": "How to enrich data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59493098d084d5167a04ff9c",
+    "_layout": "right",
+    "_parentId": "59493080d084d5167a04ff9b",
+    "_type": "component",
+    "body": "<p>Before you think about combining data sources or using external sources, often data can be enriched though a process of derivation or feature extraction. This results in additional columns (or features) being added to your data which are based upon the existing data only.&nbsp;</p>",
+    "displayTitle": "Derivation and feature extraction",
+    "title": "Derivation and feature extraction",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Derived data",
+        "body": "<p>A derived data element is a data element derived from other data elements using a mathematical, logical, or other type of transformation, e.g. arithmetic formula, composition, aggregation.&nbsp;</p><p>For example your source data might contain a series of columns of monthly expenditure. A sum total could be made over all months to add another column. This column is thus derived from the others.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Feature extraction",
+        "body": "<p>Feature extraction is very similar to&nbsp;derived data however does not necessary have to involve a function.</p><p>For example the city could be extracted from a list of unstructured address data, making the city a distinct feature of the dataset.</p><p>Likewise the colour of the centre pixel of an image could be extracted without the use of a mathmatical function.&nbsp;</p><p>You can find a short tutorial on feature extraction in excel <a href=\"https://www.extendoffice.com/documents/excel/3639-excel-extract-part-of-string.html\" target=\"_blank\">here</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "594937f4d084d5167a04ffa5",
+    "_layout": "left",
+    "_parentId": "594937eed084d5167a04ffa4",
+    "_type": "component",
+    "body": "<p>Not all data comes in the form of structured tables or accurately located geographic data. Often it can be the qualitative data that can be hardest to analyse and work with. Enrichment and feature extraction can be used to help bring structure to the data and reveal insight.&nbsp;</p><p>Entity recognition tools provide one such technique that can help analyse and enrich qualitative data. Essentially entity recognition seeks to locate and classify&nbsp;named entities&nbsp;in text into pre-defined categories such as the names of persons, organisations, locations, expressions of times, quantities, monetary values, percentages, etc.</p><p>The Calais (now known just as Intelligent Tagging) service from Thomson Reuters is one such example of an entity recognition engine. More than just entity recognition, the Calais service links those entities to data records that exist within the Thomson Reuters permID&nbsp;database of entities and financial records. Why not try it for yourself at&nbsp;<a href=\"https://permid.org/onecalaisViewer\">https://permid.org/onecalaisViewer</a>. A good example to try is the top 5 or so paragraphs from any <a href=\"http://www.bbc.co.uk/news/politics\">political news article</a>.&nbsp;</p><p>More widely such entity recognition is used by services such as <a href=\"https://www.theyworkforyou.com\" target=\"_blank\">TheyWorkForYou</a> in order to track the activities of politicians and provide this in a easy way to the public.&nbsp;</p>",
+    "displayTitle": "Enriching qualitative  data",
+    "title": "Enriching qualitative data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59492ffad084d5167a04ff9a",
+    "_layout": "right",
+    "_parentId": "59492f9ad084d5167a04ff98",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5949309cd084d5167a04ff9d",
+    "_layout": "left",
+    "_parentId": "59493080d084d5167a04ff9b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2b28010f60b1eb8efb8bcbe88e7e945d4d8563db.jpg",
+      "small": "course/en/assets/2b28010f60b1eb8efb8bcbe88e7e945d4d8563db.jpg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">Sponge UK</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5949323bd084d5167a04ffa0",
+    "_layout": "right",
+    "_parentId": "59493220d084d5167a04ff9e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7fec32b99da9f008a88d2622d258aaea82bf1513.jpg",
+      "small": "course/en/assets/7fec32b99da9f008a88d2622d258aaea82bf1513.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/background-colorful-airplanes-vector-illustration-103013084?src=id\" target=\"_blank\">Laralova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59493588d084d5167a04ffa3",
+    "_layout": "left",
+    "_parentId": "5949356bd084d5167a04ffa1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ce67b8cf92f4fb4089f87d65efee7d15a61d6e50.jpg",
+      "small": "course/en/assets/ce67b8cf92f4fb4089f87d65efee7d15a61d6e50.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/threedimensional-map-europe-bright-colors-117748444?src=id\" target=\"_blank\">kovacsf</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5949672fd084d5167a04ffae",
+    "_layout": "right",
+    "_parentId": "594937eed084d5167a04ffa4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "small": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/115327016@N06/15383638574\" target=\"_blank\">vickysandoval22</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59493239d084d5167a04ff9f",
+    "_layout": "left",
+    "_parentId": "59493220d084d5167a04ff9e",
+    "_type": "component",
+    "body": "<p>Here we are not referring to adding additional data onto the end of an existing dataset (a process known as consolidation) but rather the process of adding to the existing data.&nbsp;</p><p>If you are using a spreadsheet, the result of combining two datasets with 10 columns each will be one dataset with 19 columns. Combining data can only be done in this way if there is a column in each dataset with a shared value. This column becomes the&nbsp;<em>key&nbsp;</em>upon which the combine can be performed.&nbsp;</p><p>For example. Take a dataset of roads and the numbers of cars during each hour of the day. Each hour period is a column and each road is a row. If there were many sources of the data, e.g. sources with different hours in all individually collected, then you could key on the road name and combine all the data into a single dataset.&nbsp;</p><p>Find out how to combine two datasets in <a href=\"https://superuser.com/questions/366647/merge-two-excel-files-using-a-common-column\" target=\"_blank\">Excel</a> or in <a href=\"https://blog.ouseful.info/2011/05/06/merging-datesets-with-common-columns-in-google-refine/\" target=\"_blank\">Open Refine</a>.</p><p>&nbsp;</p>",
+    "displayTitle": "Combining datasets",
+    "title": "Combining datasets",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59493585d084d5167a04ffa2",
+    "_layout": "right",
+    "_parentId": "5949356bd084d5167a04ffa1",
+    "_type": "component",
+    "body": "<p>Much like combining data, where you can combine two datasets based upon a common feature (e.g. road name) you can do the same with geographic data.</p><p>One big difference however is that you can combine geographic data based upon location and whether a location is inside the boundary of another. This process is known as a spatial merge.&nbsp;</p><p>A spatial join can be useful when looking at features of different buildings or services and mapping them on to jurisdiction region to see if any patterns emerge. For example you could use this to see if schools in different council&nbsp;controlled areas perform significantly differently.&nbsp;</p><p>You can find out more about enriching and joining map data using the excellent guides provided by <a href=\"https://carto.com/learn/guides\" target=\"_blank\">CartoDB</a>.</p><p>&nbsp;</p>",
+    "displayTitle": "Enriching geographic data",
+    "title": "Enriching geographic data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "594d0bd0d084d5167a0500b8",
+    "_layout": "left",
+    "_parentId": "594d0b5dd084d5167a0500b7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to enrich data?",
+    "title": "Are you ready to enrich data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "594d0bd2d084d5167a0500b9",
+    "_layout": "right",
+    "_parentId": "594d0b5dd084d5167a0500b7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "594d0dd7d084d5167a0500bf",
+    "_layout": "right",
+    "_parentId": "594d0dacd084d5167a0500bd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5c5aff6bff6526424de0a50acf380b82cee129aa.png",
+      "small": "course/en/assets/5c5aff6bff6526424de0a50acf380b82cee129aa.png",
+      "attribution": "<a href=\"https://www.exceltip.com/excel-text-formulas/splitting-a-full-address-into-three-or-more-separate-cells.html\" target=\"_blank\">Excel Tip</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "594d0dd3d084d5167a0500be",
+    "_layout": "left",
+    "_parentId": "594d0dacd084d5167a0500bd",
+    "_type": "component",
+    "body": "<p>Which enrichment method&nbsp;would you use&nbsp;to extract the City from the address column?</p>",
+    "displayTitle": "Match the need to the method",
+    "title": "Match the need to the method",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Feature extraction",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Derivation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Spatial join",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Entity recognition",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Feature extraction is the process of creating a new column from existing ones without the need for calculation.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Feature extraction is the process of creating a new column from existing ones without the need for calculation.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "594d0ed7d084d5167a0500cf",
+    "_layout": "right",
+    "_parentId": "594d0eb8d084d5167a0500cd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5954d8fcd084d5167a0500f2",
+    "_layout": "right",
+    "_parentId": "5954d8fcd084d5167a0500f0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "small": "course/en/assets/afd0d6839824fb0bdde94840871d430e47213170.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/115327016@N06/15383638574\" target=\"_blank\">vickysandoval22</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5954d8fcd084d5167a0500f1",
+    "_layout": "left",
+    "_parentId": "5954d8fcd084d5167a0500f0",
+    "_type": "component",
+    "body": "<p>Which enrichment method&nbsp;would you use&nbsp;to recognise people and concepts in a news article?</p>",
+    "displayTitle": "Match the need to the method",
+    "title": "Match the need to the method",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Feature extraction",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Derivation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Spatial join",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Entity recognition",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Entity recognition tools provide one such technique that can help analyse and enrich qualitative data. Essentially entity recognition seeks to locate and classify&nbsp;named entities&nbsp;in text into pre-defined categories such as the names of persons, organisations, locations, expressions of times, quantities, monetary values, percentages, etc.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Entity recognition tools provide one such technique that can help analyse and enrich qualitative data. Essentially entity recognition seeks to locate and classify&nbsp;named entities&nbsp;in text into pre-defined categories such as the names of persons, organisations, locations, expressions of times, quantities, monetary values, percentages, etc.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "594d0ed4d084d5167a0500ce",
+    "_layout": "left",
+    "_parentId": "594d0eb8d084d5167a0500cd",
+    "_type": "component",
+    "body": "<p>Enriching data&nbsp;is a general term that refers to processes used to enhance, refine or otherwise improve or add value to raw data. This module explored&nbsp;some of the many techniques that are commonly applied to raw data. Using enrichment can lead to immense insight and help join your own data with that of others.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]

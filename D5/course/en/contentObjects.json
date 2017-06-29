@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "58f8b1b4d084d5167a04da2c",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d31ed292b9a5b50993b9434076d7209a64401cc3.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Opening up research data is critical for many reasons. In this module we explore what research data is, how it compares to open data and what activities are supporting its release.</p>",
+    "displayTitle": "Why open research data?",
+    "title": "Why open research data?",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define research data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain how open research data fits in the scientific communication process"
+        },
+        {
+          "outcome": "Explain the benefits of opening up research data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "List a number of influencing activities that support the opening of research data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da27",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3bd032ada03e207a4f6a18675e692a1d00584dd3.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "When to open up data",
+    "title": "When to open up data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/641546c15c0af8c554b833be3cc3dfc09ac0b997.jpg"
+    },
+    "_id": "59492f99d084d5167a04ff96",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Enriching data&nbsp;is a general term that refers to processes used to enhance, refine or otherwise improve or add value to raw data. This module explores some of the many techniques that are commonly applied to raw data and demonstrates how very little data can lead to immense insight through enriching.</p>",
+    "displayTitle": "How to enrich data",
+    "title": "How to enrich data",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    }
+  }
+]
