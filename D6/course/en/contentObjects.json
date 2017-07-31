@@ -1,10 +1,71 @@
 [
   {
-    "_id": "59550775d084d5167a050bb7",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg"
+    },
+    "_id": "582eca684d7b7e82691e44f7",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>More and more businesses are using open data, from large corporations&nbsp;to startups. When starting a business with open data, it is important to design&nbsp;your business model and consider how open data will underpin that model. In this module we explore open data&nbsp;business models.</p>",
+    "displayTitle": "Starting a business with open data",
+    "title": "Starting a business with open data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Explain the importance of a value proposition"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "List the elements of the business model canvas"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3bd032ada03e207a4f6a18675e692a1d00584dd3.jpg"
+    },
+    "_id": "5919acb5d084d5167a04e6bd",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Growing a business with open data",
+    "title": "Growing a business with open data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
     },
+    "_id": "582498034d7b7e82691e4241",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -16,23 +77,135 @@
     "body": "<p dir=\"ltr\">Opening data can be a valuable activity for any organisation. Whether to drive innovation in the business, develop a clearer picture of operations or improve products and services, a growing number of private and public sector organisations now benefit from publishing and using open data.</p><p dir=\"ltr\">This module will prepare you to deliver a tailored pitch for open data that highlights value and addresses risks.</p>",
     "displayTitle": "Pitching for open data",
     "title": "Pitching for open data",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Structure an elevator pitch for an open data business",
+          "level": "strategist",
           "credits": 10,
-          "level": "strategist"
+          "outcome": "Structure an elevator pitch for an open data business"
         },
         {
-          "outcome": "Describe how to tailor an open data pitch to different audiences",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Describe how to tailor an open data pitch to different audiences"
         }
       ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/4b21c8956a3439616e9541c39c354729bd2e7f4d.jpg"
+    },
+    "_id": "582ec71e4d7b7e82691e44ed",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Open data is a relatively new concept. Any change will bring barriers - challenges for some current ways of working, or barriers for those who want to use open data but can&#39;t. In this module, we explore how to overcome technical and non-technical barriers to open data use in established businesses.</p>",
+    "displayTitle": "Overcoming barriers for established businesses",
+    "title": "Overcoming barriers for established businesses",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_id": "582eca684d7b7e82691e44fa",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Collaborating with open data stakeholders",
+    "title": "Collaborating with open data stakeholders",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Explain the importance of collaborating with stakeholders for an open data project"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Identify different types of open data stakeholders"
+        },
+        {
+          "level": "strategist",
+          "credits": 10,
+          "outcome": "Map open data stakeholders"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d31ed292b9a5b50993b9434076d7209a64401cc3.jpg"
+    },
+    "_id": "58e63774d084d5167a04d40f",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Opening up research data is critical for many reasons. In this module we explore what research data is, how it compares to open data and what activities are supporting its release.</p>",
+    "displayTitle": "Why open research data?",
+    "title": "Why open research data?",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Define research data"
+        },
+        {
+          "outcome": "Explain how open research data fits in the scientific communication process",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain the benefits of opening up research data"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "List a number of influencing activities that support the opening of research data"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
-    "_id": "59550775d084d5167a050c30",
+    "_id": "597b4afad084d5167a051395",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050bc8",
+    "_parentId": "597b4afad084d5167a051394",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -17,15 +17,141 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "attribution": ""
+      "large": "course/en/assets/3cb2758010e55c79683ddf0b647cbb8148fb9943.jpg",
+      "small": "course/en/assets/3cb2758010e55c79683ddf0b647cbb8148fb9943.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/access-granted-internet-login-238197199?src=id\" target=\"_blank\">Brian Senic</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
   },
   {
-    "_id": "59550775d084d5167a050c04",
+    "_id": "582edc204d7b7e82691e464e",
+    "_layout": "right",
+    "_parentId": "582eca684d7b7e82691e44fc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "582edc324d7b7e82691e4650",
+    "_layout": "right",
+    "_parentId": "582ecb5d4d7b7e82691e44fd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58356cea4d7b7e82691e46b8",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050be5",
+    "_parentId": "58356cca4d7b7e82691e46b6",
+    "_type": "component",
+    "body": "<p><strong>A good business model canvas should...</strong></p>",
+    "displayTitle": "Business model canvas",
+    "title": "Business model canvas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "have blank boxes as not every box is relevant to every business",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "be built on strong financial foundations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "be created once your business is established, so you know what to include in the boxes",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Well done!</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Are you sure?</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "582edc944d7b7e82691e4653",
+    "_layout": "left",
+    "_parentId": "582ecb734d7b7e82691e44fe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58a57e45fda9f5660ad8565f",
+    "_layout": "left",
+    "_parentId": "58a57e45fda9f5660ad8565d",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -46,9 +172,32 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c06",
+    "_id": "582ec8784d7b7e82691e44f3",
+    "_layout": "right",
+    "_parentId": "582ec7b74d7b7e82691e44f2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/96039146a7ed69e2ff0981a185d6c6a326f8b873.jpg",
+      "small": "course/en/assets/96039146a7ed69e2ff0981a185d6c6a326f8b873.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58249e6b4d7b7e82691e4247",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050bc7",
+    "_parentId": "58249e5e4d7b7e82691e4246",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -69,9 +218,9 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c07",
+    "_id": "582f174a4d7b7e82691e467d",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050bd8",
+    "_parentId": "582f173d4d7b7e82691e467b",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -92,9 +241,95 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c0c",
+    "_id": "582ec76a4d7b7e82691e44f1",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050bcb",
+    "_parentId": "582ec71e4d7b7e82691e44ef",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "582edc1d4d7b7e82691e464d",
+    "_layout": "left",
+    "_parentId": "582eca684d7b7e82691e44fc",
+    "_type": "component",
+    "body": "<p>Understanding your stakeholders is essentials to any project or business</p>\n\n<p>In this module we explore:</p>\n\n<ul>\n\t<li>what is a stakeholder</li>\n\t<li>why collaborate with stakeholders</li>\n\t<li>different types of stakeholders</li>\n\t<li>mapping stakeholders</li>\n</ul>\n",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5919acb7d084d5167a04e718",
+    "_layout": "right",
+    "_parentId": "5919acb6d084d5167a04e6d3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "597b4925d084d5167a051392",
+    "_layout": "right",
+    "_parentId": "597b4916d084d5167a05138f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/96039146a7ed69e2ff0981a185d6c6a326f8b873.jpg",
+      "small": "course/en/assets/96039146a7ed69e2ff0981a185d6c6a326f8b873.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5825a10c4d7b7e82691e429a",
+    "_layout": "right",
+    "_parentId": "5825a0ec4d7b7e82691e4299",
     "_type": "component",
     "body": "<p>The final component of the pitch is to leave your potential investor with a clear action.</p><p>Listeners want to be able to take action in response to a pitch. Your task is to create an action that allows them to immediately say yes (or no) without needing to think about it.</p>",
     "displayTitle": "What next?",
@@ -149,9 +384,9 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "59550775d084d5167a050c10",
+    "_id": "58a57e45fda9f5660ad8565e",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050be5",
+    "_parentId": "58a57e45fda9f5660ad8565d",
     "_type": "component",
     "body": "<p><strong>A value proposition is...</strong></p>",
     "displayTitle": "What is a value proposition?",
@@ -227,9 +462,9 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c11",
+    "_id": "58a57ecefda9f5660ad85668",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050be7",
+    "_parentId": "58a57ecefda9f5660ad85667",
     "_type": "component",
     "body": "<p><strong>You should end your pitch with...</strong></p>",
     "displayTitle": "What next?",
@@ -305,9 +540,41 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c14",
+    "_id": "582edc974d7b7e82691e4654",
+    "_layout": "right",
+    "_parentId": "582ecb734d7b7e82691e44fe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "582edca84d7b7e82691e4655",
+    "_layout": "full",
+    "_parentId": "582ecb8d4d7b7e82691e44ff",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "582f17434d7b7e82691e467c",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050bd8",
+    "_parentId": "582f173d4d7b7e82691e467b",
     "_type": "component",
     "body": "<p>Here are some questions to test what you&#39;ve learnt.</p>\n",
     "displayTitle": "Are you ready to pitch an open data business?",
@@ -322,9 +589,9 @@
     "instruction": ""
   },
   {
-    "_id": "59550775d084d5167a050c16",
+    "_id": "582498824d7b7e82691e4244",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050bde",
+    "_parentId": "582498044d7b7e82691e4243",
     "_type": "component",
     "body": "",
     "displayTitle": " ",
@@ -345,9 +612,48 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c1b",
+    "_id": "58a5dd3efda9f5660ad858a0",
+    "_layout": "right",
+    "_parentId": "58a5dcfefda9f5660ad8589e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "582edc2d4d7b7e82691e464f",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050be7",
+    "_parentId": "582ecb5d4d7b7e82691e44fd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58a57ecefda9f5660ad85669",
+    "_layout": "left",
+    "_parentId": "58a57ecefda9f5660ad85667",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -368,9 +674,25 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c1d",
+    "_id": "582edc874d7b7e82691e4652",
+    "_layout": "full",
+    "_parentId": "582ecba84d7b7e82691e4500",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "58a32227fda9f5660ad84ae7",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050be0",
+    "_parentId": "58a32206fda9f5660ad84ae5",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -391,9 +713,26 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c20",
+    "_id": "58e639a1d084d5167a04d428",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050be8",
+    "_parentId": "58e6399ad084d5167a04d427",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to open up research data?",
+    "title": "Are you ready to open up research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58a57ee0fda9f5660ad85673",
+    "_layout": "left",
+    "_parentId": "58a57ee0fda9f5660ad8566f",
     "_type": "component",
     "body": "<p dir=\"ltr\">Opening data can be a valuable activity for any organisation to make more effective use of their resources. However, most businesses are configured to protect their data resources, even where the benefits of greater sharing outweigh the costs.</p><p>Clear, effective communication of the benefits is essential to capture imaginations and gain trust and understanding. In this module we have learned how to deliver a tailored pitch for open data.</p>",
     "displayTitle": " Pitching for open data",
@@ -408,9 +747,9 @@
     "instruction": ""
   },
   {
-    "_id": "59550775d084d5167a050c21",
+    "_id": "58a57e52fda9f5660ad85664",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050be6",
+    "_parentId": "58a57e52fda9f5660ad85663",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -431,9 +770,106 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c23",
+    "_id": "597b3c49d084d5167a05133f",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050bc8",
+    "_parentId": "597b3c48d084d5167a05132f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Building a value proposition",
+    "title": "Building a value proposition",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "What is a value proposition?",
+        "body": "<p dir=\"ltr\">The value proposition of a business is the problem(s) that it is solving for its users.</p><p>If your business does not solve a problem for your users, they have no reason to interact with your service or product.</p><p>The value proposition of a business is central to its business model. Without a strong value proposition, a business does not have justification to operate.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Why is the value proposition important?",
+        "body": "<p dir=\"ltr\">The value proposition of a business is central to its business model. Without a strong value proposition, a business does not have justification to operate.</p><p dir=\"ltr\">The value proposition is also the logic on which the rest of the business is based.</p><p dir=\"ltr\">If a business solves a problem for its users and helps them save money or time, there is a reason to charge for this service.</p><p>If a business solves a problem that the users don&#39;t value in monetary terms, that business may need to seek alternative sources of revenue.</p><p dir=\"ltr\">Without a strong value proposition, a business is unlikely to succeed.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "597b3c49d084d5167a051346",
+    "_layout": "left",
+    "_parentId": "597b3c48d084d5167a051331",
+    "_type": "component",
+    "body": "<p>Here are some questions to test what you&#39;ve learnt.</p>\n",
+    "displayTitle": " Are you ready to build an open data business model?",
+    "title": " Are you ready to build an open data business model?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58347aa34d7b7e82691e46b5",
+    "_layout": "left",
+    "_parentId": "582f26f94d7b7e82691e4682",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg",
+      "small": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "597b4805d084d5167a05138b",
+    "_layout": "left",
+    "_parentId": "597b47c6d084d5167a05138a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to overcome the barriers to open?",
+    "title": "Are you ready to overcome the barriers to open?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58a3235afda9f5660ad84af4",
+    "_layout": "right",
+    "_parentId": "58249ea44d7b7e82691e4249",
     "_type": "component",
     "body": "<p>Many advocates of open data use generic arguments when discussing its advantages, but a strong pitch needs to be closely tailored to the priorities and concerns of the audience&nbsp;of the pitch and the decision maker.</p><p>In most cases, this can be determined from their professional context. Below we examine four common roles of decision makers, coupled with the most relevant benefits of open data.</p>",
     "displayTitle": "What open data can do",
@@ -491,9 +927,110 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "59550775d084d5167a050c27",
+    "_id": "5834571a4d7b7e82691e46b1",
+    "_layout": "right",
+    "_parentId": "582f26f94d7b7e82691e4682",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>A value proposition is important because...</strong></p>",
+    "displayTitle": "Building a value proposition",
+    "title": "Building a value proposition",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "without a strong value proposition, a business is unlikely to succeed.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "It outlines how parts of the business work together.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the value of your business",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The value proposition of a business is central to its business model. Without a strong value proposition, a business is unlikely to succeed.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The value proposition of a business is central to its business model. Without a strong value proposition, a business is unlikely to succeed.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58356cdf4d7b7e82691e46b7",
+    "_layout": "right",
+    "_parentId": "58356cca4d7b7e82691e46b6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "small": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58a57e3afda9f5660ad8565b",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050be4",
+    "_parentId": "58a57e3afda9f5660ad85657",
     "_type": "component",
     "body": "<p><strong>The five components of a perfect data pitch include...</strong></p>",
     "displayTitle": "What are the five components of the perfect data pitch?",
@@ -589,9 +1126,32 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c2c",
+    "_id": "58e6396ed084d5167a04d41e",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050bca",
+    "_parentId": "58e63774d084d5167a04d411",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/724008f00c16619da741356bc607b081fcb67264.png",
+      "small": "course/en/assets/724008f00c16619da741356bc607b081fcb67264.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-189810137.html\" target=\"_blank\">Kritchanut</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "584047484d7b7e82691e4b5b",
+    "_layout": "right",
+    "_parentId": "5824a0f94d7b7e82691e428f",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -612,9 +1172,9 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c2d",
+    "_id": "58a32184fda9f5660ad84ae4",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050bc7",
+    "_parentId": "58249e5e4d7b7e82691e4246",
     "_type": "component",
     "body": "<p>Creating an effective pitch for open data requires five elements. When brought together, these create a clear, compelling case for action that can be used when seeking management approval, budgetary and resource&nbsp;support and downstream use and re-use. The pitch should be delivered in 90 seconds or less.</p><p>The five components of the perfect pitch are:</p><ol><li>What it is &ndash;&nbsp;the problem you are solving&nbsp;for your users</li><li>What it&nbsp;can do&nbsp;&ndash; a tailored description of the benefit</li><li>Where it&#39;s helped &ndash; a relevant, quantified proof point</li><li>Why it&#39;s best &ndash; justification for why it beats other options</li><li>What next &ndash; a realistic decision that can be taken on the spot</li></ol><p>Below we explore each of these components&nbsp;in more detail.</p>",
     "displayTitle": "The five components of the perfect pitch",
@@ -629,9 +1189,9 @@
     "instruction": ""
   },
   {
-    "_id": "59550775d084d5167a050c2e",
+    "_id": "58a57e3afda9f5660ad85658",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050be4",
+    "_parentId": "58a57e3afda9f5660ad85657",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -652,9 +1212,9 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c2f",
+    "_id": "5825a3af4d7b7e82691e429b",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050bcb",
+    "_parentId": "5825a0ec4d7b7e82691e4299",
     "_type": "component",
     "body": "",
     "displayTitle": "Component title",
@@ -675,9 +1235,1339 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c55",
+    "_id": "58a32357fda9f5660ad84af3",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050bde",
+    "_parentId": "58249ea44d7b7e82691e4249",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58e6396cd084d5167a04d41d",
+    "_layout": "left",
+    "_parentId": "58e63774d084d5167a04d411",
+    "_type": "component",
+    "body": "<p>The sharing of scientific research has long been an establish process dating back to the 1660s with the establishment of the Royal Society in England. The publication of journal papers allowed scientists to lay claim to their discoveries while sharing findings with others.&nbsp;</p><p>Centuries later, our ability to share outputs now reaches far beyond just the publication, into the data collected as part of the research process.&nbsp;</p><p>This module looks at:</p><ul><li>What is research data and why make it open?</li><li>Where does&nbsp;research data fit?</li><li>The benefits of opening research data</li><li>The support for open research data</li></ul>",
+    "displayTitle": "Why open research data?",
+    "title": "Why open research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58e63975d084d5167a04d420",
+    "_layout": "left",
+    "_parentId": "58e6396fd084d5167a04d41f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "small": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58e63d01d084d5167a04d449",
+    "_layout": "right",
+    "_parentId": "58e63cead084d5167a04d447",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/224c3fcd6e754987f512ffb3ba1966c79c27d9a3.jpg",
+      "small": "course/en/assets/224c3fcd6e754987f512ffb3ba1966c79c27d9a3.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58e63cfdd084d5167a04d448",
+    "_layout": "left",
+    "_parentId": "58e63cead084d5167a04d447",
+    "_type": "component",
+    "body": "<p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to <strong>validate research findings</strong>.&nbsp;</p><p>It is important to think carefully about this definition and not simply get caught up in publishing all research data; a practice that might lead to confusion. The publication of research data requires careful curation, much like a scientific publication. While the publication should be a careful and concise&nbsp;record of the findings, the data should match this concise record and enable others to combine the research method with the data to validate the findings.&nbsp;</p><p>Although not all material will be digital in existence, for the purposes of this module we are going to look solely at data that exists&nbsp;in digital form.&nbsp;</p><p>&nbsp;</p>",
+    "displayTitle": "What is research data?",
+    "title": "What is research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58e63977d084d5167a04d421",
+    "_layout": "right",
+    "_parentId": "58e6396fd084d5167a04d41f",
+    "_type": "component",
+    "body": "<p>With the main purpose of opening research data being to validate research findings it is important to think carefully about where research data fits in the scholarly publication process. There are many aspects of the process, especially when involving digital tools.</p>",
+    "displayTitle": "Where does research data fit?",
+    "title": "Where does research data fit?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Scholarly publication",
+        "body": "<p>Any published research data should be carefully linked to the research findings.&nbsp;</p><p>Putting together a research publication takes time and you should consider at each stage if there is any additional material required to enable the validation of the research.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Research process",
+        "body": "<p>Although the research methodology should be outlined clearly in the scholarly publication, the concise nature of the publication does not always allow for the full expression of the process.</p><p>Services such as <a href=\"https://www.myexperiment.org/about\" target=\"_blank\">MyExperiment</a>&nbsp;provide&nbsp;a collaborative environment where scientists can safely publish their workflows and&nbsp;<em>in silico</em>&nbsp;experiments. This enables others to view and follow the research process more clearly.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open data",
+        "body": "<p>With the process outlined, it is important to try and give access to the relevant data to others.&nbsp;</p><p>If the research has sourced open data then this should be linked to and any specifics over access outlined. If the source data is not open then it will be necessary to carefully check your rights to publish the data for others to use it.&nbsp;</p><p>If you have created the data yourself then you, or your institution, own the data. This means you are free to chose how to publish the data.</p><p>It is recommended that data you own is published under an open licence which required attribution. This way much like citation, you can see who is building upon your data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open source",
+        "body": "<p>Alongside the research data you may used or created tools to process the data. Alternatively you might have used algorithms or processes within tools such as matlab.&nbsp;</p><p>It is important to consider how to share these tools as openly as possible as they may be a necessary and indeed core part of the material required to verify your research results.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58e6397fd084d5167a04d423",
+    "_layout": "full",
+    "_parentId": "58e63978d084d5167a04d422",
+    "_type": "component",
+    "body": "<p>Other than making research verifiable there are a number of other benefits to be gained from opening up research data.&nbsp;</p>",
+    "displayTitle": "The benefits of opening up research data",
+    "title": "The benefits of opening up research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Enable reuse",
+        "body": "<p>Another key aspect in scientific research is the ability to build upon the research of others, be it in the same domain or a different one.&nbsp;</p><p>The expression&nbsp;<em>&#39;standing on the shoulders of giants&#39;&nbsp;</em>is commonly used within science to express the desire to&nbsp;<em>&#39;discover truth by building on previous discoveries&#39;</em>.&nbsp;</p><p>All researchers build on the research of others, so having data that can be used or bought up to date can save a lot of time vs re-collecting from scratch.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/46876a953db93061532ac45990d1a554be973920.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Enable reuse"
+      },
+      {
+        "title": "Increase citation",
+        "body": "<p>Citation is a key indicator of impact in science and open practices have been shown to increase citation.&nbsp;</p><p>Studies have found that citation advantage can be gained through a combination of:</p><ul><li><a href=\"http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040157&amp;imageURI=info:doi/10.1371/journal.pbio.0040157.t003\" target=\"_blank\">Open access publication</a></li><li><a href=\"https://www.liberquarterly.eu/articles/10.18352/lq.10149/#r26\" target=\"_blank\">Open source code</a></li><li><a href=\"http://doi.org/10.18352/lq.10149\" target=\"_blank\">Open research data</a></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/374e440ba449854466368f44d2391cf75a752a12.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/dan4th/5133979718\" target=\"_blank\">Dan4th Nicholas</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Increase citation"
+      },
+      {
+        "title": "Generate impact",
+        "body": "<p><em><strong>&#39;The initial investment is scientific, but the ultimate return is economic and social&#39;</strong></em></p><p>John Wood, currently the Co-Chair of the global Research Data Alliance (RDA), said that people should&nbsp;&lsquo;plan the harvest&rsquo; for the economic benefits that the significant public investments in data, research and technical infrastructure are bringing.</p><p>Science is not just the study of the world, but also how it can be improved. The benefits of being able to bring the worlds data together as a new scientific resource are not yet being realised due to practices which limit the release of data and then don&#39;t preserve it beyond a <a href=\"http://www.upi.com/Science_News/2013/12/19/80-percent-of-scientific-data-from-publicly-funded-research-is-lost-within-two-decades/8781387477327/#ixzz3PYcUxswu\" target=\"_blank\">few years at best</a>.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Generate impact"
+      }
+    ]
+  },
+  {
+    "_id": "58e63997d084d5167a04d425",
+    "_layout": "left",
+    "_parentId": "58e63981d084d5167a04d424",
+    "_type": "component",
+    "body": "<p>The importance of sharing research data has meant that many parties have now put in place policies and mandates that enforce the publication of research data.&nbsp;</p>",
+    "displayTitle": "The support for open research data",
+    "title": "The support for open research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Funder mandates",
+        "body": "<p>Many research funders&nbsp;now require at least a statement in each publication on how and on what terms any underlying data can be accessed by third parties.</p><p>The Digital Curation Center (DCC) provides a great summary of <a href=\"http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies\" target=\"_blank\">funders policy&#39;s</a>&nbsp;including the requirements for long term curation and monitoring.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Institutional policies",
+        "body": "<p>Publishing research data can help increase the reputation of not just the researcher but also the research institution.&nbsp;</p><p>Many institutions have now adopted a research data management policy which is designed to support the publication of research data as a part of normal process.&nbsp;</p><p>Read more about the research data management policies of:</p><ul><li><a href=\"http://researchdata.ox.ac.uk/university-of-oxford-policy-on-the-management-of-research-data-and-records/\" target=\"_blank\">University of Oxford</a></li><li><a href=\"http://www.ed.ac.uk/information-services/research-support/research-data-service\" target=\"_blank\">University of Edinburgh</a></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Journals and publishers",
+        "body": "<p>Many of the biggest journals and publishers now have data sharing requirements that must be met. You can read more about some of these here:</p><ul><li>Science&rsquo;s&nbsp;<a href=\"http://www.sciencemag.org/authors/science-editorial-policies\">Data Deposition Policy</a>. Scroll down to the &ldquo;Data and Materials Availability after Publication&rdquo; section</li><li>SpringerNature&rsquo;s&nbsp;<a href=\"http://www.springernature.com/gp/group/data-policy/\">Data Sharing Policies</a>. Journal example: Nature&rsquo;s policy on&nbsp;<a href=\"http://www.nature.com/authors/policies/availability.html\">Availability of data, materials, and methods</a></li><li>Wiley&rsquo;s<a href=\"https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-and-open-access/open-access/data-sharing.html\">&nbsp;Data Sharing Service</a></li><li>American Geophysical Union&rsquo;s&nbsp;<a href=\"http://publications.agu.org/author-resource-center/publication-policies/data-policy/\">Publication Data Policy</a></li><li>Sage&rsquo;s&nbsp;<a href=\"https://us.sagepub.com/en-us/nam/journal/big-data-society#ARTICLETYPES\">Replication policy</a></li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58e63999d084d5167a04d426",
+    "_layout": "right",
+    "_parentId": "58e63981d084d5167a04d424",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58e639a3d084d5167a04d429",
+    "_layout": "right",
+    "_parentId": "58e6399ad084d5167a04d427",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58e639bad084d5167a04d42c",
+    "_layout": "left",
+    "_parentId": "58e639abd084d5167a04d42b",
+    "_type": "component",
+    "body": "<p>According to current&nbsp;definitions, what is the primary driver for opening up research data?</p>",
+    "displayTitle": "What is research data?",
+    "title": "Q: What is research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select an option and then click 'submit'.",
+    "_items": [
+      {
+        "text": "To increase citation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To build institutional reputation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "So that others can use your data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "So that research can be validated",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to&nbsp;<strong>validate research findings</strong>.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to&nbsp;<strong>validate research findings</strong>.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58e639bcd084d5167a04d42d",
+    "_layout": "right",
+    "_parentId": "58e639abd084d5167a04d42b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d31ed292b9a5b50993b9434076d7209a64401cc3.jpg",
+      "small": "course/en/assets/d31ed292b9a5b50993b9434076d7209a64401cc3.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58e639ccd084d5167a04d42f",
+    "_layout": "right",
+    "_parentId": "58e639bdd084d5167a04d42e",
+    "_type": "component",
+    "body": "<p>Open research data is a necessary but not sufficient requirement for validating research. What&nbsp;other parts of the of the research cycle would benefit from being open?</p>",
+    "displayTitle": "Where does research data fit?",
+    "title": "Q: Where does research data fit?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select two items and then click 'submit'",
+    "_items": [
+      {
+        "text": "Research process",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "All raw data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Software and tools",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Scholarly publication",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>As well as open research data, the methodology and tools should be available in order to help others validate the research. Opening up the scholarly publication is not necessary, but helps increase impact. Publishing all the raw data openly may end up overwhelming the user.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>As well as open research data, the methodology and tools should be available in order to help others validate the research. Opening up the scholarly publication is not necessary, but helps increase impact. Publishing all the raw data openly may end up overwhelming the user.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58e639ced084d5167a04d430",
+    "_layout": "left",
+    "_parentId": "58e639bdd084d5167a04d42e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "small": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58e639dbd084d5167a04d432",
+    "_layout": "left",
+    "_parentId": "58e639cfd084d5167a04d431",
+    "_type": "component",
+    "body": "<p>Other than making research verifiable, what other benefits are there of opening up research data?</p>",
+    "displayTitle": "The benefits of opening up research data",
+    "title": "The benefits of opening up research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select two items and click 'submit'",
+    "_items": [
+      {
+        "text": "Enable reuse",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Increase citation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Increases research funding",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Improves exam marks",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Enabling re-use allows researches to build upon the findings of others, or apply them in a different domain. Additionally, studies have found that open research data is positively&nbsp;linked to increased citation.&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Enabling re-use allows researches to build upon the findings of others, or apply them in a different domain. Additionally, studies have found that open research data is positively&nbsp;linked to increased citation.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58e639dcd084d5167a04d433",
+    "_layout": "right",
+    "_parentId": "58e639cfd084d5167a04d431",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1df129630da9e360cea725c7c5eebda0b337c7ba.jpg",
+      "small": "course/en/assets/1df129630da9e360cea725c7c5eebda0b337c7ba.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58e639ecd084d5167a04d436",
+    "_layout": "left",
+    "_parentId": "58e639e5d084d5167a04d434",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58e639e9d084d5167a04d435",
+    "_layout": "right",
+    "_parentId": "58e639e5d084d5167a04d434",
+    "_type": "component",
+    "body": "<p>The main driver for open research data is...</p>",
+    "displayTitle": "The support for open research data",
+    "title": "Q: The support for open research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select two options and then click 'submit'",
+    "_items": [
+      {
+        "text": "Funder mandates",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Journal data sharing requirements",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Career progression goals",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Community expectation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Two of the main drivers for open research data are funder mandates and journal and publisher data sharing policies.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Two of the main drivers for open research data are funder mandates and journal and publisher data sharing policies.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58e639f6d084d5167a04d43a",
+    "_layout": "right",
+    "_parentId": "58e639eed084d5167a04d438",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "small": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-189810137.html\" target=\"_blank\">Kritchanut</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58e639f4d084d5167a04d439",
+    "_layout": "left",
+    "_parentId": "58e639eed084d5167a04d438",
+    "_type": "component",
+    "body": "<p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to&nbsp;<strong>validate research findings</strong>.</p><p>This material doesn&#39;t just include data, but also research methodology and tools necessary to validate research.&nbsp;</p><p>Providing open access to research, code and data has been shown to help increase citation as well as increase re-use.&nbsp;</p><p>While mandates and policies are currently driving the publication of open research data, expectation is growing within the community to make this practice the norm.</p><p>Ready to publish&nbsp;your research data openly?</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5919acb6d084d5167a04e6e6",
+    "_layout": "right",
+    "_parentId": "5919acb6d084d5167a04e6c7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Increasing your profitability",
+    "title": "Increasing your profitability",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Using pricing",
+        "body": "<p dir=\"ltr\">One way is to price your products or services, whilst maintaining the same costs. Alternatively, you could reduce the cost of production.</p><p dir=\"ltr\">You might think that increasing your prices will automatically increase your profits, but there are other factors that you need to consider.</p><p dir=\"ltr\">You need to check your prices against the competition. Open data on pricing information and consumer trends will help you compare.</p><p dir=\"ltr\">It&#39;s also possible that changing your pricing may influence your sales. Higher prices may lead to fewer sales.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increasing efficiency",
+        "body": "<p dir=\"ltr\">Many organisations see the commercial value of data, and adjust their spend accordingly. There is also a time factor involved in sourcing datasets and arranging contracts or&nbsp;data sharing agreements.</p><p dir=\"ltr\">Using open&nbsp;data is a great way to save time and money involved in sourcing and acquiring valuable datasets individually.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5919acb7d084d5167a04e6fa",
+    "_layout": "right",
+    "_parentId": "5919acb6d084d5167a04e6cb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5919acb7d084d5167a04e6fd",
+    "_layout": "left",
+    "_parentId": "5919acb6d084d5167a04e6cb",
+    "_type": "component",
+    "body": "<p>Here are some questions to test what you&#39;ve learnt.</p>",
+    "displayTitle": "Are you ready to grow an open data business?",
+    "title": "Are you ready to grow an open data business?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5919acb7d084d5167a04e6fe",
+    "_layout": "left",
+    "_parentId": "5919acb6d084d5167a04e6cc",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Open data isn&#39;t just useful for startups looking to innovate with data, it is also a crucial source to grow and develop your business. A business&nbsp;grows by increasing sales or by&nbsp;increasing its profitability and open data can support both of these activities.</p><p dir=\"ltr\">​​​​​​In this module we will explore:</p><ul dir=\"ltr\"><li>Increasing sales with open data</li><li>Improving offer with open data</li><li>Increasing profitability with open data</li></ul>",
+    "displayTitle": "Growing a business with open data",
+    "title": "Growing a business with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5919acb7d084d5167a04e6ff",
+    "_layout": "right",
+    "_parentId": "5919acb6d084d5167a04e6cc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5919acb7d084d5167a04e709",
+    "_layout": "left",
+    "_parentId": "5919acb6d084d5167a04e6ce",
+    "_type": "component",
+    "body": "<p><strong>Changing your pricing is one way to increase profitability. How can open data support your pricing model?</strong></p>",
+    "displayTitle": "Increasing your profitability",
+    "title": "Increasing your profitability",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Open data on pricing and consumer trends will help you adjust your prices.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open data will encourage investors to invest in your business and increase profitability.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Transparency about pricing will encourage more consumers.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open data on pricing and consumer trends will help you adjust your prices. You will need to check your prices against the&nbsp;competition.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data on pricing and consumer trends will help you adjust your prices. You will need to check your prices against the&nbsp;competition.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5919acb7d084d5167a04e70a",
+    "_layout": "left",
+    "_parentId": "5919acb6d084d5167a04e6cf",
+    "_type": "component",
+    "body": "<p><strong>Open data can help you increase sales by...</strong></p>",
+    "displayTitle": "Increasing your sales with open data",
+    "title": "Increasing your sales with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "helping you to identify potential customers",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "doing all the work so you don't have to",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "making your sales team redundant",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open data can help you to identify potential customers with sources such as&nbsp;demographics, disposal income, economic sectors and use of (mobile) internet by households helping you to build up a bigger picture.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data can help you to identify potential customers with sources such as&nbsp;demographics, disposal income, economic sectors and use of (mobile) internet by households helping you to build up a bigger picture.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5919ad90d084d5167a04e71d",
+    "_layout": "full",
+    "_parentId": "5919acb6d084d5167a04e6c6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Increasing your sales with open data",
+    "title": "Increasing your sales with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Know your competition",
+        "body": "<p dir=\"ltr\">Whether you&#39;re a startup&nbsp;or an established business, it pays to know who your competition is.</p><p dir=\"ltr\">If your target audience are buying similar products or services from a competitor, your sales will be lower.</p><p dir=\"ltr\">Company data is published openly&nbsp;by many governments worldwide. You can compare which data is open in which company with the <a href=\"http://registries.opencorporates.com/\" target=\"_blank\">Open Company Data Index</a>.</p><p dir=\"ltr\"><a href=\"https://opencorporates.com/\" target=\"_blank\">OpenCorporates</a> is an open data base of companies worldwide.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3bd032ada03e207a4f6a18675e692a1d00584dd3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/infinite-white-cubes-red-one-representing-254316427\" target=\"_blank\">tostphoto</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Existing customers"
+      },
+      {
+        "title": "Broadening your customer base",
+        "body": "<p dir=\"ltr\">A relatively simple tactic to increase your sales is to increase the location of your sales. Since you have already a good profile of the existing customer base, you only need to find similar &lsquo;customers&rsquo; in a broader area. If your product or service is heavily based on open data, you need to be certain of the availability of data in the new region or country.</p><p dir=\"ltr\">Investigate if your product or service can also be of use for other types of customers who have the same needs as your existing customers,&nbsp;for example of a different&nbsp;age, income level or industry&nbsp;segment.</p><p dir=\"ltr\">Use open data to help you identify those customers. There are a vast range of datasets that will be able to help you, such as data on&nbsp;demographics, disposal income, economic sectors and use of (mobile) internet by households and companies and many more.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d4df87128f27407a4835f94399a131d22185ca26.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-239545075.html\" target=\"_blank\">everything possible</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Broadening your customer profile"
+      },
+      {
+        "title": "Getting your timing right",
+        "body": "<p>Open data can help you target new B2B audiences at the right time by providing insights about other companies.</p><p><a href=\"https://vainu.io/\" target=\"_blank\">Finish startup Vainu</a> have built their business&nbsp;around using data and open data to maximise sales for other organisations.</p><p>For example, open data about company mergers and acquisitions, new hires, structure changes, new products and anniversaries can provide event organisers with a better idea of when to target these customers.</p>",
+        "_graphic": {
+          "src": "course/en/assets/da35adbecf243a0189bb459e3e973a1edf01dab3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/free-vector/colorful-clock_794576.htm#term=clock&page=1&position=13\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Getting your timing right"
+      }
+    ]
+  },
+  {
+    "_id": "5919ae97d084d5167a04e723",
+    "_layout": "left",
+    "_parentId": "5919acb6d084d5167a04e6cd",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Open data can help you diversify your offering by enriching your existing data.</p><p dir=\"ltr\">If you are an aggregator who already collects and aggregates data to sell to the customers, open data can enrich your data. <a href=\"http://www.transportapi.com/\">Transport API</a> are the UK&#39;s single,&nbsp;comprehensive source of UK transport information. They aggregate data from this sources which they then clean and combine into one API saving other companies time and money.</p><p>If your value comes from analysing data and identifying insights, you can integrate open data to diversify that insight. For example, <a href=\"http://www.zoopla.co.uk/\">Zoopla</a> uses transport data from TfL as well as property data from Land Registry to help its users search for suitable properties.</p><p dir=\"ltr\">If you are a developer, you can include additional data in your application. <a href=\"http://shouldigo.info/\">Should I go?</a> combines multiple open data sources on locations and weather conditions to enhance their application for tourists.</p><p dir=\"ltr\">&nbsp;</p>",
+    "displayTitle": "Improving your offer with open data",
+    "title": "Improving your offer with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "591d665cd084d5167a04e72e",
+    "_layout": "right",
+    "_parentId": "591d664ed084d5167a04e729",
+    "_type": "component",
+    "body": "<p>What is one way that open data can help you to improve your offer?</p>",
+    "displayTitle": "Improving your offer with open data",
+    "title": "Improving your offer with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Open data is another source from which insight can be derived.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open data makes your products more desirable.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Open data increases the transparency of your business operations.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Many businesses make their money from analysing data and selling insights.Open data is another source that can be analysed and used to find new, diverse insights.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Many businesses make their money from analysing data and selling insights.Open data is another source that can be analysed and used to find new, diverse insights.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5919acb7d084d5167a04e71b",
+    "_layout": "left",
+    "_parentId": "5919acb6d084d5167a04e6d3",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Open data isn&#39;t just useful for startups looking to innovate with data, it is also a crucial source to grow and develop your business. A business&nbsp;grows by increasing sales or by&nbsp;increasing its profitability and open data can support both of these activities.</p><p dir=\"ltr\">From making&nbsp;your business more efficient by removing many of the manual tasks involved, to&nbsp;helping you identify new opportunities to grow&nbsp;and comparing your business to competitors, more and more businesses are using open data.</p>",
+    "displayTitle": "Growing a business with open data",
+    "title": "Growing a business with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5919ae6cd084d5167a04e722",
+    "_layout": "right",
+    "_parentId": "5919acb6d084d5167a04e6cd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/35512190b3a6a54f6000b9c08465a20bbbf81708.jpg",
+      "small": "course/en/assets/35512190b3a6a54f6000b9c08465a20bbbf81708.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/seamless-background-arrows-icons-contemporary-modern-221630044\" target=\"_blank\">Monash</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5919acb6d084d5167a04e6e7",
+    "_layout": "left",
+    "_parentId": "5919acb6d084d5167a04e6c7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ce0bd3bebcb78c3e7d0a750bf77ccb8f482f18a7.png",
+      "small": "course/en/assets/ce0bd3bebcb78c3e7d0a750bf77ccb8f482f18a7.png",
+      "attribution": "<a href=\"https://pixabay.com/en/arrow-business-financial-graph-1295953/\" target=\"_blank\">OpenClipart-Vectors</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5919acb7d084d5167a04e70b",
+    "_layout": "right",
+    "_parentId": "5919acb6d084d5167a04e6cf",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98f936a6068839f288e2830b0df09e7cfaba6899.jpg",
+      "small": "course/en/assets/98f936a6068839f288e2830b0df09e7cfaba6899.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-239545075.html\" target=\"_blank\">everything possible</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "591d664ed084d5167a04e72a",
+    "_layout": "left",
+    "_parentId": "591d664ed084d5167a04e729",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/35512190b3a6a54f6000b9c08465a20bbbf81708.jpg",
+      "small": "course/en/assets/35512190b3a6a54f6000b9c08465a20bbbf81708.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/seamless-background-arrows-icons-contemporary-modern-221630044\" target=\"_blank\">Monash</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5919acb7d084d5167a04e706",
+    "_layout": "right",
+    "_parentId": "5919acb6d084d5167a04e6ce",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/26e9fd7faafa11850f2ca0061aafd6ce5d43b288.png",
+      "small": "course/en/assets/26e9fd7faafa11850f2ca0061aafd6ce5d43b288.png",
+      "attribution": "<a href=\"https://pixabay.com/en/arrow-business-financial-graph-1295953/\" target=\"_blank\">OpenClipart-Vectors</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "582498874d7b7e82691e4245",
+    "_layout": "left",
+    "_parentId": "582498044d7b7e82691e4243",
     "_type": "component",
     "body": "<p dir=\"ltr\">Opening data can be a valuable activity for any organisation. Whether to drive innovation in the business, develop a clearer picture of operations or improve products and services, a growing number of private and public sector organisations now benefit from publishing and using open data.</p><p dir=\"ltr\">But opening data might require a change in the culture of an organisation. Most organisations are configured to protect their data resources, even when the benefits of openness outweigh the costs. The key to overcoming this resistance is clear, effective communication of the benefits that open data can and is bringing.</p><p dir=\"ltr\">This module will prepare you to deliver a tailored pitch for open data that highlights value and addresses risks.</p><p dir=\"ltr\">In this module we&#39;ll explore how to:</p><ul><li>structure the perfect pitch</li><li>identify different audiences for your pitch</li><li>tailor your pitch to different audiences</li></ul>",
     "displayTitle": " Pitching for open data",
@@ -692,9 +2582,9 @@
     "instruction": ""
   },
   {
-    "_id": "59550775d084d5167a050c56",
+    "_id": "58a32224fda9f5660ad84ae6",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050be0",
+    "_parentId": "58a32206fda9f5660ad84ae5",
     "_type": "component",
     "body": "<p>You should start your elevator pitch by outlining the problem you are solving&nbsp;for your users. This is known as the value proposition.</p><p>The value proposition of a business is central to its business model. This is equally relevant in the private and public sectors. Without a strong value proposition, the organisation - whether a large corporation, a startup, a local authority or a charity - &nbsp;does not have justification to keep delivering its services.</p><p>Top tip: think of your value proposition as the abstract or executive summary of your solution. Keep it short, keep it snappy&nbsp;and use a list of three.</p><p>For example: open data can enhance&nbsp;your business&#39; reputation, improve your customers&#39; experience and&nbsp;diversify your product portfolio.</p>",
     "displayTitle": "What problem are you solving?",
@@ -709,9 +2599,9 @@
     "instruction": ""
   },
   {
-    "_id": "59550775d084d5167a050c57",
+    "_id": "58a3272afda9f5660ad84af5",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050bca",
+    "_parentId": "5824a0f94d7b7e82691e428f",
     "_type": "component",
     "body": "<p>This is the part of your pitch where you can explain your value proposition in more detail. Don&#39;t worry about repeating yourself. Repetition is key.</p><p>The first time you said your value&nbsp;proposition, you wanted&nbsp;to catch your audience&#39;s attention. Now you have their attention, and you&#39;ve explained the benefits for them, you can explain&nbsp;your solution in more detail.</p><p>This is also your chance to justify why your solution is better than alternative solutions. You can give competitive&nbsp;examples if relevant, or examples of where data has been shared with positive consequences&nbsp;to emphasise your point.&nbsp;</p><p>Use a list of three for maximum impact, and remember: repetition is key.</p>",
     "displayTitle": "Why it's best",
@@ -726,9 +2616,9 @@
     "instruction": ""
   },
   {
-    "_id": "59550775d084d5167a050c58",
+    "_id": "5825dea14d7b7e82691e42a9",
     "_layout": "full",
-    "_parentId": "59550775d084d5167a050bc9",
+    "_parentId": "5824a0604d7b7e82691e428b",
     "_type": "component",
     "body": "<p dir=\"ltr\">The next step in the pitch is to introduce real-life examples of where open data has already helped. In this section, we explore some existing case studies, grouped by the benefits identified in unlocking value from open data.</p>",
     "displayTitle": "What open data has already done",
@@ -798,9 +2688,9 @@
     ]
   },
   {
-    "_id": "59550775d084d5167a050c5a",
+    "_id": "58a57e52fda9f5660ad85665",
     "_layout": "left",
-    "_parentId": "59550775d084d5167a050be6",
+    "_parentId": "58a57e52fda9f5660ad85663",
     "_type": "component",
     "body": "<p dir=\"ltr\"><strong>Which argument for open data is the most appropriate in a pitch for the Head of Operations?</strong></p>",
     "displayTitle": "What can open data do?",
@@ -876,9 +2766,43 @@
     }
   },
   {
-    "_id": "59550775d084d5167a050c60",
+    "_id": "582ec7664d7b7e82691e44f0",
+    "_layout": "left",
+    "_parentId": "582ec71e4d7b7e82691e44ef",
+    "_type": "component",
+    "body": "<p>Open data is a relatively new concept. Any change will bring barriers - challenges for some current ways of working, or barriers for those who want to use open data but can&#39;t.</p><p>In this module we will explore how to overcome the barriers open data creates for established businesses.</p><p><strong>In this module:</strong></p><ul><li dir=\"ltr\">Why are there barriers?</li><li dir=\"ltr\">Overcoming technical barriers</li><li dir=\"ltr\">Overcoming non-technical barriers</li></ul>",
+    "displayTitle": "Overcoming barriers  for established businesses",
+    "title": "Overcoming barriers  for established businesses",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "582ec87d4d7b7e82691e44f4",
+    "_layout": "left",
+    "_parentId": "582ec7b74d7b7e82691e44f2",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Open data is&nbsp;relatively new, and new tools and concepts&nbsp;take a while to be widely adopted.</p><p>Additionally, established businesses were configured before open and open&nbsp;data, and so they weren&rsquo;t designed to incorporate open data. Some IT systems, internal data policies or businesses models create significant barriers for businesses looking to incorporate open data into their daily work. Working in the open may also require a significant culture shift for some organisations who are configured around protecting their resources and IP.</p><p>Barriers that open data may create for established businesses can be split into two categories: technical barriers, and non-technical barriers. We explore both categories in more detail below.</p>",
+    "displayTitle": "Why are there barriers?",
+    "title": "Why are there barriers?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58a57ee0fda9f5660ad85670",
     "_layout": "right",
-    "_parentId": "59550775d084d5167a050be8",
+    "_parentId": "58a57ee0fda9f5660ad8566f",
     "_type": "component",
     "body": "",
     "displayTitle": " ",
@@ -896,6 +2820,953 @@
       "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "597b3c49d084d5167a051340",
+    "_layout": "left",
+    "_parentId": "597b3c48d084d5167a05132f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg",
+      "small": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "597b3c49d084d5167a051343",
+    "_layout": "full",
+    "_parentId": "597b3c48d084d5167a051330",
+    "_type": "component",
+    "body": "<p>Businesses working in the open &ndash; whether built on open source or open data &ndash; need to carefully consider their value proposition. This is because value propositions built on open are fundamentally different from those built on traditional closed approaches. They do not rely on exclusive access to&nbsp;to data, code or information.&nbsp;</p><p>These new models present &nbsp;new opportunities&nbsp;that are not&nbsp;possible through more traditional models. This comes from using, publishing or both using and publishing open data.</p>",
+    "displayTitle": "The value proposition of open",
+    "title": "The value proposition of open",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Value from using open data",
+        "body": "<p>The main difference when using open data instead of proprietary data is that everyone has the same access that you do.</p><p>The value proposition of companies using open data is entrenched in what they do with the data. For example, cleaning, formatting or enriching open data with to either create new products and insights, or enhance existing products. Crucially, the service or product provided must be of higher value to the client than them performing the same task themselves. This could be that it is cheaper than doing it in-house or that it is quicker and therefore reduces the time to market.</p><p dir=\"ltr\"><a href=\"http://www.emu-analytics.com/\">Emu Analytics</a><a href=\"http://www.emu-analytics.com\" target=\"_blank\"> </a>provide geospatial data analytics using open data. They also create DataPacks of enriched open data about buildings in the UK, some of which are re-released as open data and some which are premium.</p><p>Geolytix&nbsp;use a wide range of <a href=\"https://www.geolytix.co.uk/?geodata\" target=\"_blank\">open data sources</a>&nbsp;to help retail sector clients make more informed &nbsp;decisions on the location and number of stores and the&nbsp;optimisation of home delivery and click and collect operations.&nbsp;&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/c63245598e40b673e19bef20bb609d0865afba4d.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Value from using open data"
+      },
+      {
+        "title": "Value from publishing open data",
+        "body": "<p>More and more companies are gaining value from publishing open data.</p><p>Publishing open data can push your users to&nbsp;other services that you offer. For example, Austrian startup Bike Citizens publish the location of their hire bikes. This means that consumers can more easily find the bikes, and therefore use the service that is provided.</p><p>Another benefit of publishing open data is so that your users become reliant on that data. Similar to a freemium model, you can then charge for additional services.</p><p>For example, <a href=\"https://opencorporates.com/\" target=\"_blank\">OpenCorporates</a> publish open data on companies worldwide. They provide open access to structured data for anyone working in the public good, but they charge&nbsp;proprietary data users for access to structured data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e7980bbe7f0e8916f118a2bf24193c8f88211ba2.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/cloud-business-process-management-concept-blue-259560827\" target=\"_blank\">JeKh</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Value from publishing open data"
+      }
+    ]
+  },
+  {
+    "_id": "597b3c49d084d5167a051347",
+    "_layout": "right",
+    "_parentId": "597b3c48d084d5167a051331",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "597b3c49d084d5167a051353",
+    "_layout": "right",
+    "_parentId": "597b3c49d084d5167a051334",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "597b3c49d084d5167a051356",
+    "_layout": "left",
+    "_parentId": "597b3c49d084d5167a051334",
+    "_type": "component",
+    "body": "<p>More and more businesses are using open data, from large corporations&nbsp;to startups. When starting a business with open data, it is important to design&nbsp;your business model and consider how open data will underpin that model.</p><p>​​​​​​Building a valid business model is essential to having a successful open data business.</p><p>In this module we explore:</p><ul dir=\"ltr\"><li>the business model canvass</li><li>building a&nbsp;value proposition</li><li>the value proposition of open</li><li>cost and revenue models of open</li></ul>",
+    "displayTitle": "Starting a business with open data",
+    "title": "Starting a business with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "597b3c49d084d5167a051357",
+    "_layout": "left",
+    "_parentId": "597b3c49d084d5167a051335",
+    "_type": "component",
+    "body": "<p>Making money from open data is also important to starting a business with open data. For businesses&nbsp;that use open data, these revenue models tend to be similar to other companies using data, for example by providing insights or structured data.</p><p>It is also possible to make money from publishing&nbsp;open data. Most businesses making money from open data tend to adopt a <a href=\"http://en.wikipedia.org/wiki/Freemium\" target=\"_blank\">freemium model</a>. In a freemium model, a base&nbsp;product or service is provided free of charge, but money&nbsp;is charged for proprietary features or functions.</p>",
+    "displayTitle": "Making money from open data",
+    "title": "Making money from open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "597b3c49d084d5167a051358",
+    "_layout": "right",
+    "_parentId": "597b3c49d084d5167a051335",
+    "_type": "component",
+    "body": "<p>Such features could include charging:</p>",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "By volume of data",
+        "body": "<p>Free tiers may offer access to a set volume of data per day, while paid tiers provide higher rates or no-limits.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "By usage licence",
+        "body": "<p>Fee tiers might offer data under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">sharealike licence</a>, while paid tiers might allow customers to keep their derived data closed.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "For support and guarantee ",
+        "body": "<p>Free tiers might not offer technical support or guarantee on availability, while paid tiers provide&nbsp;service level agreements and customer support.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "By time period covered",
+        "body": "<p>Free tiers might offer access only to historic data, while paid tiers offer more recent data, or visa versa.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "By frequency of update",
+        "body": "<p>Free tiers might offer delayed access to data while paid tiers get data in real-time.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "By access method",
+        "body": "<p>Free tiers might offer a download of tabular data while&nbsp;charging for access to an API.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "By subset",
+        "body": "<p>Free tiers may include only a subset of the entire dataset, while paid tiers might offer additional fields or API methods.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "597b3c4ad084d5167a05135d",
+    "_layout": "left",
+    "_parentId": "597b3c49d084d5167a051337",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A useful tool for getting started with your open data business is to use the business model canvas.</p><p dir=\"ltr\">The business model canvas offers a logical view of a business. It is key to identifying any areas of strengths, weakness or potential opportunity.</p><p dir=\"ltr\">The canvas is formed of nine key boxes: key partners, key activities, key resources, cost structure, customer segments, customer relationships, channels and revenue streams.</p><p dir=\"ltr\">In the middle of the canvas is the value proposition. This is the most important aspect of the canvas and of your business as without a strong value proposition, a business does not have justification to operate.</p>",
+    "displayTitle": "The business model canvas",
+    "title": "The business model canvas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "597b3c4ad084d5167a05135e",
+    "_layout": "right",
+    "_parentId": "597b3c49d084d5167a051337",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "small": "course/en/assets/833f6fa6f298a02d110b3aa111fd64be54c64a07.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "597b3c73d084d5167a051365",
+    "_layout": "right",
+    "_parentId": "597b3c73d084d5167a051364",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58356dd04d7b7e82691e46ba",
+    "_layout": "left",
+    "_parentId": "58356d9c4d7b7e82691e46b9",
+    "_type": "component",
+    "body": "<p><strong>Which of the following are value propositions&nbsp;of publishing open data?</strong></p>",
+    "displayTitle": "The value proposition of open",
+    "title": "The value proposition of open",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select all that apply and then click 'submit'",
+    "_items": [
+      {
+        "text": "Encourage your clients to use your other products and services",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Clients become reliant on your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "There is no value proposition",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p><strong>Well done!</strong></p><p>Publishing open data can push&nbsp;your users to other services that you offer and make them&nbsp;users become reliant on your data.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Publishing open data can push&nbsp;your users to other services that you offer and make them&nbsp;users become reliant on your data.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58356e5e4d7b7e82691e46be",
+    "_layout": "right",
+    "_parentId": "58356e3e4d7b7e82691e46bc",
+    "_type": "component",
+    "body": "<p><strong>How can you make money from publishing open data?</strong></p>",
+    "displayTitle": "Making money from open data",
+    "title": "Making money from open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "By charging for additional features or functions",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "By giving away all your data for free",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "By putting a non-commercial use clause in your licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Well done!</strong></p><p>You can make money from publishing open data by adopting a freemium model. This is where you have a base product that is available for free, and you charge for additional features or functions.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>You can make money from publishing open data by adopting a freemium model. This is where you have a base product that is available for free, and you charge for additional features or functions.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "597b400dd084d5167a05136f",
+    "_layout": "left",
+    "_parentId": "58356e3e4d7b7e82691e46bc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
+      "small": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "597b3c73d084d5167a051368",
+    "_layout": "left",
+    "_parentId": "597b3c73d084d5167a051364",
+    "_type": "component",
+    "body": "<p>More and more businesses are using open data, from large corporations&nbsp;to startups. When starting a business with open data, it is important to design&nbsp;your business model and consider how open data will underpin that model.</p><p>Having a valid value proposition is essential&nbsp;to starting a business model with open data, whether as a user or as a publisher.</p>",
+    "displayTitle": "Starting a business model with open data",
+    "title": "Starting a business model with open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58356dd34d7b7e82691e46bb",
+    "_layout": "right",
+    "_parentId": "58356d9c4d7b7e82691e46b9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e7980bbe7f0e8916f118a2bf24193c8f88211ba2.jpg",
+      "small": "course/en/assets/e7980bbe7f0e8916f118a2bf24193c8f88211ba2.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/cloud-business-process-management-concept-blue-259560827\" target=\"_blank\">JeKh</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58a46cc2fda9f5660ad85647",
+    "_layout": "full",
+    "_parentId": "582edb2d4d7b7e82691e4647",
+    "_type": "component",
+    "body": "<p>Some of the main barriers facing established businesses are technical in nature.</p>",
+    "displayTitle": "Overcoming technical barriers",
+    "title": "Overcoming technical barriers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Quality and reliability - as a consumer",
+        "body": "<p>A barrier for consuming&nbsp;open data as a core part of the business is questions around&nbsp;the quality and reliability of that data.</p><p>How do you know your data source will be regularly updated, that your rights to use it will be guaranteed, and that the data itself is accurate?</p><p>Things to look for that tell you the open data is quality:</p><ul><li>Has the data been updated regularly?</li><li>Does the publisher commit to keeping the data open?</li><li>Has the publisher included contact details?</li><li>Are there details of the publisher&#39;s quality control process?</li></ul><p>There are two quality marques&nbsp;that will help you with assessing open data quality, <a href=\"https://certificates.theodi.org/en/\">Open Data Certificate</a> and <a href=\"http://5stardata.info/en/\">5 Stars of Linked Open Data</a>. You can find out more about these quality marques in <a href=\"http://accelerate.theodi.org/en/module5/#/id/co-01\">What makes quality open data?</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Quality and reliability - as a publisher",
+        "body": "<p>Many businesses are reluctant to publish open data as they feel that any errors&nbsp;will reflect badly on the organisation.</p><p>Sometimes good quality open data depends on the needs of the person using it. Publishing that data openly can lead to better data and spreads the load in improvement.</p><p>For example UK released data on location of 300,000 bus-stops;<a href=\"http://wiki.openstreetmap.org/wiki/NaPTAN\" target=\"_blank\"> OpenStreetMap corrected 18,000 of them</a>, improving official data accuracy.&nbsp;You can read more examples in <a href=\"https://docs.google.com/document/d/1yjYimaols6xhoZHzy7NG2wHPJvX_G8MDozKoOE47PoQ/edit#\">this document</a> put together by <a href=\"https://okfn.org/\">Open Knowledge</a>.</p><p>For quick fixes, spreadsheet programmes and&nbsp;<a href=\"http://openrefine.org/\">OpenRefine</a>&nbsp;can help you. Find out more about getting your&nbsp;data ready to publish&nbsp;in&nbsp;<a href=\"http://accelerate.theodi.org/en/module11/#/id/co-01\">How to clean your data</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Lack of open data skills",
+        "body": "<p>The skills and knowledge to use open data effectively&nbsp;may not currently exist in the organisation.</p><p>To overcome this barrier, you need to identify which skills are required or undertake a skills gap analysis. Once you know what is missing, then&nbsp;seek either to develop existing staff, hire new capacity or outsource delivery.</p><p>The <a href=\"https://theodi.org/open-data-skills-framework\" target=\"_blank\">Open Data Skills Framework</a> is a useful tool to help you identify skills gaps, either as an individual or in a team.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legacy systems and processes",
+        "body": "<p dir=\"ltr\">Many systems were built or procured before the need to use open data, so they were not designed to include it.</p><p dir=\"ltr\">Legacy systems and processes often mean that it is very difficult to do new things. Whilst this is not a barrier that can be immediately overcome, you may be able to make small changes. Speak to your IT department, or to your procurement department. Explain to them what you want to do and why you want to do it, and they may be able to find a way around it.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "597b4809d084d5167a05138c",
+    "_layout": "right",
+    "_parentId": "597b47c6d084d5167a05138a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "597b4922d084d5167a051390",
+    "_layout": "left",
+    "_parentId": "597b4916d084d5167a05138f",
+    "_type": "component",
+    "body": "<p><strong>Why are there barriers for established businesses looking to work with open data?</strong></p>",
+    "displayTitle": "Why are there barriers?",
+    "title": "Why are there barriers?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Many businesses need to adapt in order to be compatible with open data.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open means giving away your products and services for free.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Open data is exclusive to the public sector.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Few established businesses were designed to incorporate open data, and so&nbsp;IT systems, internal data policies or businesses models create significant barriers. Working in the open may also require a significant culture shift for some organisations.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Few established businesses were designed to incorporate open data, and so&nbsp;IT systems, internal data policies or businesses models create significant barriers. Working in the open may also require a significant culture shift for some organisations.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58a5dd3cfda9f5660ad8589f",
+    "_layout": "left",
+    "_parentId": "58a5dcfefda9f5660ad8589e",
+    "_type": "component",
+    "body": "<p>Open data is a relatively new concept. Any change will bring barriers - challenges for some current ways of working, or barriers for those who want to use open data but can&#39;t.</p><p>Some barriers are technical in nature, such as&nbsp;the quality and reliability of available open data, a lack of open data skills within an organisation and legacy systems and processes. Some barriers are non-technical in nature, such as open data undermining the business model of the company, and a lack of buy-in, support and understanding of open data.</p><p>The key to overcoming the challenges is through education - upskilling the team to overcome the technical barriers and helping&nbsp;colleagues to understand that open data provides a opportunity for any established business.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58a46cfafda9f5660ad85649",
+    "_layout": "right",
+    "_parentId": "582ec9464d7b7e82691e44f6",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Some of the main barriers facing established businesses are non-technical in nature. Embracing&nbsp;open might require a change in the revenue model or culture of an organisation.</p>",
+    "displayTitle": "Overcoming non-technical barriers",
+    "title": "Overcoming non-technical barriers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Threat to business model",
+        "body": "<p>Open data can be a threat or a risk to an existing business model, particularly if the business model is selling data.</p><p>You could choose to ignore it, but in many fields, open is now considered inevitable.&nbsp;Wouldn&#39;t it make more sense to adapt now?&nbsp;</p><p>What insight could you offer? Could you combine the data with other data to add value/find insight?</p><p>For example, <a href=\"https://www.landmark.co.uk/\" target=\"_blank\">Landmark</a> used to sell government data about the environmental impact of the HS2 project in the UK. Once&nbsp;the data was made open, the company restructured to provide additional insights and analysis from that same data.</p><p>You can find out more about how open data can enhance your business in <a href=\"#/id/582eca684d7b7e82691e44f7\">Starting a business with open data</a> and <a href=\"#/id/5919acb5d084d5167a04e6bd\">Growing a business with open data</a>.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Lack of open data culture",
+        "body": "<p dir=\"ltr\">Adopting open data will often require a change in the way a business operates. This kind of change is known as a culture change. Open data needs to be at the heart of the business&rsquo; culture in order to maximise its impact.</p><p dir=\"ltr\">An open data culture means that open data is considered at every decision making point, at every change in strategy and every new initiative.</p><p>Active support from senior figures can help to encourage organisational buy-in.</p><p>Strong open data leadership and active engagement with key stakeholders is key to a successful open data initiative.</p><p>Find out more about open data and culture change for <a href=\"http://accelerate.theodi.org/en/module3/#/id/co-01\">governments</a> and for <a href=\"https://www.europeandataportal.eu/elearning/en/module15/#/id/co-01\" target=\"_blank\">businesses</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Lack of buy-in",
+        "body": "<p>You might be bought in to the idea of open data, but you will need wider support to make that a reality. Convincing your colleagues, manager or CEO to the value of open data is one of the biggest barriers.</p><p>The way to overcome this barrier is to have a strong vision that you can clearly articulate. Work out which benefits of open data are most likely to persuade the person that you are trying to convince, and include real life case studies and examples that are relevant to the point you are making.</p><p>Find out more about convincing others in <a href=\"#/id/582498034d7b7e82691e4241\">Pitching for open data.</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "597b4afad084d5167a051396",
+    "_layout": "right",
+    "_parentId": "597b4afad084d5167a051394",
+    "_type": "component",
+    "body": "<p><strong>How can you overcome issues of quality and reliability as a consumer of open data?</strong></p>",
+    "displayTitle": "Overcoming technical barriers",
+    "title": "Overcoming technical barriers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Assess the quality of the data against quality marques",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Hope for the best",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Don't use the data as it is too risky",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>There are two quality marques&nbsp;that will help you with assessing open data quality,&nbsp;<a href=\"https://certificates.theodi.org/en/\">Open Data Certificate</a>&nbsp;and&nbsp;<a href=\"http://5stardata.info/en/\">5 Stars of Linked Open Data</a>.</p><p>Things to look for that tell you the open data is quality:</p><ul><li>Has the data been updated regularly?</li><li>Does the publisher commit to keeping the data open?</li><li>Has the publisher included contact details?</li><li>Are there details of the publisher&#39;s quality control process?</li></ul><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>There are two quality marques&nbsp;that will help you with assessing open data quality,&nbsp;<a href=\"https://certificates.theodi.org/en/\">Open Data Certificate</a>&nbsp;and&nbsp;<a href=\"http://5stardata.info/en/\">5 Stars of Linked Open Data</a>.</p><p>Things to look for that tell you the open data is quality:</p><ul><li>Has the data been updated regularly?</li><li>Does the publisher commit to keeping the data open?</li><li>Has the publisher included contact details?</li><li>Are there details of the publisher&#39;s quality control process?</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "597b4dbdd084d5167a0513b3",
+    "_layout": "left",
+    "_parentId": "597b4dbdd084d5167a0513b1",
+    "_type": "component",
+    "body": "<p><strong>Open data might be a threat to your business model. How can you overcome that risk?</strong></p>",
+    "displayTitle": "Overcoming non-technical barriers",
+    "title": "Overcoming non-technical barriers",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Use open data as an opportunity to enhance your products or services",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Refuse to accept that your business model might need to change",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Sell your company",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open data can help you to enhance your existing products and services or provide an opportunity to create new products and services.&nbsp;</p><p>You can find out more about how open data can enhance your business in&nbsp;<a href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5824970c4d7b7e82691e423f/#/id/582eca684d7b7e82691e44f7\">Starting a business with open data</a>&nbsp;and&nbsp;<a href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5824970c4d7b7e82691e423f/#/id/5919acb5d084d5167a04e6bd\">Growing a business with open data</a>.&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data can help you to enhance your existing products and services or provide an opportunity to create new products and services.&nbsp;</p><p>You can find out more about how open data can enhance your business in&nbsp;<a href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5824970c4d7b7e82691e423f/#/id/582eca684d7b7e82691e44f7\">Starting a business with open data</a>&nbsp;and&nbsp;<a href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5824970c4d7b7e82691e423f/#/id/5919acb5d084d5167a04e6bd\">Growing a business with open data</a>.&nbsp;</p><p>&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58a46d39fda9f5660ad8564c",
+    "_layout": "left",
+    "_parentId": "582ec9464d7b7e82691e44f6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eb873132546e2efef06e9305e364cbeb58ad7126.jpg",
+      "small": "course/en/assets/eb873132546e2efef06e9305e364cbeb58ad7126.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/mountaineer-climb-climbing-sport-2100050/\" target=\"_blank\">cocoparisienne</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "597b4dbdd084d5167a0513b2",
+    "_layout": "right",
+    "_parentId": "597b4dbdd084d5167a0513b1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eb873132546e2efef06e9305e364cbeb58ad7126.jpg",
+      "small": "course/en/assets/eb873132546e2efef06e9305e364cbeb58ad7126.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/mountaineer-climb-climbing-sport-2100050/\" target=\"_blank\">cocoparisienne</a> <span class='assetLicence'>[CC0]</span>"
     }
   }
 ]

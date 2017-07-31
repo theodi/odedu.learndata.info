@@ -9,13 +9,13 @@
     "medium": 759,
     "large": 1024
   },
-  "_id": "59550775d084d5167a050c61",
+  "_id": "5824970c4d7b7e82691e4240",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
     "_duration": 400
   },
-  "_courseId": "59550775d084d5167a050bb1",
+  "_courseId": "5824970c4d7b7e82691e423f",
   "_accessibility": {
     "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
@@ -23,20 +23,16 @@
     "_isEnabled": false
   },
   "__v": 0,
-  "_tutor": {
-    "_isEnabled": false
-  },
   "build": {
     "includes": [
       "adapt-theme-odedu",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-tutor",
-      "adapt-skillsFramework",
       "adapt-contrib-pageLevelProgress",
+      "adapt-skillsFramework",
       "adapt-contrib-graphic",
-      "adapt-contrib-accordion",
-      "adapt-contrib-mcq",
       "adapt-contrib-text",
+      "adapt-contrib-mcq",
+      "adapt-contrib-accordion",
       "adapt-contrib-narrative"
     ]
   }
