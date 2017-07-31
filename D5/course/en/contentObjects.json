@@ -46,31 +46,6 @@
     }
   },
   {
-    "_id": "58f8b1b4d084d5167a04da27",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/3bd032ada03e207a4f6a18675e692a1d00584dd3.jpg"
-    },
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "",
-    "displayTitle": "When to open up data",
-    "title": "When to open up data",
-    "_skillsFramework": {
-      "_skills": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    }
-  },
-  {
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/641546c15c0af8c554b833be3cc3dfc09ac0b997.jpg"
@@ -93,6 +68,156 @@
     },
     "_skillsFramework": {
       "_skills": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/2f02baa67a4f8276891c6dd8549dc00678e3abf3.jpg"
+    },
+    "_id": "5971daf2d084d5167a050e80",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Data exists in a multitude of structures and formats.&nbsp;The problem with these structures is that each is suited to a different format. Given the different combinations of structures and formats, combining and analysing data that exists in these different structures is a problem. This module explores a potential solution to this problem.</p>",
+    "displayTitle": "RDF: Three is the magic number",
+    "title": "RDF: Three is the magic number",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/e75b5ea135fa3a1a636e64d93c85605bd992c031.png"
+    },
+    "_id": "5975efffd084d5167a050f16",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>In the 5-stars of linked open data, the 4th star states &quot;If you use identifiers for things, make them web based so people&nbsp;can point at your stuff&quot;. In this module we look at how the Resource Description Framework also recommends the use of web based identifiers and the caveats of doing so.</p>",
+    "displayTitle": "Linked open data and RDF",
+    "title": "Linked open data and RDF",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/809f1e5e6778d0fee4519e132e89f5b92697e05b.jpg"
+    },
+    "_id": "59773171d084d5167a050fb0",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Consistent availability of data is key to enabling reuse. This module looks at how to design and implement an Application Programming Interface (API) for data.&nbsp;</p>",
+    "displayTitle": "Having a REST with API design",
+    "title": "Having a REST with API design",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9ecec2d3dd059e44c55ee791655e13410eeeca3e.jpg"
+    },
+    "_id": "59776525d084d5167a0510fb",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Schemas&nbsp;play a key role in enabling the wide, automated re-use of data. This module looks at the role of and importance of&nbsp;schemas in assisting reusability and quality of data.</p>",
+    "displayTitle": "Choosing and designing schemas",
+    "title": "Choosing and designing schemas",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d1a863354f7c7c10cb246d3db2e51a54a8964b23.png"
+    },
+    "_id": "597b3450d084d5167a051246",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Having introduced all the core concepts of linked open data, schemas and RDF this module looks at how schemas are applied to RDF and the connection with linked open data.&nbsp;</p><p>&nbsp;</p>",
+    "displayTitle": "Schemas, linked open data and RDF",
+    "title": "Schemas, linked open data and RDF",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b699be349773a0d0af7c814ed53dbb6719680eb0.png"
+    },
+    "_id": "597cb40dd084d5167a0513c4",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>In 2001, Sir Tim Berners-Lee put forward a vision for the future of the web; the semantic web. This module explores what the semantic web is, the relation to linked open data, RDF and schemas.&nbsp;</p><p>&nbsp;</p>",
+    "displayTitle": "Is the semantic web the future of the web",
+    "title": "Is the semantic web the future of the web",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   }
 ]
