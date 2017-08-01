@@ -13,15 +13,15 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>Not all data is open and nor should be. It can be useful to think of data as a spectrum,&nbsp;from closed, to shared, to open. In this module we explore these three types of data.</p>",
+    "body": "<p>Not all data is open and nor should it be. It can be useful to think of data as existing across a spectrum,&nbsp;from closed, to shared, to open. In this module, we explore these three types of data.</p>",
     "displayTitle": "The Data Spectrum",
     "title": "The Data Spectrum",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {
@@ -38,15 +38,15 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail provides an opportunity to help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module we will look broadly at what data annotation is and how it can be applied to many types of data and datasets.</p>",
+    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail can help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module, we will look at what data annotation is and how it can be applied to different types of data.</p>",
     "displayTitle": "Annotating and describing data",
     "title": "Annotating and describing data",
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
-    },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
     }
   },
   {

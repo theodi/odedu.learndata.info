@@ -12,7 +12,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -40,91 +40,13 @@
     "instruction": ""
   },
   {
-    "_id": "58f8b19fd084d5167a04d963",
-    "_layout": "right",
-    "_parentId": "58f8b19ed084d5167a04d8db",
-    "_type": "component",
-    "body": "<p>Data that anyone can access but can&#39;t use or share is...</p>",
-    "displayTitle": "The Data Spectrum",
-    "title": "The Data Spectrum",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "open data",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "shared data",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "closed data",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data that anyone can access but can&#39;t use or share is an example of shared data.</p><p>For data to be open, anyone must be able to access, use and share it. Open data must be free from restrictions and published under an open licence.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Data that anyone can access but can&#39;t use or share is an example of shared data.</p><p>For data to be open, anyone must be able to access, use and share it. Open data must be free from restrictions and published under an open licence.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_id": "58f8b19fd084d5167a04d95d",
     "_layout": "left",
     "_parentId": "58f8b19ed084d5167a04d8d4",
     "_type": "component",
     "body": "<p>Why should&nbsp;some data remain shared or closed?</p>",
     "displayTitle": "Why we need open, shared and closed data",
-    "title": "Why we need open, shared and closed data",
+    "title": "Q: Why we need open, shared and closed data",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -213,7 +135,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -236,7 +158,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -252,14 +174,14 @@
     "_parentId": "58f8b19ed084d5167a04d8d4",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -305,7 +227,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -320,7 +242,7 @@
     "_layout": "left",
     "_parentId": "58fa0eb3d084d5167a04dbfb",
     "_type": "component",
-    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail provides an opportunity to help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module we will look broadly at what data annotation is and how it can be applied to many types of data and datasets.</p><p>This module looks at:</p><ul><li>What is data annotation?</li><li>Why annotate data?</li><li>What is describing data?</li><li>Why describe data?</li><li>Best practices for annotating and describing data</li></ul>",
+    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail can help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module, we will look at what data annotation is and how it can be applied to different types of data.</p><p>This module will cover:</p><ul><li>what is data annotation?</li><li>why annotate data?</li><li>what is describing data?</li><li>why describe data?</li><li>best practices for annotating and describing data</li></ul>",
     "displayTitle": "Annotating and describing data",
     "title": "Annotating and describing data",
     "_isAvailable": true,
@@ -360,7 +282,7 @@
     "_layout": "left",
     "_parentId": "58fa0f34d084d5167a04dc08",
     "_type": "component",
-    "body": "<p>Traditionally an annotation refers to a comment or explanation added to text or a diagram. Annotations traditionally appear in the margin of a book or as a highlight in the text itself.</p><p>The key concept of an annotation is that it is separate to the content itself and is added to assist explanation, emphasise a particular aspect or to provide comment. Annotations are added to specific parts of the original content or data, not the whole (covered&nbsp;in describing data).</p><p>In data, annotation is used to aid with visual presentation (e.g. on web pages), define types and languages of data (e.g. to distinguish between US and British date formats) and to provide comment in source control systems.&nbsp;</p>",
+    "body": "<p>An &#39;annotation&#39; traditionally refers to a comment or explanation added to text or a diagram. Annotations traditionally appear in the margin of a book or as&nbsp;highlighted within text itself.</p><p>Crucially, an&nbsp;annotation&nbsp;is separate to content itself and is added to help explain, emphasise or comment on something. Annotations are added to specific parts of the original content or data, not the whole (covered&nbsp;in describing data).</p><p>In data, annotation is used to aid with visual presentation (e.g. on web pages), define types and languages of data (e.g. to distinguish between US and British date formats) and to provide comment in source control systems.&nbsp;</p>",
     "displayTitle": "What is data annotation?",
     "title": "What is data annotation?",
     "_isAvailable": true,
@@ -539,7 +461,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -677,7 +599,7 @@
     "_layout": "left",
     "_parentId": "58fb5499d084d5167a04dc80",
     "_type": "component",
-    "body": "<p>Data is&nbsp;&#39;the raw material from which information and knowledge can be derived&#39;. This &#39;raw material&#39; covers a wide variety of things, &nbsp;including cinema screenings, train times, companies&#39;&nbsp;financials, or&nbsp;individuals&#39;&nbsp;medical history.</p><p>The Open Data Institute&#39;s data spectrum can help as to classify data as open, shared or closed.</p>",
+    "body": "<p>Data is&nbsp;the raw material from which information and knowledge can be derived. This &#39;raw material&#39; could be&nbsp;a variety of things,&nbsp;from cinema screenings to train times, company&nbsp;finances, to an individual&#39;s medical history.</p><p>The Data Spectrum was designed by the Open Data Institute&nbsp;to help you categorise data as open, shared or closed.</p>",
     "displayTitle": "Open, shared, closed data",
     "title": "Open, shared, closed data",
     "_isAvailable": true,
@@ -691,7 +613,7 @@
     "_items": [
       {
         "title": "Open data",
-        "body": "<p>Open data is data that anyone can access, use and share. Governments and organisations have opened up access to data such as weather records, earthquake monitoring, and even particle physics, allowing others to use this data and discover new solutions for the benefit of all.</p>",
+        "body": "<p>Open data is data that anyone can access, use and share. Governments and organisations have opened up access to data such as weather records, earthquake monitoring, and even particle physics, allowing others to use this data and discover new solutions.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -701,7 +623,7 @@
       },
       {
         "title": "Shared data",
-        "body": "<p>Shared data is data that is shared with a&nbsp;shared with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected everyday. Your supermarket shopping habits and the electoral register are just two examples of shared data.</p><p>&nbsp;</p>",
+        "body": "<p>Shared data is data that is shared with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected every day. Your supermarket shopping habits and the electoral register are just two examples of shared data.<br /><br />Not all shared data that is accessible is usable. For example, photos in Flickr are accessible but not all are usable, because they haven&#39;t been shared with an open licence.</p><p>&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -711,7 +633,7 @@
       },
       {
         "title": "Closed data",
-        "body": "<p>Closed data is data that only individuals or people inside a single&nbsp;organisation can see. &nbsp;There are often good reasons why this data should remain closed, and why we don&#39;t want anyone to be able to access and use it.&nbsp;Such data includes personal and company email.&nbsp;</p>",
+        "body": "<p>Closed data is data that only certain individuals or people within a specific organisation can see. &nbsp;There are often good reasons why this data should remain closed, and why not everyone should&nbsp;be able to access or use it.&nbsp;Such data includes personal and company emails.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -728,14 +650,14 @@
     "_parentId": "58fb5499d084d5167a04dc80",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -860,12 +782,12 @@
     },
     "instruction": "",
     "mobileInstruction": "",
-    "_hasNavigationInTextArea": true,
+    "_hasNavigationInTextArea": false,
     "_setCompletionOn": "inview",
     "_items": [
       {
         "title": "Open",
-        "body": "<p>Open data is where data is available for anyone to access, use and share.</p><p>Open data maximises innovation and opportunities for unexpected benefit.</p><p>Without open data,&nbsp;<a href=\"https://citymapper.com/berlin\" target=\"_blank\">Citymapper</a> and <a href=\"https://www.google.co.uk/maps\">Google Maps</a> would not be able to tell you&nbsp;the time of&nbsp;the next bus or train home.</p><p>Find out more about the value of open data in Unlocking value from open data.</p>",
+        "body": "<p>Open data is data that anyone to access, use and share.</p><p>Open data maximises innovation and opportunities for unexpected&nbsp;benefit.</p><p>Without open data,&nbsp;<a href=\"https://citymapper.com/berlin\" target=\"_blank\">Citymapper</a> and <a href=\"https://www.google.co.uk/maps\">Google Maps</a> would not be able to tell you&nbsp;the time of&nbsp;the next bus or train home.</p><p>Find out more about the value of open data in &#39;Unlocking value from open data&#39;.</p>",
         "_graphic": {
           "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
           "alt": "",
@@ -875,7 +797,7 @@
       },
       {
         "title": "Shared",
-        "body": "<p>With shared data, data is released to a specific group of people. Sometimes data is shared for a specific purpose only.</p><p>Sharing&nbsp;medical records and research with specific companies is critical to help&nbsp;improve healthcare. However, this data is still very sensitive and in most cases cannot be shared widely.</p><p>Data sharing has the advantage of allowing a slightly wider group of people to use and benefit from it, whilst also retaining some control and limiting usage required of sensitive data. &nbsp;</p>",
+        "body": "<p>&#39;Shared data&#39; is&nbsp;data that is released to a specific group of people. Sometimes data is shared for a specific purpose only.</p><p>Sharing&nbsp;medical records and research with specific companies is critical to improving healthcare. However, this data is still very sensitive and in most cases cannot be shared very widely.</p><p>Data sharing has the advantage of allowing a group of people to use and benefit from it, while also retaining some control and limiting the&nbsp;use&nbsp;of data that might be sensitive, as needed. &nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/4f3e720f0df8c5e9e8980551e0e4f1b499568325.jpg",
           "alt": "",
@@ -885,7 +807,7 @@
       },
       {
         "title": "Closed",
-        "body": "<p>Closed data remains locked away in individual organisations. Sometimes only a handful of named individuals will have access to the data.</p><p>Examples of this include national security data, confidential business secrets, or your employment record with human resources.</p><p>Closed data is necessary to protect the&nbsp;rights of individuals and&nbsp;the intellectual capital of organisations.</p><p>However, not all data needs to be closed. It can be useful to look at data from a different angle, to justify why it should be closed, instead of justifying why it should be open. This approach is called &#39;open by default.&#39;</p>",
+        "body": "<p>Closed data is only available to certain people, within a specific organisation, for example. Sometimes only a handful of people will have access to the data.</p><p>Examples of closed data include national security data, confidential business secrets, or your employment records at your place of work.</p><p>Keeping some data closed&nbsp;is necessary to protect the&nbsp;rights of individuals and&nbsp;the intellectual capital of organisations.</p><p>However, not all data needs to be closed. It can be useful to look at data from a different angle, to justify why it should be closed, rather than why it should be open. This approach is called &#39;open by default&#39;.&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/f476f3f4c685b49d3767079ce18a539ee8bbb892.jpg",
           "alt": "",
@@ -900,7 +822,7 @@
     "_layout": "full",
     "_parentId": "58fb5499d084d5167a04dc83",
     "_type": "component",
-    "body": "<p>The world of data&nbsp;is starting to be defined by three different types of data: open, shared and closed data. Find out more about each in this short video.</p>",
+    "body": "<p>The world of data can be defined by three different data types: open, shared and closed. Find out more about each in this short video.</p>",
     "displayTitle": "Open / Shared / Closed: The world of data",
     "title": "Open / Shared / Closed: The world of data",
     "_isAvailable": true,
@@ -938,30 +860,13 @@
     }
   },
   {
-    "_id": "58fb5499d084d5167a04dc87",
-    "_layout": "left",
-    "_parentId": "58fb5499d084d5167a04dc7a",
-    "_type": "component",
-    "body": "<p>Not all data is open data, and nor should it be. It can be useful to think of data as a spectrum,&nbsp;from closed, to shared, to open.&nbsp;</p><p>The terms open, closed and shared are commonly confused and, if you use them incorrectly, can negatively impact trust around data.</p><p>In this module we explore:</p><ul dir=\"ltr\"><li>open, shared and closed data</li><li>the data spectrum</li><li>why we need open, shared and closed data</li></ul>",
-    "displayTitle": "The Data Spectrum",
-    "title": "The Data Spectrum",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "58fb54d7d084d5167a04dcb7",
     "_layout": "left",
     "_parentId": "58fb54d7d084d5167a04dcb3",
     "_type": "component",
-    "body": "<p>Not all data is open data, and nor should it be. It can be useful to think of data as a spectrum,&nbsp;from closed, to shared, to open.&nbsp;</p><p>The terms open, closed and shared are commonly confused and, if you use them incorrectly, can negatively impact trust around data.</p><p>Open data is data that anyone can access use and share.&nbsp;Open data must be free from restrictions and published under an open licence.</p><p>Shared data is data that is shared with a&nbsp;shared with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected everyday.</p><p>Closed data is data that only individuals or people inside a single&nbsp;organisation can see. There are often good reasons why this data should remain closed, and why we don&#39;t want anyone to be able to access and use it.&nbsp;</p><p><a href=\"https://theodi.org/blog/closed-shared-open-data-whats-in-a-name\">Find out more about about the Open Data Institute&#39;s&nbsp;Data Spectrum</a>.</p>",
-    "displayTitle": "The Data Spectrum",
-    "title": "The Data Spectrum",
+    "body": "<p>Not all data is open and nor should it be. It can be useful to think of data as existing across a spectrum, from open to shared to closed.</p><p>The terms used to describe data &ndash; such as &#39;open&#39;, &#39;shared&#39; and &#39;closed&#39; &ndash; can be confused. If they are used incorrectly, they can affect people&#39;s trust around data.</p><p>Open data is data that anyone can access, use or share.&nbsp;Open data must be free from restrictions and published under an open licence.</p><p>Shared data is data that is shared&nbsp;with a specific group of people, for a specific purpose. It is a broad term that covers a huge amount of the data that is collected every day.</p><p>Closed data is data that only certain individuals or people within a specific organisation can see. There are often good reasons why this data should remain closed, and why not everyone should&nbsp;be able to access, use or share it.&nbsp;</p><p><a href=\"https://theodi.org/blog/closed-shared-open-data-whats-in-a-name\">Find out more about the Open Data Institute&#39;s&nbsp;Data Spectrum</a>.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -977,14 +882,14 @@
     "_parentId": "591d9520d084d5167a04e755",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1000,8 +905,8 @@
     "_parentId": "58f8b19ed084d5167a04d8da",
     "_type": "component",
     "body": "<p><strong>The Data Spectrum includes open, shared and closed data.</strong></p><p><strong>Match each example to the type of data.</strong></p>",
-    "displayTitle": "Open, shared, closed data",
-    "title": "Open, shared, closed data",
+    "displayTitle": "Open, shared and closed data",
+    "title": "Q: Open, shared and closed data",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1304,7 +1209,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -2243,7 +2148,7 @@
     "_classes": "color-two",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -2251,6 +2156,101 @@
       "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "58fb5499d084d5167a04dc87",
+    "_layout": "left",
+    "_parentId": "58fb5499d084d5167a04dc7a",
+    "_type": "component",
+    "body": "<p>Not all data is open and nor should it be. It can be useful to think of data as existing across a spectrum, from open to shared to closed.</p><p>The terms used to describe data &ndash; such as &#39;open&#39;, &#39;shared&#39; and &#39;closed&#39; &ndash; can be confused. If they are used incorrectly, they can affect people&#39;s trust around data.</p><p>In this module, we explore:</p><ul dir=\"ltr\"><li>open, shared and closed data</li><li>the Data Spectrum</li><li>why we need open, shared and closed data</li></ul>",
+    "displayTitle": "The Data Spectrum",
+    "title": "The Data Spectrum",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b19fd084d5167a04d963",
+    "_layout": "right",
+    "_parentId": "58f8b19ed084d5167a04d8db",
+    "_type": "component",
+    "body": "<p>Data that anyone can access but can&#39;t use or share is...</p>",
+    "displayTitle": "The Data Spectrum",
+    "title": "Q: The Data Spectrum",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "open data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "(unusable) shared data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "closed data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data that anyone can access but can&#39;t use or share is an example of (unusable) shared data.</p><p>Not all data that is accessible is usable. For example, photos in Flickr are accessible but not all are usable, because they haven&#39;t been shared with an open licence.</p><p>For data to be open, anyone must be able to access, use and share it. Open data must be free from restrictions and published under an open licence.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Data that anyone can access but can&#39;t use or share is an example of shared data.</p><p>For data to be open, anyone must be able to access, use and share it. Open data must be free from restrictions and published under an open licence.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   }
 ]
