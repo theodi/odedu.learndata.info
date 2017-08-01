@@ -38,8 +38,8 @@
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-accordion",
-      "adapt-contrib-narrative",
       "adapt-contrib-matching",
+      "adapt-contrib-narrative",
       "adapt-contrib-gmcq",
       "adapt-contrib-media"
     ]

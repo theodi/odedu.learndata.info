@@ -83,70 +83,6 @@
     }
   },
   {
-    "_id": "58f8b1b4d084d5167a04da8b",
-    "_layout": "right",
-    "_parentId": "58f8b1b4d084d5167a04da4b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_id": "58f8b1b4d084d5167a04da90",
-    "_layout": "right",
-    "_parentId": "58f8b1b4d084d5167a04da7a",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_id": "58f8b1b4d084d5167a04da9a",
-    "_layout": "right",
-    "_parentId": "58f8b1b4d084d5167a04da7b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_id": "58f8b1b4d084d5167a04daa7",
-    "_layout": "right",
-    "_parentId": "58f8b1b4d084d5167a04da7c",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
     "_id": "5954d8efd084d5167a0500ee",
     "_layout": "left",
     "_parentId": "5954d8efd084d5167a0500ec",
@@ -325,54 +261,6 @@
     }
   },
   {
-    "_id": "58f8b1b4d084d5167a04da8c",
-    "_layout": "left",
-    "_parentId": "58f8b1b4d084d5167a04da4b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_id": "58f8b1b4d084d5167a04da8d",
-    "_layout": "left",
-    "_parentId": "58f8b1b4d084d5167a04da7a",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_id": "58f8b1b4d084d5167a04da98",
-    "_layout": "left",
-    "_parentId": "58f8b1b4d084d5167a04da7b",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
     "_id": "58f8b1b4d084d5167a04da9b",
     "_layout": "left",
     "_parentId": "58f8b1b4d084d5167a04da4a",
@@ -410,54 +298,6 @@
       "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": ""
-    }
-  },
-  {
-    "_id": "58f8b1b5d084d5167a04dadc",
-    "_layout": "left",
-    "_parentId": "58f8b1b4d084d5167a04da5c",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_id": "58f8b1b5d084d5167a04dade",
-    "_layout": "right",
-    "_parentId": "58f8b1b4d084d5167a04da5c",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_id": "58f8b1b5d084d5167a04dae4",
-    "_layout": "left",
-    "_parentId": "58f8b1b4d084d5167a04da7c",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
     }
   },
   {
@@ -564,118 +404,6 @@
     "instruction": ""
   },
   {
-    "_id": "58f8b1b5d084d5167a04daf9",
-    "_layout": "right",
-    "_parentId": "58f8b1b4d084d5167a04da78",
-    "_type": "component",
-    "body": "<p>With the main purpose of opening research data being to validate research findings it is important to think carefully about where research data fits in the scholarly publication process. There are many aspects of the process, especially when involving digital tools.</p>",
-    "displayTitle": "Where does research data fit?",
-    "title": "Where does research data fit?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "title": "Scholarly publication",
-        "body": "<p>Any published research data should be carefully linked to the research findings.&nbsp;</p><p>Putting together a research publication takes time and you should consider at each stage if there is any additional material required to enable the validation of the research.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Research process",
-        "body": "<p>Although the research methodology should be outlined clearly in the scholarly publication, the concise nature of the publication does not always allow for the full expression of the process.</p><p>Services such as <a href=\"https://www.myexperiment.org/about\" target=\"_blank\">MyExperiment</a>&nbsp;provide&nbsp;a collaborative environment where scientists can safely publish their workflows and&nbsp;<em>in silico</em>&nbsp;experiments. This enables others to view and follow the research process more clearly.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Open data",
-        "body": "<p>With the process outlined, it is important to try and give access to the relevant data to others.&nbsp;</p><p>If the research has sourced open data then this should be linked to and any specifics over access outlined. If the source data is not open then it will be necessary to carefully check your rights to publish the data for others to use it.&nbsp;</p><p>If you have created the data yourself then you, or your institution, own the data. This means you are free to chose how to publish the data.</p><p>It is recommended that data you own is published under an open licence which required attribution. This way much like citation, you can see who is building upon your data.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Open source",
-        "body": "<p>Alongside the research data you may used or created tools to process the data. Alternatively you might have used algorithms or processes within tools such as matlab.&nbsp;</p><p>It is important to consider how to share these tools as openly as possible as they may be a necessary and indeed core part of the material required to verify your research results.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_id": "58f8b1b5d084d5167a04dafa",
-    "_layout": "full",
-    "_parentId": "58f8b1b4d084d5167a04da49",
-    "_type": "component",
-    "body": "<p>Other than making research verifiable there are a number of other benefits to be gained from opening up research data.&nbsp;</p>",
-    "displayTitle": "The benefits of opening up research data",
-    "title": "The benefits of opening up research data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Enable reuse",
-        "body": "<p>Another key aspect in scientific research is the ability to build upon the research of others, be it in the same domain or a different one.&nbsp;</p><p>The expression&nbsp;<em>&#39;standing on the shoulders of giants&#39;&nbsp;</em>is commonly used within science to express the desire to&nbsp;<em>&#39;discover truth by building on previous discoveries&#39;</em>.&nbsp;</p><p>All researchers build on the research of others, so having data that can be used or bought up to date can save a lot of time vs re-collecting from scratch.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/46876a953db93061532ac45990d1a554be973920.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Enable reuse"
-      },
-      {
-        "title": "Increase citation",
-        "body": "<p>Citation is a key indicator of impact in science and open practices have been shown to increase citation.&nbsp;</p><p>Studies have found that citation advantage can be gained through a combination of:</p><ul><li><a href=\"http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040157&amp;imageURI=info:doi/10.1371/journal.pbio.0040157.t003\" target=\"_blank\">Open access publication</a></li><li><a href=\"https://www.liberquarterly.eu/articles/10.18352/lq.10149/#r26\" target=\"_blank\">Open source code</a></li><li><a href=\"http://doi.org/10.18352/lq.10149\" target=\"_blank\">Open research data</a></li></ul>",
-        "_graphic": {
-          "src": "course/en/assets/374e440ba449854466368f44d2391cf75a752a12.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.flickr.com/photos/dan4th/5133979718\" target=\"_blank\">Dan4th Nicholas</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Increase citation"
-      },
-      {
-        "title": "Generate impact",
-        "body": "<p><em><strong>&#39;The initial investment is scientific, but the ultimate return is economic and social&#39;</strong></em></p><p>John Wood, currently the Co-Chair of the global Research Data Alliance (RDA), said that people should&nbsp;&lsquo;plan the harvest&rsquo; for the economic benefits that the significant public investments in data, research and technical infrastructure are bringing.</p><p>Science is not just the study of the world, but also how it can be improved. The benefits of being able to bring the worlds data together as a new scientific resource are not yet being realised due to practices which limit the release of data and then don&#39;t preserve it beyond a <a href=\"http://www.upi.com/Science_News/2013/12/19/80-percent-of-scientific-data-from-publicly-funded-research-is-lost-within-two-decades/8781387477327/#ixzz3PYcUxswu\" target=\"_blank\">few years at best</a>.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Generate impact"
-      }
-    ]
-  },
-  {
     "_id": "58f8b1b5d084d5167a04dafb",
     "_layout": "left",
     "_parentId": "58f8b1b4d084d5167a04da79",
@@ -738,7 +466,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5657,6 +5385,582 @@
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04daf9",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da78",
+    "_type": "component",
+    "body": "<p>Research data is a key part of the scholarship. The <a href=\"https://en.wikipedia.org/wiki/Scholarly_method\" target=\"_blank\">scholarly method</a>&nbsp;consists of a set of principals and practices used by scholars to make their claims about the world as valid and trustworthy as possible. A key part of a scholars work is to perform scientific experiments where the collection of data through observation and experimentation to test hypothesis form the basis of academic publication of claims. Thus from the very start of the scientific process, data is collected that may be critical to the validation of a scholars published work.&nbsp;</p>",
+    "displayTitle": "Where does research data fit?",
+    "title": "Where does research data fit?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore where research data fits within the scholarly process below:",
+    "_items": [
+      {
+        "title": "Observation and data collection",
+        "body": "<p>Data will be collected almost s soon as a scientific study begins. This data will be the rawest form of data available throughout the process. Perhaps not all the data will be required to validate research findings but any data selection criteria should be made clear. This will help increase the opportunity for validation or to allow questioning of the selection choices.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Experimentation ",
+        "body": "<p>Once the raw data has been collected, the next stage is likely to involve some sort of experimentation or analysis. Traditionally the detail of such experiments has been recorded is a personal log book.&nbsp;</p><p>Services such as&nbsp;<a href=\"https://www.myexperiment.org/about\" target=\"_blank\">MyExperiment</a>&nbsp;provide&nbsp;a collaborative environment where scientists can safely publish their workflows (log books) and&nbsp;<em>in silico</em>&nbsp;experiments. This enables others to view and follow the research process more clearly.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Modelling",
+        "body": "<p>Part of the experimentation might involve building new models or pieces of software to analyse data.&nbsp;</p><p>In addition to the research data it may be necessary to <a href=\"https://en.wikipedia.org/wiki/Open-source_software\" target=\"_blank\">open source</a> these parts in order to allow others to validate and reuse research findings.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Publication",
+        "body": "<p>Any published research data should be carefully linked to the research findings.&nbsp;</p><p>Putting together a research publication takes time and at each stage careful consideration should be given to any additional material required to enable the validation of the research.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dafa",
+    "_layout": "full",
+    "_parentId": "58f8b1b4d084d5167a04da49",
+    "_type": "component",
+    "body": "<p>Other than making research verifiable there are a number of other benefits to be gained from opening up research data.&nbsp;</p>",
+    "displayTitle": "The benefits of opening up research data",
+    "title": "The benefits of opening up research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Validate (or refute) research",
+        "body": "<p>The key reason to publish research data is for the validation (or rejection) of research results.&nbsp;</p><p>Open data is critical to allow the fact-checking of claims. For example, organisations such as <a href=\"https://fullfact.org\" target=\"_blank\">fullfact</a>&nbsp;use open data to check claims made by politicians.</p><p>In research, even publications that make it into nature have later been rejected due to bad method and data selection. One notable example was Google Flu Trends which claimed it could predict outbreaks of influenza through using search terms, <a href=\"https://www.forbes.com/sites/stevensalzberg/2014/03/23/why-google-flu-is-a-failure/#578404a65535\" target=\"_blank\">however it failed, and for some fairly basic reasons</a>. &nbsp;</p><p>Climate change is another major area where research is constantly in need of validation and services like the <a href=\"https://agwobserver.wordpress.com/anti-agw-papers-debunked/\" target=\"_blank\">Anthropogenic Global Warming</a> keep a list of instances of climate change papers that have been disproved.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-185008832\" target=\"_blank\">suarassawadee</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Validate (or refute) research"
+      },
+      {
+        "title": "Enable reuse",
+        "body": "<p>Another key aspect in scientific research is the ability to build upon the research of others, be it in the same domain or a different one.&nbsp;</p><p>The expression&nbsp;<em>&#39;standing on the shoulders of giants&#39;&nbsp;</em>is commonly used within science to express the desire to&nbsp;<em>&#39;discover truth by building on previous discoveries&#39;</em>.&nbsp;</p><p>All researchers build on the research of others, so having data that can be used or bought up to date can save a lot of time vs re-collecting from scratch.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/46876a953db93061532ac45990d1a554be973920.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Enable reuse"
+      },
+      {
+        "title": "Increase citation",
+        "body": "<p>Citation is a key indicator of impact in science and open practices have been shown to increase citation.&nbsp;</p><p>Studies have found that citation advantage can be gained through a combination of:</p><ul><li><a href=\"http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040157&amp;imageURI=info:doi/10.1371/journal.pbio.0040157.t003\" target=\"_blank\">Open access publication</a></li><li><a href=\"https://www.liberquarterly.eu/articles/10.18352/lq.10149/#r26\" target=\"_blank\">Open source code</a></li><li><a href=\"http://doi.org/10.18352/lq.10149\" target=\"_blank\">Open research data</a></li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/374e440ba449854466368f44d2391cf75a752a12.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/dan4th/5133979718\" target=\"_blank\">Dan4th Nicholas</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Increase citation"
+      },
+      {
+        "title": "Generate impact",
+        "body": "<p><em><strong>&#39;The initial investment is scientific, but the ultimate return is economic and social&#39;</strong></em></p><p>John Wood, currently the Co-Chair of the global Research Data Alliance (RDA), said that people should&nbsp;&lsquo;plan the harvest&rsquo; for the economic benefits that the significant public investments in data, research and technical infrastructure are bringing.</p><p>Science is not just the study of the world, but also how it can be improved. The benefits of being able to bring the worlds data together as a new scientific resource are not yet being realised due to practices which limit the release of data and then don&#39;t preserve it beyond a <a href=\"http://www.upi.com/Science_News/2013/12/19/80-percent-of-scientific-data-from-publicly-funded-research-is-lost-within-two-decades/8781387477327/#ixzz3PYcUxswu\" target=\"_blank\">few years at best</a>.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Generate impact"
+      }
+    ]
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da90",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da7a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/224c3fcd6e754987f512ffb3ba1966c79c27d9a3.jpg",
+      "small": "course/en/assets/224c3fcd6e754987f512ffb3ba1966c79c27d9a3.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da8d",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da7a",
+    "_type": "component",
+    "body": "<p>What is research data?</p>",
+    "displayTitle": "What is research data?",
+    "title": "Q: What is research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Material required to validate research findings ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "All data collected as part of research",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data relating to the impact of research",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to&nbsp;<strong>validate research findings</strong>.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to&nbsp;<strong>validate research findings</strong>.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da8c",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da4b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "small": "course/en/assets/98a4b913c15572c1d9b4764d69da37783b10ca59.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da8b",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da4b",
+    "_type": "component",
+    "body": "<p>At what stage of the scholarly process should research data be collated?</p>",
+    "displayTitle": "Where does research data fit?",
+    "title": "Q: Where does research data fit?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer and then click 'submit'",
+    "_items": [
+      {
+        "text": "initial observation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Experimentation phase",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "At publication",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data collected at the very start of the scientific process (observation), may be critical to the validation of a scholars published work. The decision over what data to collect (or not collect) has a profound effect on the outcome of the research and is usually where scientific mistakes are made with conclusions being made based upon wrong, or inaccurate&nbsp;data.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data collected at the very start of the scientific process (observation), may be critical to the validation of a scholars published work. The decision over what data to collect (or not collect) has a profound effect on the outcome of the research and is usually where scientific mistakes are made with conclusions being made based upon wrong, or inaccurate&nbsp;data.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dade",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da5c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/839f272ce3c597de223ea1db4ce1d239e88f3413.jpg",
+      "small": "course/en/assets/839f272ce3c597de223ea1db4ce1d239e88f3413.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dadc",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da5c",
+    "_type": "component",
+    "body": "<p>Other than for validating research, what other benefits does opening up research data provide?</p>",
+    "displayTitle": "What are the benefits of opening up research data?",
+    "title": "Q: What are the benefits of opening up research data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select up to three options and click 'submit'",
+    "_items": [
+      {
+        "text": "Enable reuse",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Makes research easier to consume",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increases number of jobs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increases citation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Generates impact",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>In addition to enabling the validation of research, opening up research data enables reuse, increases citation and can generate impact.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>In addition to enabling the validation of research, opening up research data enables reuse, increases citation and can generate impact.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da98",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da7b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04da9a",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da7b",
+    "_type": "component",
+    "body": "<p>What is driving the publication of open research data?</p>",
+    "displayTitle": "The support for open research data",
+    "title": "Q: The support for open research data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer and then click 'submit'",
+    "_items": [
+      {
+        "text": "Policies and mandates",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Best practice guidelines",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A dedicated community",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Funders, institutions,&nbsp;journals and publishers are all putting in place mandates and policies which enforce the publication of open research data alongside research. &nbsp;This requirement ensures that research can be validated and isn&#39;t just something that is nice to have.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Funders, institutions,&nbsp;journals and publishers are all putting in place mandates and policies which enforce the publication of open research data alongside research. &nbsp;This requirement ensures that research can be validated and isn&#39;t just something that is nice to have.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58f8b1b4d084d5167a04daa7",
+    "_layout": "right",
+    "_parentId": "58f8b1b4d084d5167a04da7c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "58f8b1b5d084d5167a04dae4",
+    "_layout": "left",
+    "_parentId": "58f8b1b4d084d5167a04da7c",
+    "_type": "component",
+    "body": "<p>Research data is defined as material commonly retained by and accepted in the scientific community as necessary to&nbsp;<strong>validate research findings</strong>.&nbsp;</p><p>In addition, opening up research data enables reuse, increases citation and can generate impact.&nbsp;</p><p>It is critical to consider what data is required to validate research, some of which might come from the very start of the research itself.&nbsp;</p><p>Through the implementation of policies and mandates many renowned organisations and publishers are now requiring the publication of open research data.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
     },
     "instruction": ""
   }

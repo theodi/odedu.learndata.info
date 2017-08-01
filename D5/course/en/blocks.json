@@ -42,10 +42,10 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 4,
-    "_classes": "",
+    "_classes": "color-three",
     "body": "",
-    "displayTitle": "Block title",
-    "title": "Block title"
+    "displayTitle": " ",
+    "title": " "
   },
   {
     "_id": "58f8b1b4d084d5167a04da7c",
@@ -54,10 +54,10 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 5,
-    "_classes": "",
+    "_classes": "inverted footer",
     "body": "",
-    "displayTitle": "Block title",
-    "title": "Block title"
+    "displayTitle": " ",
+    "title": " "
   },
   {
     "_id": "59492f9ad084d5167a04ff98",
@@ -294,10 +294,10 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 25,
-    "_classes": "",
+    "_classes": "inverted color-three",
     "body": "",
-    "displayTitle": "Block title",
-    "title": "Block title"
+    "displayTitle": " ",
+    "title": " "
   },
   {
     "_id": "58f8b1b4d084d5167a04da7d",
@@ -510,10 +510,10 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 43,
-    "_classes": "",
+    "_classes": "color-three",
     "body": "",
-    "displayTitle": "Block title",
-    "title": "Block title"
+    "displayTitle": " ",
+    "title": " "
   },
   {
     "_id": "58f8b1b4d084d5167a04da78",
@@ -702,10 +702,10 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 59,
-    "_classes": "",
+    "_classes": "color-three inverted",
     "body": "",
-    "displayTitle": "Block title",
-    "title": "Block title"
+    "displayTitle": " ",
+    "title": " "
   },
   {
     "_id": "5949356bd084d5167a04ffa1",
@@ -894,7 +894,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 75,
-    "_classes": "inverted color-four section-banner",
+    "_classes": "inverted color-three section-banner",
     "body": "",
     "displayTitle": " ",
     "title": " "
