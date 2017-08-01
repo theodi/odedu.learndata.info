@@ -1,0 +1,38 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/f271a2d9838334d53d5c8625d0f6f2f2055f2fef.jpg"
+    },
+    "_id": "58f8b185d084d5167a04d6e7",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>More and more organisations are seeing the benefits of opening data, whether through reducing costs, increasing revenue&nbsp;or helping them to achieve another organisational goal. For a lot of organisations, going open is a new opportunity that comes with its own challenges. In this module we explore when to open up data.</p>",
+    "displayTitle": "When to open up data",
+    "title": "When to open up data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "explain different situations for opening data "
+        },
+        {
+          "level": "explorer",
+          "credits": 10,
+          "outcome": "Compare benefits of opening data in different situations"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

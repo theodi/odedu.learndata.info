@@ -1,0 +1,376 @@
+[
+  {
+    "_id": "58f8b186d084d5167a04d758",
+    "_layout": "right",
+    "_parentId": "58f8b185d084d5167a04d736",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b186d084d5167a04d759",
+    "_layout": "right",
+    "_parentId": "58f8b185d084d5167a04d738",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58f8b186d084d5167a04d7b4",
+    "_layout": "right",
+    "_parentId": "58f8b185d084d5167a04d732",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">In some case, organisations publish open data in order to remain competitive. Publishing data about your services can drive users towards it.</p><p>A classic example is with cycle hire schemes, which are widely available in cities across the world, including in <a href=\"http://www.jcdecaux.com/blog/open-data-latest-public-distribution-bike-share-data\">France</a>, <a href=\"https://tfl.gov.uk/corporate/publications-and-reports/cycle-hire-performance\">the UK</a> and <a href=\"http://dati.comune.milano.it/dato/item/65-65-Mobilit%C3%A0:%20bike%20sharing.html\">Italy</a>. Publishing the location and availability of bikes for hire enables users to find and use bikes more easily, thus increasing the revenue for the cycle hire company. In cities where there is more than one scheme, the one with the most available data will end up with the most users.</p><p dir=\"ltr\">In the restaurant sector, <a href=\"https://www.opentable.com/start/home\">OpenTable</a> uses open data from cafes and restaurants to increase their visibility to consumers.</p>",
+    "displayTitle": "Opening to stay competitive",
+    "title": "Opening to stay competitive",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59527bded084d5167a0500e2",
+    "_layout": "left",
+    "_parentId": "58f8b185d084d5167a04d733",
+    "_type": "component",
+    "body": "<p>Opening up data <a href=\"https://theodi.github.io/odedu.learndata.info/D1/#/id/5954ee6ed084d5167a050577\">has diverse benefits</a>. Some organisations open data, because it helps them to fulfil an organisational goal without investing lots of time and money.</p><p>By opening up transport data, TfL have reaped huge rewards, including better access for the disabled through the use of applications such as <a href=\"http://www.stationmasterapp.com/features.html#accessibility\">StationMaster.</a></p><p dir=\"ltr\">Thomson Reuters is another large organisation, who has applied open data so that their existing products can be linked together for a better sales channel, which has lowered costs and improved services for their clients.</p>",
+    "displayTitle": "Opening to achieve another organisational goal",
+    "title": "Opening to achieve another organisational goal",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b186d084d5167a04d7bb",
+    "_layout": "left",
+    "_parentId": "58f8b185d084d5167a04d738",
+    "_type": "component",
+    "body": "<p>More and more organisations are seeing the benefits of opening data, whether through reducing costs, increasing revenue&nbsp;or helping them to achieve another organisational goal. For a lot of organisations, going open is a new opportunity that comes with its own challenges. So when is the best time to open up to maximise reward and reduce risk?</p><p>In this module we explore:</p><ul dir=\"ltr\"><li>opening by mandate</li><li>opening to remain competitive</li><li>opening to fulfil another organisational goal</li></ul>",
+    "displayTitle": "When to open up data",
+    "title": "When to open up data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "595279b7d084d5167a0500e1",
+    "_layout": "left",
+    "_parentId": "58f8b185d084d5167a04d731",
+    "_type": "component",
+    "body": "<p>The original reason why many, particularly in the public sector, began to publish open data was because they were mandated to do so. However, there are still opportunities to be had here.</p>",
+    "displayTitle": "Opening by mandate",
+    "title": "Opening by mandate",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Funding streams",
+        "body": "<p>Many funding streams require data to be published in order to unlock funding for different projects.</p><p>The Digital Curation Center (DCC) provides a great summary of research&nbsp;<a href=\"http://www.dcc.ac.uk/resources/policy-and-legal/overview-funders-data-policies\" target=\"_blank\">funders policies</a>&nbsp;including the requirements for long term curation and monitoring.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Government",
+        "body": "<p>Sometimes data has to be published as it is mandated by central government.</p><p>However, there is still an opportunity to be had here.</p><p>The UK&#39;s Department for the Environment, Food and Rural Affairs (Defra) were given the task of <a href=\"https://data.blog.gov.uk/2015/06/29/defra-announces-major-open-data-programme/\" target=\"_blank\">publishing 8,000 datasets in a year</a>. By rising to the challenge, they were able to <a href=\"https://defradigital.blog.gov.uk/about-defras-data-programme/\" target=\"_blank\">create an open culture</a> at the heart of one of the largest government departments, as well as creating diverse benefits such as wind modelling, flood risk prevention and educational games.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "597e169ed084d5167a0515f8",
+    "_layout": "left",
+    "_parentId": "58f8b185d084d5167a04d736",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to open up data?",
+    "title": "Are you ready to open up data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b186d084d5167a04d7b3",
+    "_layout": "right",
+    "_parentId": "58f8b185d084d5167a04d731",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59527be0d084d5167a0500e3",
+    "_layout": "right",
+    "_parentId": "58f8b185d084d5167a04d733",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "597e3133d084d5167a051677",
+    "_layout": "right",
+    "_parentId": "597e3133d084d5167a051676",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "597e173bd084d5167a051614",
+    "_layout": "left",
+    "_parentId": "597e172cd084d5167a051613",
+    "_type": "component",
+    "body": "<p>More and more organisations are seeing the benefits of opening data, whether through reducing costs, increasing revenue&nbsp;or helping them to achieve another organisational goal. For a lot of organisations, going open is a new opportunity that comes with its own challenges. So when is the best time to open up to maximise reward and reduce risk?</p><p>Some organisations open by mandate, when they are instructed to by a funder or regulatory body. Opening by mandate doesn&#39;t mean that none of the benefits can be realised, however.</p><p>Some organisations open data in order to remain competitive as others in the same market are doing the same. Publishing data about services can lead to more people using those services.</p><p>Some organisations publish data openly to fulfil another organisational goal, such as to improve services or improve the company&#39;s reputation.</p>",
+    "displayTitle": "When to open up data",
+    "title": "When to open up data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58f8b186d084d5167a04d7b5",
+    "_layout": "left",
+    "_parentId": "58f8b185d084d5167a04d732",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/colored-paper-pointers-signs-navigation-mapvector-154597898\" target=\"_blank\">Leone_V</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "597e173dd084d5167a051615",
+    "_layout": "right",
+    "_parentId": "597e172cd084d5167a051613",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-three",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "597e3133d084d5167a05167a",
+    "_layout": "left",
+    "_parentId": "597e3133d084d5167a051676",
+    "_type": "component",
+    "body": "<p>What are the main drivers for opening up data?</p>",
+    "displayTitle": "When to open up data? ",
+    "title": "When to open up data? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose three answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Being required by mandate",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To remain competative",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To open new sales channels",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "When a company gets liquidated",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To increase profites",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Opening up data can be required by mandate but can also help businesses remain competitive as well as opening up new sales channels.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Opening up data can be required by mandate but can also help businesses remain competitive as well as opening up new sales channels.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
