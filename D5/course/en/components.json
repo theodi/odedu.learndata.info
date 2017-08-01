@@ -6,7 +6,7 @@
     "_type": "component",
     "body": "<p>Given a point on a map, which enrichment technique would you use to find which district the point is within?</p>",
     "displayTitle": "Match the need to the method",
-    "title": "Match the need to the method",
+    "title": "Q: Match the need to the method",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -95,7 +95,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -729,7 +729,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -769,7 +769,7 @@
     "_type": "component",
     "body": "<p>Which enrichment method&nbsp;would you use&nbsp;to extract the City from the address column?</p>",
     "displayTitle": "Match the need to the method",
-    "title": "Match the need to the method",
+    "title": "Q: Match the need to the method",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -858,7 +858,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -898,7 +898,7 @@
     "_type": "component",
     "body": "<p>Which enrichment method&nbsp;would you use&nbsp;to recognise people and concepts in a news article?</p>",
     "displayTitle": "Match the need to the method",
-    "title": "Match the need to the method",
+    "title": "Q: Match the need to the method",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
