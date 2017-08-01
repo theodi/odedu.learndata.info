@@ -69,7 +69,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -151,7 +151,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -316,7 +316,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -356,7 +356,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -379,7 +379,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -396,7 +396,7 @@
     "_type": "component",
     "body": "<p><strong>What kind of data would you represent with polygons?</strong></p>",
     "displayTitle": "How to describe something on a map",
-    "title": "How to describe something on a map",
+    "title": "Q: How to describe something on a map",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -480,7 +480,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -497,7 +497,7 @@
     "_type": "component",
     "body": "<p><strong>When mapping location data, you should be aware that...</strong></p>",
     "displayTitle": "Formats and standards",
-    "title": "Formats and standards",
+    "title": "Q: Formats and standards",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -575,7 +575,7 @@
     "_type": "component",
     "body": "<p>What is the benefit of mapping data openly?</p>",
     "displayTitle": "Benefits of open mapping",
-    "title": "Benefits of open mapping",
+    "title": "Q: Benefits of open mapping",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -652,14 +652,14 @@
     "_parentId": "59550470d084d5167a050944",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -682,7 +682,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -698,8 +698,8 @@
     "_parentId": "59550470d084d5167a050948",
     "_type": "component",
     "body": "<p>This module explores digital maps and&nbsp;how open data can enhance maps; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;</p><p>In this module, we have explored the benefits of open mapping,&nbsp;how to describe something on a map and common formats and structures.</p>",
-    "displayTitle": "Mapping open data",
-    "title": "Mapping open data",
+    "displayTitle": "Summary",
+    "title": "Summary",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -722,7 +722,7 @@
     "_classes": "color-two",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {

@@ -12,13 +12,13 @@
     "title": " "
   },
   {
-    "_id": "59550470d084d5167a050944",
+    "_id": "59550470d084d5167a050945",
     "_parentId": "5955046fd084d5167a050903",
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 2,
-    "_classes": "inverted color-one",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -48,13 +48,13 @@
     "title": " "
   },
   {
-    "_id": "59550470d084d5167a050945",
+    "_id": "59550470d084d5167a050946",
     "_parentId": "5955046fd084d5167a050903",
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 5,
-    "_classes": "color-one",
+    "_classes": "inverted color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -72,13 +72,13 @@
     "title": " "
   },
   {
-    "_id": "59550470d084d5167a050946",
+    "_id": "59550470d084d5167a050947",
     "_parentId": "5955046fd084d5167a050903",
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 7,
-    "_classes": "inverted color-one",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -96,24 +96,12 @@
     "title": " "
   },
   {
-    "_id": "59550470d084d5167a050947",
-    "_parentId": "5955046fd084d5167a050903",
-    "_type": "block",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_trackingId": 9,
-    "_classes": "color-one",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
     "_id": "59550470d084d5167a05093b",
     "_parentId": "5955046fd084d5167a050901",
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 10,
+    "_trackingId": 9,
     "_classes": "color-two",
     "body": "",
     "displayTitle": " ",
@@ -125,7 +113,7 @@
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 11,
+    "_trackingId": 10,
     "_classes": "inverted color-two",
     "body": "",
     "displayTitle": " ",
@@ -137,8 +125,20 @@
     "_type": "block",
     "_isAvailable": true,
     "_isOptional": false,
-    "_trackingId": 12,
+    "_trackingId": 11,
     "_classes": "color-two",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59550470d084d5167a050944",
+    "_parentId": "5955046fd084d5167a050901",
+    "_type": "block",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 12,
+    "_classes": "inverted color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
