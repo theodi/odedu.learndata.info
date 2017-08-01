@@ -9329,7 +9329,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -9352,7 +9352,7 @@
     "_classes": "color-three",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -9375,7 +9375,7 @@
     "_classes": "color-three",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -9391,14 +9391,14 @@
     "_parentId": "5954ee6fd084d5167a050600",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "color-two",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -9421,7 +9421,7 @@
     "_classes": "color-two",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -9444,7 +9444,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -9467,7 +9467,7 @@
     "_classes": "color-three",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
