@@ -182,7 +182,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -197,7 +197,7 @@
     "_layout": "full",
     "_parentId": "597b451ed084d5167a051380",
     "_type": "component",
-    "body": "<table border=\"1\" cellpadding=\"5px;\" cellspacing=\"0\" style=\"width:300px\"><tbody><tr><td style=\"width:25%\"><a href=\"http://www.w3.org/2000/01/rdf-schema#subject\">http://www.w3.org/2000/<br />01/rdf-schema#subject</a></td><td style=\"width:16%\"><a href=\"http://xmlns.com/foaf/0.1/familyName\">http://xmlns.com/foaf/<br />0.1/familyName</a></td><td style=\"width:16%\"><a href=\"http://xmlns.com/foaf/0.1/givenName\">http://xmlns.com/foaf/<br />0.1/givenName</a></td><td style=\"width:25%\"><a href=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#type\">http://www.w3.org/1999/02/22-rdf-syntax-ns#type</a></td><td style=\"width:16%\"><a href=\"http://dbpedia.org/ontology/birthDate\">http://dbpedia.org/<br />ontology/birthDate</a></td></tr><tr><td><a href=\"http://mycompany.org/people/John\">http://mycompany.org/<br />people/John</a></td><td>Lennon</td><td>John</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td style=\"width:167px\">1940-10-09</td></tr><tr><td><a href=\"http://mycompany.org/people/Paul\">http://mycompany.org/<br />people/Paul</a></td><td>McCartney</td><td>Paul</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td>1942-06-18</td></tr><tr><td><a href=\"http://mycompany.org/people/George\">http://mycompany.org/<br />people/George</a></td><td>Harrison</td><td>George</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td>1943-02-25</td></tr><tr><td><a href=\"http://mycompany.org/people/Ringo\">http://mycompany.org/<br />people/Ringo</a></td><td>Starr</td><td>Ringo</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td>1940-07-07</td></tr></tbody></table>",
+    "body": "<table border=\"1\" cellpadding=\"5px;\" cellspacing=\"0\" class=\"data-table\" style=\"width:300px\"><tbody><tr><td style=\"width:25%\"><p><a href=\"http://www.w3.org/2000/01/rdf-schema#subject\">http://www.w3.org/2000/<br />01/rdf-schema#subject</a></p></td><td style=\"width:16%\"><p><a href=\"http://xmlns.com/foaf/0.1/familyName\">http://xmlns.com/foaf/<br />0.1/familyName</a></p></td><td style=\"width:16%\"><p><a href=\"http://xmlns.com/foaf/0.1/givenName\">http://xmlns.com/foaf/<br />0.1/givenName</a></p></td><td style=\"width:25%\"><p><a href=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#type\">http://www.w3.org/1999/02/22-rdf-syntax-ns#type</a></p></td><td style=\"width:16%\"><p><a href=\"http://dbpedia.org/ontology/birthDate\">http://dbpedia.org/<br />ontology/birthDate</a></p></td></tr><tr><td><p><a href=\"http://mycompany.org/people/John\">http://mycompany.org/<br />people/John</a></p></td><td>Lennon</td><td>John</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td style=\"width:167px\">1940-10-09</td></tr><tr><td><p><a href=\"http://mycompany.org/people/Paul\">http://mycompany.org/<br />people/Paul</a></p></td><td>McCartney</td><td>Paul</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td>1942-06-18</td></tr><tr><td><p><a href=\"http://mycompany.org/people/George\">http://mycompany.org/<br />people/George</a></p></td><td>Harrison</td><td>George</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td>1943-02-25</td></tr><tr><td><p><a href=\"http://mycompany.org/people/Ringo\">http://mycompany.org/<br />people/Ringo</a></p></td><td>Starr</td><td>Ringo</td><td><a href=\"http://xmlns.com/foaf/0.1/Person\">http://xmlns.com/foaf/0.1/Person</a></td><td>1940-07-07</td></tr></tbody></table>",
     "displayTitle": " ",
     "title": " ",
     "_isAvailable": true,
@@ -205,7 +205,7 @@
     "_classes": "",
     "_component": "text",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": ""
   },
@@ -222,7 +222,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -245,7 +245,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -268,7 +268,7 @@
     "_classes": "color-two",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -291,7 +291,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1276,7 +1276,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1349,7 +1349,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1372,7 +1372,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1412,7 +1412,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1435,7 +1435,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1458,7 +1458,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1481,7 +1481,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -1634,7 +1634,7 @@
     "_classes": "",
     "_component": "text",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": ""
   },
@@ -1643,9 +1643,9 @@
     "_layout": "left",
     "_parentId": "5971daf2d084d5167a050e88",
     "_type": "component",
-    "body": "<p><strong>Data about me:</strong></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate / </strong>Key</td><td><strong>Object / </strong>Value</td></tr><tr><td>#John</td><td>Name</td><td>John Smith</td></tr><tr><td>#John</td><td>Age (Years)</td><td>22</td></tr><tr><td>#John</td><td>Height (inches)</td><td>69</td></tr><tr><td>#John</td><td>Shoe size (UK)</td><td>8</td></tr><tr><td>#John</td><td>brother</td><td>#Ringo</td></tr><tr><td>#John</td><td>brother</td><td>#Paul</td></tr></tbody></table>",
+    "body": "<p><strong>Data about me:</strong></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"rdf-table\" style=\"width:100%\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate / </strong>Key</td><td><strong>Object / </strong>Value</td></tr><tr><td>#John</td><td>Name</td><td>John Smith</td></tr><tr><td>#John</td><td>Age (Years)</td><td>22</td></tr><tr><td>#John</td><td>Height (inches)</td><td>69</td></tr><tr><td>#John</td><td>Shoe size (UK)</td><td>8</td></tr><tr><td>#John</td><td>brother</td><td>#Ringo</td></tr><tr><td>#John</td><td>brother</td><td>#Paul</td></tr></tbody></table>",
     "displayTitle": " ",
-    "title": " Everything in threes",
+    "title": "Everything in threes",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1714,7 +1714,7 @@
     "_type": "component",
     "body": "<p>Why is the Resource Description Framework (RDF) useful?</p>",
     "displayTitle": "Why is RDF useful",
-    "title": "Why is RDF useful",
+    "title": "Q: Why is RDF useful",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1790,7 +1790,7 @@
     "_layout": "right",
     "_parentId": "5971daf2d084d5167a050e88",
     "_type": "component",
-    "body": "<p><strong>Transaction data:</strong></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate / </strong>Key</td><td><strong>Object / </strong>Value</td></tr><tr><td>#Transaction1</td><td>Shop</td><td>#Tesco</td></tr><tr><td>#Transaction1</td><td>Method</td><td>In person</td></tr><tr><td>#Transaction1</td><td>Product</td><td>#Banana</td></tr><tr><td>#Transaction1</td><td>Cost (GBP &pound;)</td><td>0.20</td></tr></tbody></table><p><strong>Linking the two:</strong></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate / </strong>Key</td><td><strong>Object / </strong>Value</td></tr><tr><td>#John</td><td>madeTransaction</td><td>#Transaction1</td></tr></tbody></table>",
+    "body": "<p><strong>Transaction data:</strong></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"rdf-table\" style=\"width:100%\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate / </strong>Key</td><td><strong>Object / </strong>Value</td></tr><tr><td>#Transaction1</td><td>Shop</td><td>#Tesco</td></tr><tr><td>#Transaction1</td><td>Method</td><td>In person</td></tr><tr><td>#Transaction1</td><td>Product</td><td>#Banana</td></tr><tr><td>#Transaction1</td><td>Cost (GBP &pound;)</td><td>0.20</td></tr></tbody></table><p><strong>Linking the two:</strong></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"rdf-table\" style=\"width:100%\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate / </strong>Key</td><td><strong>Object / </strong>Value</td></tr><tr><td>#John</td><td>madeTransaction</td><td>#Transaction1</td></tr></tbody></table>",
     "displayTitle": " ",
     "title": " ",
     "_isAvailable": true,
@@ -1798,7 +1798,7 @@
     "_classes": "",
     "_component": "text",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": ""
   },
@@ -1808,8 +1808,8 @@
     "_parentId": "5971daf2d084d5167a050e8c",
     "_type": "component",
     "body": "<p>In an RDF triple, what does the predicate provide?</p>",
-    "displayTitle": "A triple",
-    "title": "A triple",
+    "displayTitle": "What does the predicate provide?",
+    "title": "Q: What does the predicate provide?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1887,7 +1887,7 @@
     "_type": "component",
     "body": "<p>Select the picture which matches the data from the table below:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate</strong></td><td><strong>Object</strong></td></tr><tr><td>#PersonA</td><td>#hasChild</td><td>#PersonB</td></tr><tr><td>#PersonA</td><td>#hasChild</td><td>#PersonC</td></tr><tr><td>#PersonB</td><td>#hasSister</td><td>#personC</td></tr></tbody></table>",
     "displayTitle": "Match the data to the structure",
-    "title": "Match the data to the structure",
+    "title": "Q: Match the data to the structure",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2001,7 +2001,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -2136,7 +2136,7 @@
     "_layout": "full",
     "_parentId": "5975f000d084d5167a050f22",
     "_type": "component",
-    "body": "<p>{scheme} :// {authority} / {path} / {identifier} &nbsp;# {fragment}</p><p>e.g.<br />http ://&nbsp;beta.companieshouse.gov.uk / company / 08030289</p>",
+    "body": "<p style=\"font-size:1.5em\">{scheme} :// {authority} / {path} / {identifier} &nbsp;# {fragment}</p><p>e.g.<br />http ://&nbsp;beta.companieshouse.gov.uk / company / 08030289</p>",
     "displayTitle": "Identifier design template",
     "title": "Identifier design template",
     "_isAvailable": true,
@@ -2201,7 +2201,7 @@
     "_type": "component",
     "body": "<p>Which of the following are valid 4-star identifiers?</p>",
     "displayTitle": "Designing identifiers",
-    "title": "Designing identifiers",
+    "title": "Q: Designing identifiers",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2295,7 +2295,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -2595,7 +2595,7 @@
     "_type": "component",
     "body": "<p>Which of the following are required to make your resources (things) 4 star compatible?</p>",
     "displayTitle": "Making youe data 4-star",
-    "title": "Making your data 4-star",
+    "title": "Q: Making your data 4-star",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2706,7 +2706,7 @@
     "_type": "component",
     "body": "<p>What changes would be required to make the following RDF valid 4-star data?</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate</strong></td><td><strong>Object</strong></td></tr><tr><td>#09512457</td><td>hasPostcode</td><td>#NW12DB</td></tr></tbody></table>",
     "displayTitle": "Linked open data and RDF",
-    "title": "Linked open data and RDF",
+    "title": "Q: Linked open data and RDF",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2790,7 +2790,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -2805,7 +2805,7 @@
     "_layout": "left",
     "_parentId": "59773171d084d5167a050fb5",
     "_type": "component",
-    "body": "<p>Consistent availability of data is key to enabling reuse. This module looks at how to design and implement an Application Programming Interface (API) for data. More specifically, this module looks at the importance of an API for resources and the&nbsp;relation of this to linked open data.&nbsp;</p><p>In this module we explore:</p><ul><li>What is an API</li><li>What is a REST&nbsp;API</li><li>REST APIs and linked open data</li><li>REST in practice</li><li>Designing a RESTful API</li><li>&#39;Off the shelf&#39; REST APIs</li></ul>",
+    "body": "<p>Consistent availability of data is key to enabling reuse. This module looks at how to design and implement an Application Programming Interface (API) for data. More specifically, this module looks at the importance of an API for resources and the&nbsp;relation of this to linked open data.&nbsp;</p><p>In this module we explore:</p><ul><li>What is an API?</li><li>What is a REST&nbsp;API?</li><li>REST APIs and linked open data</li><li>REST in practice</li><li>Designing a RESTful API</li><li>&#39;Off the shelf&#39; REST APIs</li></ul>",
     "displayTitle": "Having a REST with API design",
     "title": "Having a REST with API design",
     "_isAvailable": true,
@@ -2823,8 +2823,8 @@
     "_parentId": "59773171d084d5167a050fb6",
     "_type": "component",
     "body": "<p>An Application Programme Interface (API) is best described as a &quot;promise&quot; by one system to constantly and consistently provide a service to another that allows to the two to interact.&nbsp;</p><p>One simple way of thinking of this is to think of spoken languages as an API. Each language has words and grammatical structures that form sentences through which information can be exchanged between people. However&nbsp;not everyone speaks the same language. To solve this problem sometimes you have to learn the new language or use a third party to translate.</p><p>Exactly the same is true of machine APIs, except there are many more APIs than languages so applying some standard design principals helps everyone understand the API. This is much like having many dialects of a single spoken languages. In this module we investigate the REST &#39;<em>dialect</em>&#39; for API design.</p>",
-    "displayTitle": "What is an API",
-    "title": "What is an API",
+    "displayTitle": "What is an API?",
+    "title": "What is an API?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2847,7 +2847,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -2881,7 +2881,7 @@
     "_type": "component",
     "body": "<p>Which of the follow best describes what an Application Programming Interface (API) is?</p>",
     "displayTitle": "What is an API?",
-    "title": "What is an API?",
+    "title": "Q: What is an API?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2965,7 +2965,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -2982,7 +2982,7 @@
     "_type": "component",
     "body": "<p>Which common feature do&nbsp;REST APIs, linked open data and the Resource Description Framework (RDF) all share?</p>",
     "displayTitle": "REST APIs and linked open data",
-    "title": "REST APIs and linked open data",
+    "title": "Q: REST APIs and linked open data",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -3066,7 +3066,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3081,9 +3081,9 @@
     "_layout": "left",
     "_parentId": "59773172d084d5167a050fbf",
     "_type": "component",
-    "body": "<p>Match the request below to the correct description of what the request represents.&nbsp;</p><p><code>GET /companies/gb?City=London HTTP/1.1<br/>HOST: opencorporates.com<br/>ACCEPT: text/csv</code></p>",
+    "body": "<p>Match the request below to the correct description of what the request represents.&nbsp;</p><p>GET /companies/gb?City=London HTTP/1.1<br />HOST: opencorporates.com<br />ACCEPT: text/csv</p>",
     "displayTitle": "REST in practice",
-    "title": "REST in practice",
+    "title": "Q: REST in practice",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -3167,7 +3167,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3206,8 +3206,8 @@
     "_parentId": "59773171d084d5167a050fba",
     "_type": "component",
     "body": "<p>REpresentational State Transfer (REST) is an API designed specifically for&nbsp;the web. It has a specific set of guidelines and rules that control if something is a RESTful API.&nbsp;</p>",
-    "displayTitle": "What is a REST API",
-    "title": "What is a REST API",
+    "displayTitle": "What is a REST API?",
+    "title": "What is a REST API?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -3450,7 +3450,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3490,7 +3490,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3572,7 +3572,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3612,7 +3612,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3621,56 +3621,6 @@
       "small": "course/en/assets/87369d558265debc30d66df22c0a5b4e8482651a.png",
       "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=714024&term=puzzle\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
-  },
-  {
-    "_id": "59776526d084d5167a05114e",
-    "_layout": "full",
-    "_parentId": "59776526d084d5167a051105",
-    "_type": "component",
-    "body": "<p>All different data structures tablular, hierarchical and network can have schemas applied to them. Explore each below and how they apply to a number of different data formats.</p>",
-    "displayTitle": "Schemas in practice",
-    "title": "Schemas in practice",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "title": "Tabular data schemas",
-        "body": "<p>A schema for tabular data will define the column titles&nbsp;(keys) and valid values that can be contained in each column.&nbsp;</p><p>In desktop applications like excel, column titles can be simply created through typing them in the top row of the sheet. The problem with this is they can be changed and this is the reason many workbooks use data entry forms to stop the schema being changed.&nbsp;</p><p>The data validation function in excel can enforce rules on what valid values can exist and even allow the selection from a pre-defined list of values.&nbsp;</p><p>A slight issue with excel is that data portability is not very easy as the schema and validations rules cannot be exported from an Excel file and applied to another dataset.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "course/en/assets/081147fcfd251025436ed852643442908e92023d.jpg",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "_classes": ""
-      },
-      {
-        "title": "XML Schema Definition (XSD)",
-        "body": "<p>It is possible to import a schema into Excel, however these have to be defined in the eXtensible Markup Language (XML) format and conform to the XML Schema Definition (XSD) standard.</p><p>XML is a hierarchical file format and thus can be challenging to implement for tabular data.&nbsp;</p><p>The example pictured here shows part of the&nbsp;schema definition for the tabular data shown previously. The full schema can be viewed here.&nbsp;</p><p>Such schema can be used but machines to automatically validate the structure and contents of a datasets. One key advantage of XSD schemas is that they can used with a wide variety tabular and hierarchical data formats.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "course/en/assets/081147fcfd251025436ed852643442908e92023d.jpg",
-          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "_classes": ""
-      },
-      {
-        "title": "JSON Schema",
-        "body": "<p>XSD provides a good specification for schema definitions, however XML is challenging to create and use.</p><p>The JavaScript Object Notation (JSON) schema format provides a much simpler alternative which is easier to create.</p><p>Additionally unlike XML, JSON is also natively supported by the Javascript programme language which is used widely on the web. This means it is much more effluent to use and does not require complex parsers to translate from one format to another.&nbsp;</p><p>Shown here is the JSON schema for our tabular data file. Try if for yourself by downloading the tabular data (in CSV) and schema (in JSON) and then using csvlint (a tabular data validator) to validate that the data conforms to the schema.</p><p>You can open and edit the CSV in excel and the schema in notepad.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/tabulation-statistical-data-business-analysis-office-262874696?src=id\" target=\"_blank\">Benjaminec</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
   },
   {
     "_id": "59776527d084d5167a051163",
@@ -3696,7 +3646,7 @@
     "_type": "component",
     "body": "<p>Which of the following should a schema define?</p>",
     "displayTitle": "Key features of a schema",
-    "title": "Key features of a schema",
+    "title": "Q: Key features of a schema",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -3790,7 +3740,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3813,7 +3763,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3830,7 +3780,7 @@
     "_type": "component",
     "body": "<p>What key benefit do schemas provide?</p>",
     "displayTitle": "Why do schemas matter?",
-    "title": "Why do schemas matter?",
+    "title": "Q: Why do schemas matter?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -3908,7 +3858,7 @@
     "_type": "component",
     "body": "<p>When collecting a new set of data what should you do first?</p>",
     "displayTitle": "Choosing schemas",
-    "title": "Choosing schemas",
+    "title": "Q: Choosing schemas",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -3992,7 +3942,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4141,7 +4091,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4164,7 +4114,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4187,7 +4137,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4221,7 +4171,7 @@
     "_type": "component",
     "body": "<p>Which part of the RDF triple needs changing to accommodate use of schemas?</p>",
     "displayTitle": "Schemas in RDF",
-    "title": "Schemas in RDF",
+    "title": "Q: Schemas in RDF",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -4305,7 +4255,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4328,7 +4278,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4345,7 +4295,7 @@
     "_type": "component",
     "body": "<p>When collecting a new set of data what should you do first?</p>",
     "displayTitle": "Choosing schemas",
-    "title": "Choosing schemas",
+    "title": "Q: Choosing schemas",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -4429,7 +4379,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4467,40 +4417,6 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "597b35d3d084d5167a051317",
-    "_layout": "right",
-    "_parentId": "597b3450d084d5167a05124e",
-    "_type": "component",
-    "body": "<p>A schema is a blueprint for data that defines a set of integrity constraints and rules relating to the structure and contents of a data resource.&nbsp;A schema will define what the column, titles or keys mean in the data and any valid values or constraints that exist.</p><p>In RDF data is not tabular but represented as a triple, for example:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>Subject</td><td>Predicate</td><td>Object</td></tr><tr><td>http://companies.org<br />/id/0820202</td><td>hasStatus</td><td>Active</td></tr></tbody></table><p>To this triple we could apply a schema to every part, e.g. the schema could define that the subject is a &ldquo;Company&rdquo; and &ldquo;hasStatus&rdquo; can only have the values &ldquo;Active&rdquo;, &ldquo;Inactive&rdquo; or &ldquo;Dissolved&rdquo;, but how do we define a schema for data in RDF?</p>",
-    "displayTitle": "Schemas in RDF",
-    "title": "Schemas in RDF",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "597b3451d084d5167a051259",
-    "_layout": "left",
-    "_parentId": "597b3450d084d5167a05124c",
-    "_type": "component",
-    "body": "<p>The answer is strait-forward. We define the constraints of the relationship, just like we do in real life. e.g. the relationship &ldquo;hasBrother&rdquo; can only exist between a person and another person who is male. </p><p>How do we define the constraints of the relationship?&nbsp;Again the answer is strait forward, we make the predicate an IRI (just like the subject and object). The users can click on the predicate to&nbsp;to discover the schema.</p><p>This makes our triple:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td>Subject</td><td>Predicate</td><td>Object</td></tr><tr><td>http://companies.org/<br />id/0820202</td><td>http://companies.org/<br />schema/#hasStatus</td><td>Active</td></tr></tbody></table><p>Note that we have chosen to make the schema a whole path of which the hasStatus relationship is a fragment (#)&nbsp;part of.</p>",
-    "displayTitle": "Linking the predicate",
-    "title": "Linking the predicate",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
     "_component": "text",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -4589,7 +4505,7 @@
     "_layout": "right",
     "_parentId": "597b3450d084d5167a05124d",
     "_type": "component",
-    "body": "<p>PREFIX&nbsp;foaf: <a href=\"http://xmlns.com/foaf/0.1/\" target=\"_blank\">http://xmlns.com/foaf/0.1/</a><br />PREFIX dc:&nbsp;<a href=\"http://purl.org/dc/terms/\" rel=\"nofollow\" target=\"_blank\">http://purl.org/dc/terms/</a><br />PREFIX dbpedia:&nbsp;<a href=\"http://dbpedia.org/ontology/\" target=\"_blank\">http://dbpedia.org/ontology/</a><br />PREFIX myorg: http://mycompany.org/<br />PREFIX owl:&nbsp;<a href=\"http://www.w3.org/2002/07/owl#\" target=\"_blank\">http://www.w3.org/2002/07/owl#</a></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate</strong></td><td><strong>Object</strong></td></tr><tr><td>myorg:person/John</td><td>foaf:familyName</td><td>Lennon</td></tr><tr><td>myorg:person/John</td><td>foaf:givenName</td><td>John</td></tr><tr><td>myorg:person/John</td><td>dbpedia:birthDate</td><td>1940-10-09</td></tr><tr><td>myorg:person/John</td><td>owl:sameAs</td><td><a href=\"http://dbpedia.org/resource/John_Lennon\" target=\"_blank\">http://dbpedia.org/<br />resource/John_Lennon</a></td></tr><tr><td>myorg:person/John</td><td>foaf:knows</td><td><a href=\"http://dbpedia.org/resource/Ringo_Starr\" target=\"_blank\">http://dbpedia.org/<br />resource/Ringo_Starr</a></td></tr><tr><td>myorg:person/Ringo</td><td>owl:sameAs</td><td><a href=\"http://dbpedia.org/resource/Ringo_Starr\" target=\"_blank\">http://dbpedia.org/<br />resource/Ringo_Starr</a></td></tr></tbody></table>",
+    "body": "<p>PREFIX&nbsp;foaf: <a href=\"http://xmlns.com/foaf/0.1/\" target=\"_blank\">http://xmlns.com/foaf/0.1/</a><br />PREFIX dc:&nbsp;<a href=\"http://purl.org/dc/terms/\" rel=\"nofollow\" target=\"_blank\">http://purl.org/dc/terms/</a><br />PREFIX dbpedia:&nbsp;<a href=\"http://dbpedia.org/ontology/\" target=\"_blank\">http://dbpedia.org/ontology/</a><br />PREFIX myorg: http://mycompany.org/person/<br />PREFIX owl:&nbsp;<a href=\"http://www.w3.org/2002/07/owl#\" target=\"_blank\">http://www.w3.org/2002/07/owl#</a></p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"rdf-table\" style=\"width:100%\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate</strong></td><td><strong>Object</strong></td></tr><tr><td>myorg:John</td><td>foaf:familyName</td><td>Lennon</td></tr><tr><td>myorg:John</td><td>foaf:givenName</td><td>John</td></tr><tr><td>myorg:John</td><td>dbpedia:birthDate</td><td>1940-10-09</td></tr><tr><td>myorg:John</td><td>owl:sameAs</td><td><a href=\"http://dbpedia.org/resource/John_Lennon\" target=\"_blank\">http://dbpedia.org/<br />resource/John_Lennon</a></td></tr><tr><td>myorg:John</td><td>foaf:knows</td><td><a href=\"http://dbpedia.org/resource/Ringo_Starr\" target=\"_blank\">http://dbpedia.org/<br />resource/Ringo_Starr</a></td></tr><tr><td>myorg:Ringo</td><td>owl:sameAs</td><td><a href=\"http://dbpedia.org/resource/Ringo_Starr\" target=\"_blank\">http://dbpedia.org/<br />resource/Ringo_Starr</a></td></tr></tbody></table>",
     "displayTitle": " ",
     "title": " ",
     "_isAvailable": true,
@@ -4597,7 +4513,7 @@
     "_classes": "",
     "_component": "text",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": ""
   },
@@ -4695,7 +4611,7 @@
     "_type": "component",
     "body": "<p>What is the easiest way to turn tabular data into linked open data?</p>",
     "displayTitle": "Tabular data and linked open data",
-    "title": "Tabular data and linked open data",
+    "title": "Q: Tabular data and linked open data",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -4807,7 +4723,7 @@
     "_type": "component",
     "body": "",
     "displayTitle": "What is the Semantic Web?",
-    "title": "What is the Semantic Web?",
+    "title": "Q: What is the Semantic Web?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -4891,7 +4807,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4914,7 +4830,7 @@
     "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4937,7 +4853,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5086,7 +5002,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5125,7 +5041,7 @@
       },
       {
         "title": "2. Syntax (XML)",
-        "body": "<p>The next layer proposed a syntax and format for data exchange and representation. In the layer cake this is the eXtensible Markup Language (XML). X</p><p>ML is meant to provide a human-readable and machine-readable format for documents. Trying to combine both human and machine readability has received some critisism and preference towards simpler formats, more structured formats such as JSON and&nbsp;YAML.&nbsp;</p>",
+        "body": "<p>The next layer proposed a syntax and format for data exchange and representation. In the layer cake this is the eXtensible Markup Language (XML).&nbsp;</p><p>XML is meant to provide a human-readable and machine-readable format for documents. Trying to combine both human and machine readability has received some critisism and preference towards simpler formats, more structured formats such as JSON and&nbsp;YAML.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -5145,7 +5061,7 @@
       },
       {
         "title": "4. Logic, proof and trust",
-        "body": "<p>Even with all of the knowledge representation, how do you manage the open and closed world models? How do you know if the data can be trusted or is fake?</p><p>This layer of the cake is meant to address those problems and involve further theory from Artificial Intelligence (AI ) to help accurately&nbsp;model the world. To this day this layer remains the most under-developed.&nbsp;</p>",
+        "body": "<p>Even with all of the knowledge representation, how do you manage the open and closed world models? How do you know if the data can be trusted or is fake?</p><p>This layer of the cake is meant to address those problems and involve further theory from Artificial Intelligence (AI) to help accurately&nbsp;model the world. To this day this layer remains the most under-developed.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -5161,7 +5077,7 @@
     "_layout": "right",
     "_parentId": "597cb40dd084d5167a0513cd",
     "_type": "component",
-    "body": "<p>Since its definition&nbsp;in 2001, the Semantic Web has seen broad use in academia and specific research institutions however has failed to reach its proposed potential. As early&nbsp;as 2006 a number of the original authors <a href=\"https://eprints.soton.ac.uk/262614/2/OLD_Semantic_Web_Revisted.pdf\" target=\"_blank\">revisited the idea</a> pondering why large-scale adoption and benefit had not been realised. Perhaps the lack of adoption is due to complexity and attempt to make a complete model of the world.&nbsp;</p><p>Perhaps the Semantic Web is too close to the development of Microcosm, an early competitor to the web. Like the Semantic Web,&nbsp;Microcosm was way more powerful and versatile than the World Wide Web however this strength was also its weakness. Like the Semantic Web, Microcosm never really had practical solutions to all parts of its stack and by the time they were though about the Web had taken off.&nbsp;</p><p>The whole Semantic Web stack is not yet complete (as of 2017) and while some of the principals like RDF are useful, other parts of the stack, such as XML, have been overtaken with formats such as JSON. It will be interesting to see over the coming decades how the web continues to evolve, perhaps one day we might realise the vision of the Semantic Web, or we might see something else.&nbsp;</p>",
+    "body": "<p>Since its definition&nbsp;in 2001, the Semantic Web has seen broad use in academia and specific research institutions however has failed to reach its proposed potential. As early&nbsp;as 2006 a number of the original authors <a href=\"https://eprints.soton.ac.uk/262614/2/OLD_Semantic_Web_Revisted.pdf\" target=\"_blank\">revisited the idea</a> pondering why large-scale adoption and benefit had not been realised. Perhaps the lack of adoption is due to complexity and attempt to make a complete model of the world.&nbsp;</p><p>Maybe the Semantic Web will be similar to Microcosm, an early competitor to the web. Like the Semantic Web,&nbsp;Microcosm was&nbsp;more powerful and versatile than the World Wide Web however this strength was also its weakness. Like the Semantic Web, Microcosm never really had practical solutions to all parts of its stack and by the time they were though about the Web had taken off.&nbsp;</p><p>The whole Semantic Web stack is not yet complete (as of 2017) and while some of the principals like RDF are useful, other parts of the stack, such as XML, have been overtaken&nbsp;with formats such as JSON. It will be interesting to see over the coming decades how the web continues to evolve, perhaps one day we might realise the vision of the Semantic Web, or we might see something else.&nbsp;</p>",
     "displayTitle": "Is the Semantic Web the future of the Web?",
     "title": "Is the Semantic Web the future of the Web?",
     "_isAvailable": true,
@@ -5226,7 +5142,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5249,7 +5165,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5272,7 +5188,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5295,7 +5211,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5311,14 +5227,14 @@
     "_parentId": "597b3450d084d5167a05124f",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5364,7 +5280,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -5404,7 +5320,7 @@
     "_type": "component",
     "body": "<p>Which three ingredients&nbsp;are required to help build the semantic web?</p>",
     "displayTitle": "Adding intelligence to the web",
-    "title": "Adding intelligence to the web",
+    "title": "Q: Adding intelligence to the web",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -5492,7 +5408,7 @@
     "_type": "component",
     "body": "<p>Given the following set of premises, select the correct inference from the options given.</p><ol><li>Martha is Female</li><li>Shelly is Female</li><li>Brenda isMotherOf Shelly</li><li>Martha isChildOf Brenda</li></ol>",
     "displayTitle": "Rules, inference and reasoning",
-    "title": "Rules, inference and reasoning",
+    "title": "Q: Rules, inference and reasoning",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -5642,5 +5558,106 @@
       }
     ],
     "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59776526d084d5167a05114e",
+    "_layout": "full",
+    "_parentId": "59776526d084d5167a051105",
+    "_type": "component",
+    "body": "<p>All different data structures tablular, hierarchical and network can have schemas applied to them. Explore each below and how they apply to a number of different data formats.</p>",
+    "displayTitle": "Schemas in practice",
+    "title": "Schemas in practice",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Tabular data schemas",
+        "body": "<p>A schema for tabular data will define the column titles&nbsp;(keys) and valid values that can be contained in each column.&nbsp;</p><p>In desktop applications like excel, column titles can be simply created through typing them in the top row of the sheet. The problem with this is they can be changed and this is the reason many workbooks use data entry forms to stop the schema being changed.&nbsp;</p><p>The data validation function in excel can enforce rules on what valid values can exist and even allow the selection from a pre-defined list of values.&nbsp;</p><p>A slight issue with excel is that data portability is not very easy as the schema and validations rules cannot be exported from an Excel file and applied to another dataset.&nbsp;</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td><p><strong>FirstName</strong></p></td><td><p><strong>LastName</strong></p></td><td><p><strong>Instrument</strong></p></td><td><p><strong>DateOfBirth</strong></p></td></tr><tr><td><p>John</p></td><td>Lennon</td><td>Vocal</td><td>1940-10-09</td></tr><tr><td><p>Paul</p></td><td>McCartney</td><td>Bass Guitar</td><td>1942-06-18</td></tr><tr><td><p>George</p></td><td>Harrison</td><td>Guitar</td><td>1943-02-25</td></tr><tr><td><p>Ringo</p></td><td>Starr</td><td>Drums</td><td>1940-07-07</td></tr></tbody></table><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "XML Schema Definition (XSD)",
+        "body": "<p>It is possible to import a schema into Excel, however these have to be defined in the eXtensible Markup Language (XML) format and conform to the XML Schema Definition (XSD) standard.</p><p>XML is a hierarchical file format and thus can be challenging to implement for tabular data.&nbsp;</p><p>The example below&nbsp;shows part of the&nbsp;schema definition for the tabular data shown previously. The full schema can be downloaded <a href=\"course/en/assets/7c45f24f01fa0026720e0545d48a064937b15fec.xsd\" target=\"_blank\">here</a>.&nbsp;</p><p>Such schema can be used but machines to automatically validate the structure and contents of a datasets. One key advantage of XSD schemas is that they can used with a wide variety tabular and hierarchical data formats. Why not try using the schema from above with an <a href=\"http://www.utilities-online.info/xsdvalidation/\" target=\"_blank\">online validation tool</a> against the same <a href=\"course/en/assets/d1242d755f80847ec9fcaa2ebc09546a79727e7a.xml\" target=\"_blank\">data in XML</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/7ebcb3371eb0ab5dc86e3b2b19efc047705ded01.png",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "JSON Schema",
+        "body": "<p>XSD provides a good specification for schema definitions, however XML is challenging to create and use. The JavaScript Object Notation (JSON) schema format provides a much simpler alternative which is easier to create.</p><p>Additionally unlike XML, JSON is also natively supported by the Javascript programme language which is used widely on the web. This means it is much more effluent to use and does not require complex parsers to translate from one format to another.&nbsp;</p><p>Shown here is the JSON schema for our tabular data file. Try if for yourself by downloading the <a href=\"course/en/assets/d466f522c9b280bdf8e0050e0899efe7cb184c9d.csv\" target=\"_blank\">tabular data</a> (in CSV) and <a href=\"course/en/assets/e367089a2d91deea7449638787755946d8b5a91e.json\" target=\"_blank\">schema</a> (in JSON) and then using <a href=\"http://csvlint.io/\" target=\"_blank\">csvlint</a> (a tabular data validator) to validate that the data conforms to the schema.&nbsp;</p><p>Note that XSD is still a far more developed schema definition than JSON schema. As can be seen from this example JSON schema does not have a way to validate the range of inputs currently.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/ca668c66c77bf4606835c720c2f31fdd85ff61b5.png",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "597b35d3d084d5167a051317",
+    "_layout": "right",
+    "_parentId": "597b3450d084d5167a05124e",
+    "_type": "component",
+    "body": "<p>A schema is a blueprint for data that defines a set of integrity constraints and rules relating to the structure and contents of a data resource.&nbsp;A schema will define what the column, titles or keys mean in the data and any valid values or constraints that exist.</p><p>In RDF data is not tabular but represented as a triple, for example:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"><tbody><tr><td><strong>Subject</strong></td><td><strong>Predicate</strong></td><td><strong>Object</strong></td></tr><tr><td>http://companies.org<br />/id/0820202</td><td>hasStatus</td><td>Active</td></tr></tbody></table><p>Note that the column titles are&nbsp;<strong>subject</strong>,<strong>&nbsp;predicate</strong>&nbsp;and&nbsp;<strong>object</strong>&nbsp;due to the abstract model of RDF. This means it is not possible to apply schemas to the column headings here. However, as outlined previously the key:value pair related to the value of the predicate, in this case &quot;hasStatus&quot; so this is where the schema applies.&nbsp;</p>",
+    "displayTitle": "Schemas in RDF",
+    "title": "Schemas in RDF",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "597b3451d084d5167a051259",
+    "_layout": "left",
+    "_parentId": "597b3450d084d5167a05124c",
+    "_type": "component",
+    "body": "<p>In order to define a schema for RDF data, it is necessary to define the constraints of the relationship.&nbsp;The predicate defines the relationship, in this case &quot;hasStatus&quot; which links a &quot;Company&quot; to a potential status &quot;Active, Inactive and Dissolved&quot;.&nbsp;</p><p>The schema would therefor be entirely defined against the predicate. To do this the predicate must become an IRI so that it can be used as the&nbsp;<strong>subject</strong>&nbsp;in a new set of&nbsp;RDF<strong>&nbsp;</strong>triples that define the constraints of the relationship.</p>",
+    "displayTitle": "Linking the predicate",
+    "title": "Linking the predicate",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5980509dd084d5167a0516d5",
+    "_layout": "full",
+    "_parentId": "59805066d084d5167a0516d4",
+    "_type": "component",
+    "body": "<p>This makes the original triple:</p><table border=\"1px solid black;\" cellpadding=\"1\" cellspacing=\"1\" class=\"rdf-table\" style=\"width:100%\"><tbody><tr><td><p><strong>Subject</strong></p></td><td><p><strong>Predicate</strong></p></td><td><p><strong>Object</strong></p></td></tr><tr><td><p>http://companies.org/<br />id/0820202</p></td><td>http://companies.org/<br />schema/#hasStatus</td><td>Active</td></tr></tbody></table><p>and the schema:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"rdf-table\" style=\"width:100%\"><tbody><tr><td><p><strong>Subject</strong></p></td><td><p><strong>Predicate</strong></p></td><td><p><strong>Object</strong></p></td></tr><tr><td><p>http://companies.org/<br />schema/#hasStatus</p></td><td>rdfs:domain</td><td>http://companies.org/<br />type/Company</td></tr><tr><td><p>http://companies.org/<br />schema/#hasStatus</p></td><td>rdfs:range</td><td>http://companies.org/<br />list/Status</td></tr><tr><td><p>http://companies.org/<br />list/Status</p></td><td>rdf:_1</td><td>&quot;Active&quot;</td></tr><tr><td><p>http://companies.org/<br />list/Status</p></td><td>rdf:_2</td><td>&quot;InActive&quot;</td></tr><tr><td><p>http://companies.org/<br />list/Status</p></td><td>rdf:_3</td><td>&quot;Dissolved&quot;</td></tr></tbody></table>",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
   }
 ]

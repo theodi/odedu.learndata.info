@@ -108,12 +108,59 @@
       "buttonText": "Submit"
     }
   },
-  "_latestTrackingId": 93,
+  "_latestTrackingId": 94,
   "body": "",
   "displayTitle": "ODEdu VET modules (Practitioner)",
   "title": "ODEdu VET modules (Practitioner)",
   "_pageLevelProgress": {
-    "_showPageCompletion": true,
-    "_isEnabled": true
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Resources",
+    "description": "Click here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "title": "XSD Schema",
+        "filename": "schema.xml",
+        "description": "XSD Schema",
+        "_link": "course/en/assets/7c45f24f01fa0026720e0545d48a064937b15fec.xsd"
+      },
+      {
+        "_type": "document",
+        "title": "XML data",
+        "filename": "data.xml",
+        "description": "XML data",
+        "_link": "course/en/assets/d1242d755f80847ec9fcaa2ebc09546a79727e7a.xml"
+      },
+      {
+        "_type": "document",
+        "title": "CSV data",
+        "filename": "data.csv",
+        "description": "CSV data",
+        "_link": "course/en/assets/d466f522c9b280bdf8e0050e0899efe7cb184c9d.csv"
+      },
+      {
+        "_type": "document",
+        "title": "JSON Schema",
+        "filename": "schema.json",
+        "description": "JSON Schema",
+        "_link": "course/en/assets/e367089a2d91deea7449638787755946d8b5a91e.json"
+      }
+    ]
   }
 }
