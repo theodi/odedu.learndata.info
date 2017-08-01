@@ -19,6 +19,7 @@
   "_accessibility": {
     "_isTextProcessorEnabled": false,
     "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
     "_isEnabled": false
   },
   "__v": 0,
@@ -66,13 +67,13 @@
       "adapt-skillsFramework",
       "adapt-odi-licence",
       "adapt-contrib-graphic",
-      "adapt-contrib-media",
       "adapt-contrib-text",
-      "adapt-contrib-gmcq",
       "adapt-contrib-mcq",
-      "adapt-contrib-responsiveIframe",
+      "adapt-contrib-media",
       "adapt-contrib-narrative",
-      "adapt-contrib-accordion"
+      "adapt-contrib-accordion",
+      "adapt-contrib-gmcq",
+      "adapt-contrib-responsiveIframe"
     ]
   }
 }
