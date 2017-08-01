@@ -101,12 +101,12 @@
       "buttonText": "Submit"
     }
   },
-  "_latestTrackingId": 58,
+  "_latestTrackingId": 47,
   "body": "",
   "displayTitle": "ODEdu VET modules (Strategist)",
   "title": "ODEdu VET modules (Strategist)",
   "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true
+    "_showPageCompletion": true,
+    "_isEnabled": true
   }
 }
