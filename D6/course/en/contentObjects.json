@@ -16,6 +16,9 @@
     "body": "<p>More and more businesses are using open data, from large corporations&nbsp;to startups. When starting a business with open data, it is important to design&nbsp;your business model and consider how open data will underpin that model. In this module we explore open data&nbsp;business models.</p>",
     "displayTitle": "Starting a business with open data",
     "title": "Starting a business with open data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
@@ -33,6 +36,11 @@
           "level": "strategist"
         }
       ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -52,12 +60,20 @@
     "body": "<p>Open data isn&#39;t just useful for startups looking to innovate with data, it is also a crucial source to grow and develop your business. A business&nbsp;grows by increasing sales or by&nbsp;increasing its profitability and open data can support both of these activities.</p>",
     "displayTitle": "Growing a business with open data",
     "title": "Growing a business with open data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": []
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -78,8 +94,8 @@
     "displayTitle": "Pitching for open data",
     "title": "Pitching for open data",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -92,6 +108,80 @@
           "outcome": "Describe how to tailor an open data pitch to different audiences",
           "credits": 5,
           "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>&copy; <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
+      "SL_text": "<p>Developed for <a href=\"http://odedu-project.eu/\" target=\"_blank\">ODEdu</a> by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
+      "_items": [
+        {
+          "title": "ODI Training Team",
+          "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> training team.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/logo-small.png"
+          }
+        },
+        {
+          "title": "Adapt learning",
+          "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/adapt.png"
+          }
+        }
+      ]
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>Pitching for open data&nbsp;by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
         }
       ]
     }
@@ -113,12 +203,20 @@
     "body": "<p>Open data is a relatively new concept. Any change will bring barriers - challenges for some current ways of working, or barriers for those who want to use open data but can&#39;t. In this module, we explore how to overcome technical and non-technical barriers to open data use in established businesses.</p>",
     "displayTitle": "Overcoming barriers for established businesses",
     "title": "Overcoming barriers for established businesses",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -138,6 +236,9 @@
     "body": "",
     "displayTitle": "Collaborating with open data stakeholders",
     "title": "Collaborating with open data stakeholders",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -160,6 +261,11 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   }
 ]

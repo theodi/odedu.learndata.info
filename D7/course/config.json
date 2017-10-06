@@ -30,9 +30,11 @@
     "includes": [
       "adapt-theme-odedu",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-skillsFramework",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-odi-licence",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-accordion",

@@ -46,6 +46,29 @@
     }
   },
   {
+    "_id": "58f8b186d084d5167a04d7b3",
+    "_layout": "right",
+    "_parentId": "58f8b185d084d5167a04d731",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
     "_id": "58f8b186d084d5167a04d7b4",
     "_layout": "right",
     "_parentId": "58f8b185d084d5167a04d732",
@@ -63,21 +86,27 @@
     "instruction": ""
   },
   {
-    "_id": "59527bded084d5167a0500e2",
+    "_id": "58f8b186d084d5167a04d7b5",
     "_layout": "left",
-    "_parentId": "58f8b185d084d5167a04d733",
+    "_parentId": "58f8b185d084d5167a04d732",
     "_type": "component",
-    "body": "<p>Opening up data <a href=\"https://theodi.github.io/odedu.learndata.info/D1/#/id/5954ee6ed084d5167a050577\">has diverse benefits</a>. Some organisations open data, because it helps them to fulfil an organisational goal without investing lots of time and money.</p><p>By opening up transport data, TfL have reaped huge rewards, including better access for the disabled through the use of applications such as <a href=\"http://www.stationmasterapp.com/features.html#accessibility\">StationMaster.</a></p><p dir=\"ltr\">Thomson Reuters is another large organisation, who has applied open data so that their existing products can be linked together for a better sales channel, which has lowered costs and improved services for their clients.</p>",
-    "displayTitle": "Opening to achieve another organisational goal",
-    "title": "Opening to achieve another organisational goal",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "text",
+    "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
-    "instruction": ""
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/colored-paper-pointers-signs-navigation-mapvector-154597898\" target=\"_blank\">Leone_V</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
   },
   {
     "_id": "58f8b186d084d5167a04d7bb",
@@ -137,13 +166,13 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "597e169ed084d5167a0515f8",
+    "_id": "59527bded084d5167a0500e2",
     "_layout": "left",
-    "_parentId": "58f8b185d084d5167a04d736",
+    "_parentId": "58f8b185d084d5167a04d733",
     "_type": "component",
-    "body": "",
-    "displayTitle": "Are you ready to open up data?",
-    "title": "Are you ready to open up data?",
+    "body": "<p>Opening up data <a href=\"https://theodi.github.io/odedu.learndata.info/D1/#/id/5954ee6ed084d5167a050577\">has diverse benefits</a>. Some organisations open data, because it helps them to fulfil an organisational goal without investing lots of time and money.</p><p>By opening up transport data, TfL have reaped huge rewards, including better access for the disabled through the use of applications such as <a href=\"http://www.stationmasterapp.com/features.html#accessibility\">StationMaster.</a></p><p dir=\"ltr\">Thomson Reuters is another large organisation, who has applied open data so that their existing products can be linked together for a better sales channel, which has lowered costs and improved services for their clients.</p>",
+    "displayTitle": "Opening to achieve another organisational goal",
+    "title": "Opening to achieve another organisational goal",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -152,29 +181,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "58f8b186d084d5167a04d7b3",
-    "_layout": "right",
-    "_parentId": "58f8b185d084d5167a04d731",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
-      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
-      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
   },
   {
     "_id": "59527be0d084d5167a0500e3",
@@ -200,27 +206,21 @@
     }
   },
   {
-    "_id": "597e3133d084d5167a051677",
-    "_layout": "right",
-    "_parentId": "597e3133d084d5167a051676",
+    "_id": "597e169ed084d5167a0515f8",
+    "_layout": "left",
+    "_parentId": "58f8b185d084d5167a04d736",
     "_type": "component",
     "body": "",
-    "displayTitle": " ",
-    "title": " ",
+    "displayTitle": "Are you ready to open up data?",
+    "title": "Are you ready to open up data?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
-    "_component": "graphic",
+    "_component": "text",
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": true
     },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
-      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
+    "instruction": ""
   },
   {
     "_id": "597e173bd084d5167a051614",
@@ -238,29 +238,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "58f8b186d084d5167a04d7b5",
-    "_layout": "left",
-    "_parentId": "58f8b185d084d5167a04d732",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
-      "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
-      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/colored-paper-pointers-signs-navigation-mapvector-154597898\" target=\"_blank\">Leone_V</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
   },
   {
     "_id": "597e173dd084d5167a051615",
@@ -283,6 +260,29 @@
       "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "597e3133d084d5167a051677",
+    "_layout": "right",
+    "_parentId": "597e3133d084d5167a051676",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/en/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {

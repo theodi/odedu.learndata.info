@@ -16,12 +16,20 @@
     "body": "<p>Not all data is open and nor should it be. It can be useful to think of data as existing across a spectrum,&nbsp;from closed, to shared, to open. In this module, we explore these three types of data.</p>",
     "displayTitle": "The Data Spectrum",
     "title": "The Data Spectrum",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": []
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -41,12 +49,20 @@
     "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail can help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module, we will look at what data annotation is and how it can be applied to different types of data.</p>",
     "displayTitle": "Annotating and describing data",
     "title": "Annotating and describing data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": []
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -66,12 +82,20 @@
     "body": "<p>Open data and open standards are very closely related, both in definition and application. This module examines what open standards are and why they are important for open data.</p>",
     "displayTitle": "Open data and open standards",
     "title": "Open data and open standards",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   }
 ]

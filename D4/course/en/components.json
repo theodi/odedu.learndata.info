@@ -1,5 +1,22 @@
 [
   {
+    "_id": "59550470d084d5167a0509a9",
+    "_layout": "left",
+    "_parentId": "5955046fd084d5167a050938",
+    "_type": "component",
+    "body": "<p>Digital maps and the associated Geographic Information Systems (GIS) enable us to easily capture, manipulate, analyse and present spatial and geographic data.&nbsp;</p><p>Geographic data here refers to any data that has an implicit or explicit association with a location. Typically, this covers a wide range of&nbsp;data, including positional data (e.g. locations of schools), boundary data (e.g. regions of Tanzania) and elevation data (e.g. the height of Kilimanjaro).&nbsp;</p><p>Maps have for centuries been critical to helping us to understand where we are and what is around us. Digital maps go beyond this and allow us to create new data visualisations for any dataset that has a geographic connection.&nbsp;Digital maps can help to inform decisions that we need to make, for example...</p>",
+    "displayTitle": "Introduction to digital mapping",
+    "title": "Introduction to digital mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
     "_id": "59550470d084d5167a0509a7",
     "_layout": "right",
     "_parentId": "5955046fd084d5167a050937",
@@ -40,23 +57,6 @@
     "instruction": ""
   },
   {
-    "_id": "59550470d084d5167a0509a9",
-    "_layout": "left",
-    "_parentId": "5955046fd084d5167a050938",
-    "_type": "component",
-    "body": "<p>Digital maps and the associated Geographic Information Systems (GIS) enable us to easily capture, manipulate, analyse and present spatial and geographic data.&nbsp;</p><p>Geographic data here refers to any data that has an implicit or explicit association with a location. Typically, this covers a wide range of&nbsp;data, including positional data (e.g. locations of schools), boundary data (e.g. regions of Tanzania) and elevation data (e.g. the height of Kilimanjaro).&nbsp;</p><p>Maps have for centuries been critical to helping us to understand where we are and what is around us. Digital maps go beyond this and allow us to create new data visualisations for any dataset that has a geographic connection.&nbsp;</p>",
-    "displayTitle": "Introduction to digital mapping",
-    "title": "Introduction to digital mapping",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "59550470d084d5167a0509aa",
     "_layout": "right",
     "_parentId": "5955046fd084d5167a050938",
@@ -77,48 +77,6 @@
       "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
       "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
       "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "59550470d084d5167a0509ab",
-    "_layout": "full",
-    "_parentId": "5955046fd084d5167a05093a",
-    "_type": "component",
-    "body": "<p>Open digital mapping platforms enable anyone to make their own maps.&nbsp;Ramani Huria is a community-based mapping project that began in Dar es Salaam. Its initial&nbsp;aim is to&nbsp;create highly accurate maps of the most flood-prone areas of the city. As the maps have taken shape, their benefits have multiplied and their potential magnified. They now serve as foundational tools for development within all socio-economic spheres beyond flood resilience.&nbsp;</p>",
-    "displayTitle": "Community mapping for flood resilience and development",
-    "title": "Community mapping for flood resilience and development",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "media",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Watch the video to find out more about the Ramani Huria project.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://www.youtube.com/watch?v=7Pa0wgMstE8",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "inview",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_allowFullScreen": false,
-    "_playsinline": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
     }
   },
   {
@@ -730,6 +688,48 @@
       "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59550470d084d5167a0509ab",
+    "_layout": "full",
+    "_parentId": "5955046fd084d5167a05093a",
+    "_type": "component",
+    "body": "<p>Taking an open approach to digital mapping enables other people to help create or enrich geographic data and makes the data available for other people to benefit from.&nbsp;Open digital mapping platforms (e.g. OpenStreetMap) enable anyone to create their own maps using this approach.&nbsp;</p><p>Ramani Huria is a community-based mapping project that began in Dar es Salaam. Its initial&nbsp;aim is to&nbsp;create highly accurate maps of the most flood-prone areas of the city and inform decisions about&nbsp;how to protect these areas. As the maps have taken shape, their benefits have multiplied and their potential magnified. They now serve as foundational tools for development within all socio-economic spheres in Tanzania.&nbsp;</p>",
+    "displayTitle": "Community mapping for flood resilience and development",
+    "title": "Community mapping for flood resilience and development",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Watch the video to find out more about the Ramani Huria project.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=7Pa0wgMstE8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
     }
   }
 ]

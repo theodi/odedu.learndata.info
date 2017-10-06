@@ -58,12 +58,32 @@
       }
     },
     "_extensions": {
+      "_ODILicence": {
+        "titleText": "Licence",
+        "linkText": "Licence"
+      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
         "pageLevelProgressMenuBar": "You have completed ",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
+      },
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
       }
     }
   },
@@ -106,8 +126,14 @@
   "body": "<p dir=\"ltr\">Tanzania is beginning to realise the value of opening up and using its own datasets in order to assist in the improvement of critical services like water management, health care and education. These&nbsp;modules extend the exercises using the health care data and show how this data can be visualised and analysed on a map in Tanzania.</p>",
   "displayTitle": "Mapping for ODedu",
   "title": "Mapping for ODedu",
+  "_ODILicence": {
+    "_items": []
+  },
   "_pageLevelProgress": {
     "_showPageCompletion": true,
     "_isEnabled": true
+  },
+  "_aboutPage": {
+    "_items": []
   }
 }

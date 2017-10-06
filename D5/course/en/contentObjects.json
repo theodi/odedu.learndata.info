@@ -1,10 +1,10 @@
 [
   {
-    "_id": "58f8b1b4d084d5167a04da2c",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/d31ed292b9a5b50993b9434076d7209a64401cc3.jpg"
     },
+    "_id": "58f8b1b4d084d5167a04da2c",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -16,6 +16,9 @@
     "body": "<p>Opening up research data is critical for many reasons. In this module we explore what research data is, how it compares to open data and what activities are supporting its release.</p>",
     "displayTitle": "Why open research data?",
     "title": "Why open research data?",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -43,6 +46,11 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -62,12 +70,20 @@
     "body": "<p>Enriching data&nbsp;is a general term that refers to processes used to enhance, refine or otherwise improve or add value to raw data. This module explores some of the many techniques that are commonly applied to raw data and demonstrates how very little data can lead to immense insight through enriching.</p>",
     "displayTitle": "How to enrich data",
     "title": "How to enrich data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": []
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -87,12 +103,20 @@
     "body": "<p>Data exists in a multitude of structures and formats.&nbsp;The problem with these structures is that each is suited to a different format. Given the different combinations of structures and formats, combining and analysing data that exists in these different structures is a problem. This module explores a potential solution to this problem.</p>",
     "displayTitle": "RDF: Three is the magic number",
     "title": "RDF: Three is the magic number",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -112,12 +136,20 @@
     "body": "<p>In the 5-stars of linked open data, the 4th star states &quot;If you use identifiers for things, make them web based so people&nbsp;can point at your stuff&quot;. In this module we look at how the Resource Description Framework also recommends the use of web based identifiers and the caveats of doing so.</p>",
     "displayTitle": "Linked open data and RDF",
     "title": "Linked open data and RDF",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -137,12 +169,20 @@
     "body": "<p>Consistent availability of data is key to enabling reuse. This module looks at how to design and implement an Application Programming Interface (API) for data.&nbsp;</p>",
     "displayTitle": "Having a REST with API design",
     "title": "Having a REST with API design",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -162,12 +202,20 @@
     "body": "<p>Schemas&nbsp;play a key role in enabling the wide, automated re-use of data. This module looks at the role of and importance of&nbsp;schemas in assisting reusability and quality of data.</p>",
     "displayTitle": "Choosing and designing schemas",
     "title": "Choosing and designing schemas",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -187,12 +235,20 @@
     "body": "<p>Having introduced all the core concepts of linked open data, schemas and RDF this module looks at how schemas are applied to RDF and the connection with linked open data.&nbsp;</p><p>&nbsp;</p>",
     "displayTitle": "Schemas, linked open data and RDF",
     "title": "Schemas, linked open data and RDF",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -212,12 +268,20 @@
     "body": "<p>In 2001, Sir Tim Berners-Lee put forward a vision for the future of the web; the semantic web. This module explores what the semantic web is, the relation to linked open data, RDF and schemas.&nbsp;</p><p>&nbsp;</p>",
     "displayTitle": "Is the semantic web the future of the web",
     "title": "Is the semantic web the future of the web",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
     },
     "_skillsFramework": {
       "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   }
 ]

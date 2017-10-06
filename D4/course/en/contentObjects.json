@@ -1,10 +1,10 @@
 [
   {
-    "_id": "5955046fd084d5167a0508f7",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/dd448eba6939ee52c989ec2d5151d71c3858c5ac.png"
     },
+    "_id": "5955046fd084d5167a0508f7",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -16,12 +16,23 @@
     "body": "<p>This module explores digital maps: how open data can enhance maps; how to use maps&nbsp;in web sites and projects; and how to visualise and explore data with them.</p>",
     "displayTitle": "Mapping open data",
     "title": "Mapping open data",
-    "_skillsFramework": {
-      "_skills": []
+    "_trackingHub": {
+      "_pageID": ""
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Mapping open data&quot;, adapted from &quot;Mapping open data&quot; by <a href=\"http://dlab.or.tz/\" target=\"_blank\">Tanzania Data Lab</a>, used under <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   }
 ]

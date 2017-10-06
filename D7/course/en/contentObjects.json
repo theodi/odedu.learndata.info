@@ -16,6 +16,9 @@
     "body": "<p>More and more organisations are seeing the benefits of opening data, whether through reducing costs, increasing revenue&nbsp;or helping them to achieve another organisational goal. For a lot of organisations, going open is a new opportunity that comes with its own challenges. In this module we explore when to open up data.</p>",
     "displayTitle": "When to open up data",
     "title": "When to open up data",
+    "_ODILicence": {
+      "_items": []
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -33,6 +36,11 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   }
 ]

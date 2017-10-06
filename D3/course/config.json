@@ -30,17 +30,19 @@
     "includes": [
       "adapt-theme-odedu",
       "adapt-contrib-boxMenu",
-      "adapt-contrib-tutor",
-      "adapt-skillsFramework",
+      "adapt-contrib-aboutPage",
       "adapt-contrib-pageLevelProgress",
+      "adapt-skillsFramework",
+      "adapt-contrib-tutor",
+      "adapt-odi-licence",
       "adapt-contrib-graphic",
-      "adapt-contrib-text",
       "adapt-contrib-mcq",
+      "adapt-contrib-matching",
+      "adapt-contrib-text",
       "adapt-contrib-narrative",
       "adapt-contrib-accordion",
       "adapt-contrib-hotgraphic",
-      "adapt-contrib-media",
-      "adapt-contrib-matching"
+      "adapt-contrib-media"
     ]
   }
 }

@@ -16,6 +16,10 @@
     "body": "<p dir=\"ltr\">More and more organisations and individuals are seeing the value of data, from saving time and money in an organisation, to making data informed decisions or improving products and services for users. In order to make data more understandable, we need to be able to present findings and insight from data. In this module we look at how data has changed the way we tell stories.</p>",
     "displayTitle": "Introduction to data storytelling",
     "title": "Introduction to data storytelling",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -35,9 +39,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Introduction to data storytelling&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57ac4dd0e396ef981f39e91f\" target=\"_blank\">Introduction to data storytelling</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -57,6 +65,10 @@
     "body": "<p dir=\"ltr\">To tell a powerful story you need to be able undertake the majority - if not all - of the stages of data storytelling. Success will depend on understanding the time requirement of each stage in the process.</p>",
     "displayTitle": " The four step process",
     "title": " The four step process",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -71,9 +83,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;The four step process&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57b1b369e396ef981f39ea28\" target=\"_blank\">The four step process</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -93,6 +109,10 @@
     "body": "<p>When working with data, it&#39;s&nbsp;critical to understand your rights and your responsibility in ensuring legal and ethical use of data. This module introduces the&nbsp;aspects of law that cover the use of content in different scenarios.&nbsp;</p>",
     "displayTitle": "Understanding your rights to use data",
     "title": "Understanding your rights to use data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -112,9 +132,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Understanding your rights to use data&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57b441b1e396ef981f39ebc8\" target=\"_blank\">Understanding your rights to use data</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -134,6 +158,10 @@
     "body": "<p dir=\"ltr\">Data plays a key role in storytelling, but not all data is easy to find. This module looks at where you can start to find data and how to find data that&#39;s hidden on the web.</p>",
     "displayTitle": "Gathering data",
     "title": "Gathering data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -158,9 +186,62 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Gathering data&quot; was originally developed for <a href=\"http://findingstories.learndata.info/#/id/58888c96b61c46e176e7e6bb\" target=\"_blank\">European Data Science Academy</a> by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>&quot;Gathering data&quot; by <a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p dir=\"ltr\">This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
     }
   },
   {
@@ -180,6 +261,10 @@
     "body": "<p dir=\"ltr\">Organising data ready for it to be processed is an essential skills for anyone working with data. In this module we explore how to design and implement a structure for a dataset that can be easily understood by others.</p>",
     "displayTitle": "Organising data",
     "title": "Organising data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -204,9 +289,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Organising data&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57c198b7c8c479d7402de27e\" target=\"_blank\">Organising data</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -226,6 +315,10 @@
     "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place, you need to be able to identify and remove them from data. This module looks at common errors and useful tools to remove them.</p>",
     "displayTitle": "Cleaning data",
     "title": "Cleaning data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -245,9 +338,62 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Cleaning data&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57b3182fe396ef981f39eb0f\">Cleaning data</a>&quot; by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>&quot;Cleaning data&quot; by <a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p dir=\"ltr\">This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
     }
   },
   {
@@ -267,6 +413,10 @@
     "body": "<p dir=\"ltr\">Once data is clean, it&#39;s ready for analysis; but this analysis doesn&#39;t have to use complex statistical methods. Common analysis techniques such as filtering and pivot tables can be equally as effective.</p>",
     "displayTitle": "Filtering and pivot tables",
     "title": "Filtering and pivot tables",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -291,9 +441,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Filtering and pivot tables&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57c1992cc8c479d7402de281\" target=\"_blank\">Filtering and pivot tables</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -313,6 +467,10 @@
     "body": "<p dir=\"ltr\">There are many different types of visualisation, from common graphs to advanced statistical plots to geographic representations. Learn more about the options for bringing your data to life in this module.</p>",
     "displayTitle": "Data visualisation formats",
     "title": "Data visualisation formats",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -327,9 +485,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Data visualisation formats&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57adb0cce396ef981f39e9d4\" target=\"_blank\">Data visualisation formats</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -349,6 +511,10 @@
     "body": "<p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p>",
     "displayTitle": "Data visualisation best practice",
     "title": "Data visualisation best practice",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -363,9 +529,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Data visualisation best practice&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57b2c1c9e396ef981f39ea8c\" target=\"_blank\">Visualisation best practice</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -385,6 +555,10 @@
     "body": "<p dir=\"ltr\">The use of visual deception can create intrigue, but it can also be used to mislead. You should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>",
     "displayTitle": "Visual deception",
     "title": "Visual deception",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -394,9 +568,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Visual deception&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57ac437ce396ef981f39e8fb\" target=\"_blank\">Visual deception</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -416,6 +594,10 @@
     "body": "<p dir=\"ltr\">More and more organisations and individuals are seeing the value of data, from saving time and money in an organisation, to making data informed decisions or improving products and services for users. In order to make data more understandable, we need to be able to present findings and insight from data. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>",
     "displayTitle": "Narrating your story",
     "title": "Narrating your story",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -435,9 +617,13 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Narrating your story&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57c199cfc8c479d7402de28b\" target=\"_blank\">Narrating your story</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   }
 ]

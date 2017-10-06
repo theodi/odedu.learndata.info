@@ -40,13 +40,6 @@
       "_graphic": {
         "ariaRegion": ""
       },
-      "_hotgraphic": {
-        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
-        "ariaPopupLabel": "Hotgraphic popup"
-      },
-      "_mcq": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
       "_text": {
         "ariaRegion": ""
       },
@@ -54,8 +47,15 @@
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
         "transcriptButton": "Alternatively you can select the link below for the transcript."
       },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
       "_matching": {
         "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
@@ -71,6 +71,30 @@
         "pageLevelProgressMenuBar": "You have completed ",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
+      },
+      "_skillsFramework": {
+        "linkText": "Outcomes",
+        "titleText": "Learning outcomes"
+      },
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "<p>&copy; <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>.&nbsp;This project has been funded with the support of the Erasmus+ programme of the European Union.</p>",
+        "SL_text": "<p>Developed for <a href=\"http://odedu-project.eu/\" target=\"_blank\">ODEdu</a> by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
       }
     }
   },
@@ -114,7 +138,95 @@
   "displayTitle": "ODEdu VET modules (Intermediate)",
   "title": "ODEdu VET modules (Intermediate)",
   "_pageLevelProgress": {
-    "_showPageCompletion": true,
-    "_isEnabled": true
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "European Commission",
+        "description": "<p>This content has been funded with support from the European Commission. The content reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg"
+        }
+      },
+      {
+        "title": "ODEdu project",
+        "description": "<p>This content was developed as part of the <a href=\"http://odedu-project.eu/\" target=\"_blank\">ODEdu project</a> by the Open Data Institute.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "http://odedu-project.eu/wp-content/uploads/2016/04/ODEduLogo03-e1461764027797.png"
+        }
+      },
+      {
+        "title": "ODI Training Team",
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> training team.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/logo-small.png"
+        }
+      },
+      {
+        "title": "Adapt learning",
+        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/adapt.png"
+        }
+      }
+    ]
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "",
+        "description": "<p dir=\"ltr\">ODEdu eLearning by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+        }
+      },
+      {
+        "title": "Attribution requirements",
+        "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Content usage",
+        "description": "<p dir=\"ltr\">The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Exclusions",
+        "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Non-endorsement",
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "No warranty",
+        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the ODEdu project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
   }
 }
