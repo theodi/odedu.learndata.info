@@ -1,0 +1,362 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/301936c4e7d37e6647647b3c3e5a305f0ae8a56f.jpg"
+    },
+    "_id": "59fb207bb06aac17063207c5",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">To tell a powerful story you need to be able undertake the majority - if not all - of the stages of data storytelling. Success will depend on understanding the time requirement of each stage in the process.</p>",
+    "displayTitle": " The four step process",
+    "title": " The four step process",
+    "_ODILicence": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;The four step process&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57b1b369e396ef981f39ea28\" target=\"_blank\">The four step process</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>"
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain the data storytelling process",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Plan a data storytelling project"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg"
+    },
+    "_id": "59fb207bb06aac17063207c3",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Organising data ready for it to be processed is an essential skills for anyone working with data. In this module we explore how to design and implement a structure for a dataset that can be easily understood by others.</p>",
+    "displayTitle": "Organising data",
+    "title": "Organising data",
+    "_ODILicence": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;Organising data&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57c198b7c8c479d7402de27e\" target=\"_blank\">Organising data</a>&quot;&nbsp;by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>"
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Identify good and bad spreadsheet layouts"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Create good column titles for a spreadsheet"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Use header rows and freeze functions in spreadsheets"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Use different data types in a spreadsheet"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9ecec2d3dd059e44c55ee791655e13410eeeca3e.jpg"
+    },
+    "_id": "59fb21b9b06aac17063211f4",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Schemas&nbsp;play a key role in enabling the wide, automated re-use of data. This module looks at the role of and importance of&nbsp;schemas in assisting reusability and quality of data.</p>",
+    "displayTitle": "Choosing and designing schemas",
+    "title": "Choosing and designing schemas",
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg"
+    },
+    "_id": "59fb207bb06aac17063207ca",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place, you need to be able to identify and remove them from data. This module looks at common errors and useful tools to remove them.</p>",
+    "displayTitle": "Cleaning data",
+    "title": "Cleaning data",
+    "_ODILicence": {
+      "_items": [
+        {
+          "_graphic": {
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png",
+            "alt": ""
+          },
+          "description": "<p>&quot;Cleaning data&quot; by <a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "title": ""
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+          "title": "Attribution requirements"
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "title": "Content usage"
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p dir=\"ltr\">This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "title": "Exclusions"
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "title": "Non-endorsement"
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "title": "No warranty"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;Cleaning data&quot;, adapted from &quot;<a href=\"http://findingstories.learndata.info/#/id/57b3182fe396ef981f39eb0f\">Cleaning data</a>&quot; by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>"
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain how and why data needs to be cleaned"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Recognise a number of errors in data"
+        },
+        {
+          "level": "practitioner",
+          "credits": 10,
+          "outcome": "Clean a dataset"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg"
+    },
+    "_id": "59fb2236b06aac17063217eb",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The format of an open dataset is the way the data is structured and made available for humans and machines.</p><p>Choosing the right format enables simpler management and reuse of the data. To maximise reuse of the data, it may be necessary for a publisher to use a number of formats and structures available across different platforms that suit a user&rsquo;s needs.</p>",
+    "displayTitle": "Data formats and structures",
+    "title": "Data formats and structures",
+    "_ODILicence": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;Choosing the right format for open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module9/\" target=\"_blank\">Choosing the right format for open data</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>"
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "practitioner",
+          "credits": 10,
+          "outcome": "Identify characteristics of different data formats"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "List criteria for choosing the right data format"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6390ca99e74ee881fc1042c7a43913d91caed010.jpg"
+    },
+    "_id": "59fb217eb06aac1706321061",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Open data and open standards are very closely related, both in definition and application. This module examines what open standards are and why they are important for open data.</p>",
+    "displayTitle": "Open data and open standards",
+    "title": "Open data and open standards",
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/cc7d67e7cbd683ea7f97e672a156879ae95b7eba.jpg"
+    },
+    "_id": "59fb217eb06aac1706321063",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Describing and annotating datasets provides an opportunity for data to be better understood across borders and sectors. Adding detail can help with discovery, access, retrieval, organisation and&nbsp;understanding. In this module, we will look at what data annotation is and how it can be applied to different types of data.</p>",
+    "displayTitle": "Annotating and describing data",
+    "title": "Annotating and describing data",
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  }
+]
