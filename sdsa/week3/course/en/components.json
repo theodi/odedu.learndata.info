@@ -1,0 +1,4097 @@
+[
+  {
+    "_id": "59fc9cc9b06aac1706322098",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac170632207b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321c81",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c12",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-three",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321c82",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c12",
+    "_type": "component",
+    "body": "<p>In this module we have seen how simple it can be to analyse data once it is organised in the correct structure.&nbsp;</p><p>If you haven&#39;t already, try applying what you have learnt to the&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" tabindex=\"0\" target=\"_blank\">course spreadsheet</a>.&nbsp;</p><p dir=\"ltr\">At this point there are two possible directions. Further analysis may be required to find a story; this may require further gathering, organising and cleaning. You may even need to employ further advanced statistical techniques such as the ones outlined in the courses and exercises linked below. Alternatively, you might have discovered your story already and be ready to visualise it. The next stage is choosing the most appropriate visualisation for your data.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321c83",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c0a",
+    "_type": "component",
+    "body": "<p>Appealing to the visual cortex helps us communicate strong messages,&nbsp;as they can provoke&nbsp;a reaction even before the rest of the brain has had a chance to process the information.&nbsp;</p><p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p><p dir=\"ltr\">This is essential when presenting a story to decision maker with limited time. Even with limited time, this does not guarantee engagement. There are techniques that can create intrigue, but beware that they can also mislead.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321c90",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c01",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321c91",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c0a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "clipboard color-three",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321c93",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c01",
+    "_type": "component",
+    "body": "<p>Visualisations should always be constructed to represent a true picture of the data. In communicating your message, make sure to avoid misleading your viewers.&nbsp;</p><p>This module looked at the key techniques used and examined how to avoid being deceived.&nbsp;</p><p>Why not test your knowledge further, and examine extra&nbsp;examples at&nbsp;<a href=\"http://viz.wtf/\" target=\"_blank\">viz.wtf</a>?</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cf6",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c44",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cf7",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c44",
+    "_type": "component",
+    "body": "<p>Once your data is organised and clean, you can now begin to filter and analyse the data.</p><p>In this module we will learn how to:</p><ul><li>Sort and filter&nbsp;data in a spreadsheet</li><li>Apply&nbsp;formula to generate simple statistics</li><li>Create a number of pivot tables</li><li>Create a number of summary graphs</li></ul><p>To prepare you for this exercise you will need&nbsp;<a href=\"https://drive.google.com/open?id=0B1VBoooQ3X5jT0RSOVk3SnJuWlU\" target=\"_blank\">this spreadsheet</a>. Note that it has two sheets;&nbsp;the first tab holds the data,&nbsp;and the second tab called &#39;Statistics&#39; will&nbsp;be used when we look at formula.&nbsp;</p>",
+    "displayTitle": "Filtering and pivot tables",
+    "title": "Filtering and pivot tables",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cf8",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c45",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/e8665f7df3eb3bb19b9c8bcba1bacf34892e333f.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/4833f117f2b3d5f33f3f11c1dee9ed94a55acb4b.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cf9",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c45",
+    "_type": "component",
+    "body": "<p>Sorting and filtering data helps you to see trends in the data.&nbsp;</p><p>Before applying any sort or filter operations, make sure&nbsp;that you have frozen the header rows.</p><p>Use the video on the right to help guide you.</p><p>&nbsp;</p>",
+    "displayTitle": "Sorting and filtering data",
+    "title": "Sorting and filtering data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Sorting data",
+        "body": "<p>To sort a column, simply select the column header you want to sort the data by and then select&nbsp;the sort option,&nbsp;normally available from the Data menu or panel in most spreadsheet applications.</p>\n\n<p>You can then choose how you want to sort the data.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Filtering data",
+        "body": "<p>Filters allow you to limit the data that you see.</p>\n\n<p>To apply a filter,&nbsp;select any cell in your header row and click the filter icon. This is normally available from the same place that the sort function is found.</p>\n\n<p>Once selected, you will notice that your header row gains a dropdown option. Selecting or unselecting the data shown in this dropdown&nbsp;will allow you to both sort and filter the values in a row. This will hide the data, but not get rid of it.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cfa",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c46",
+    "_type": "component",
+    "body": "<p>Spreadsheet applications have powerful formula functions to help you analyse the data. Here we are going to look at few of the simple formulas.&nbsp;</p><p>This is where we will use the separate sheet in our spreadsheet for statistics. This means we will avoid&nbsp;including unnecessary tables in with our dataset or limiting the ability to add additional rows. All the formula used means that you can still add data to the original sheet and the statistics will automatically update in the second sheet.&nbsp;</p><p>Again, you can use the video to help guide you.</p>",
+    "displayTitle": "Formula and statistics",
+    "title": "Formula and statistics",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Averages",
+        "body": "<p>Calculating averages is a common operation with any numeric data. But remember, there is more than one type of average!</p>\n\n<p>In the statistics sheet of the spreadsheet, we want to find out the&nbsp;mean and mode star ratings. These can be added by using the&nbsp;<strong>AVERAGE()</strong>&nbsp;and&nbsp;<strong>MODE()</strong>&nbsp;formula on the star rating column.&nbsp;</p>\n\n<p>To calculate the&nbsp;<strong>AVERAGE()</strong>&nbsp;star rating, type the following formula&nbsp;into the correct cell in the statistics sheet and then follow&nbsp;the instruction in italics.&nbsp;</p>\n\n<p><strong>=AVERAGE(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em>)</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Lowest and highest values",
+        "body": "<p>To find out what the lowest and highest star ratings are, you can use the&nbsp;<strong>MIN()</strong>&nbsp;and&nbsp;<strong>MAX()</strong>&nbsp;formula.&nbsp;</p>\n\n<p>e.g.&nbsp;</p>\n\n<p><strong>=MAX(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em><strong>)</strong></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Count the number of items",
+        "body": "<p>The&nbsp;<strong>COUNT()&nbsp;</strong>and&nbsp;<strong>COUNTA()&nbsp;</strong>functions help to count how many items there are&nbsp;in a large sheet.&nbsp;</p>\n\n<p><strong>COUNT()</strong>&nbsp;and&nbsp;<strong>COUNTA()</strong>&nbsp;are two very similar functions. The difference between them is that&nbsp;<strong>COUNT()</strong>&nbsp;only&nbsp;counts&nbsp;cells containing numbers but&nbsp;<strong>COUNTA()</strong>&nbsp;counts&nbsp;all cells that aren&#39;t empty, meaning it will also count cells with text or other characters.</p>\n\n<p>You can obtain the count of star rated facilities using the following formula.&nbsp;</p>\n\n<p><strong>=COUNT(&nbsp;</strong><em>click Star Rating column in data sheet&nbsp;</em><strong>)</strong></p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cfb",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c46",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/da7174fb6b713a99418e20ed9293bd6779ee1c60.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/f4d2e10e93af5fd664243e179da73431dffa24f9.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cfc",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c47",
+    "_type": "component",
+    "body": "<p>A pivot table is a powerful&nbsp;data summary tool found in all spreadsheet tools.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet, displaying the results in a second table.</p><p>Pivot tables also give you the ability to &quot;Pivot&quot; or rotate the data,&nbsp;changing the column and row labels used from the original dataset.&nbsp;</p><p>The example video demonstrates how to create a simple pivot table that gives the total number of health facilities per star rating. Here, the star ratings are used as the row labels and we have one column of data that represents the total count of facilities for each rating.&nbsp;</p><p>Try following this through with your own dataset.&nbsp;</p>",
+    "displayTitle": "Pivot tables",
+    "title": "Pivot tables",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cfd",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c47",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/12f8f77a8589db3875d48bfe8db3e59be30e2982.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/6abc8c7db30233d4ee4ec0dc22125a9fd0219ccd.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cfe",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c48",
+    "_type": "component",
+    "body": "<p>Combining all aspects of this module enables you to create a simple data analysis tool for our spreadsheet of data.</p><p>Follow the steps below to create your own data analysis interface for health care facilities:</p>",
+    "displayTitle": "Data analysis",
+    "title": "Data analysis",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Advanced pivot table",
+        "body": "<p>The first stage is to create a new pivot data from our complete dataset. In this case we are going to look at the star rating of heath care facilities per region.</p>\n\n<p>This time the&nbsp;region&nbsp;will be the&nbsp;row&nbsp;labels. The&nbsp;column&nbsp;headings will represent the&nbsp;star ratings&nbsp;and the values will be the total count of facilities that achieve that&nbsp;star rating.</p>\n\n<p>In order to make filtering and analysing easier, it is recommended that only a&nbsp;total row for column totals be added.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Create a graph",
+        "body": "<p>The next stage is&nbsp;creating&nbsp;a graph of the data in our pivot table.&nbsp;</p>\n\n<p>Simply highlight the data, including row and column titles, and click the charting tool.&nbsp;We want to add a clustered column chart.&nbsp;</p>\n\n<p>Feel free to name and style your chart to look nice. Try to not have the chart on top of&nbsp;the data.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Slice your data",
+        "body": "<p>The last stage involves adding a&nbsp;slicer&nbsp;(or&nbsp;filter) to the pivot table. This tool can be found in the pivot table options (or toolbar).&nbsp;</p>\n\n<p>Add a slicer to your dataset based upon healthcare facility type. This will now allow you to filter the pivot table by type. As the pivot table updates, so will the graph that you made at the previous stage.&nbsp;&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cff",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c48",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/3f625479e5274063900e516b0d2618d0c4d45239.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/42f0fafb85c3e9d3617a5fce8695c56466b78f6f.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d00",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c49",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to filter and pivot data?",
+    "title": "Are you ready to filter and pivot data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d01",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c49",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-seven",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d02",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c4a",
+    "_type": "component",
+    "body": "<p>You have a dataset containing the grades of students attending every school in the country in a single sheet. Your dataset is over 100,000 rows in length.&nbsp;</p><p>If you want to look at only the results from a single school, what should you do?</p>",
+    "displayTitle": "Exploring large datasets",
+    "title": "Q: Exploring large datasets",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and click 'submit'",
+    "_items": [
+      {
+        "text": "Sort the dataset and scroll to find the school",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Change the way that the data is collected such that the data about each school is in a separate sheet",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Use a filter to show only the data for that sheet",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Manually create a new sheet with the data in",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>With all the data in one sheet, you can use filters to quickly look at any custom selection of the data. While it might seem&nbsp;logical to split data of this size into several sheets, the instant ability to analyse all the data is lost.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>With all the data in one sheet, you can use filters to quickly look at any custom selection of the data. While it might seem&nbsp;logical to split data of this size into several sheets, the instant ability to analyse all the data is lost.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d03",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c4a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "small": "course/en/assets/95916dd3fa40e71f215e130084d9adc240cf363b.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ellasdad/425813314\" target=\"_blank\">Ella's Dad</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d04",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c4b",
+    "_type": "component",
+    "body": "<p>In your spreadsheet of school marks you want to find the highest mark achieved by any student.&nbsp;</p><p>Which formula do you require?</p>",
+    "displayTitle": "Fast formula",
+    "title": "Q: Fast formula",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer and then click 'submit'",
+    "_items": [
+      {
+        "text": "=AVERAGE()",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "=HIGHEST()",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "=MAX()",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>To quickly find the highest mark you need the =MAX() formula.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>To quickly find the highest mark you need the =MAX() formula.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d05",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c4b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
+      "small": "course/en/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d06",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c4c",
+    "_type": "component",
+    "body": "<p>Which spreadsheet tool is essential for generating powerful summary statistics of a raw dataset?&nbsp;</p><p>The same tool can also rotate the data to reveal new patterns in the data.&nbsp;</p>",
+    "displayTitle": "Data analysis",
+    "title": "Q: Data analysis",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one option and click 'submit'",
+    "_items": [
+      {
+        "text": "Formulas",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Pivot tables",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Charts and graphs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Pivot tables are&nbsp;a powerful&nbsp;data summary.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet. The results are&nbsp;displayed&nbsp;in a second table.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Pivot tables are&nbsp;a powerful&nbsp;data summary.&nbsp;Among other functions, a pivot table can automatically sort, count, total or give the average of the data stored in one table or spreadsheet. The results are&nbsp;displayed&nbsp;in a second table.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d07",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c4c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1497c2f21a066474c61b08652c841ee6768bfea3.jpg",
+      "small": "course/en/assets/1497c2f21a066474c61b08652c841ee6768bfea3.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/colorful-cubes-four-levels-abstract-background-200818673?src=lb-36497927\" target=\"_blank\">April Cat</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d16",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c55",
+    "_type": "component",
+    "body": "<p>Using a technique called &#39;pop out&#39;&nbsp;helps direct the eye to the correct place. The dorsal stream reacts quickly to patterns and&nbsp;significant differences presented visually.</p><p>Pop-out works best when a combination of different visual cues are used in combination, e.g. colour, size and line thickness.</p><p>In the picture here, a combination of&nbsp;colour and thickness guides the eye towards the steepest line. This line represents the first high-speed train from Paris to Lyon. The steepness of the line is the speed.</p>",
+    "displayTitle": "Making information pop",
+    "title": "Making information pop",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d17",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c55",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7368ae8933843b3e227c04c8023a3367fc5b8bf2.jpg",
+      "small": "course/en/assets/7368ae8933843b3e227c04c8023a3367fc5b8bf2.jpg",
+      "attribution": "<a href=\"https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003zP\" target=\"_blank\">Tufte</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d18",
+    "_layout": "full",
+    "_parentId": "59fc9c3fb06aac1706321c56",
+    "_type": "component",
+    "body": "<p>Careful use of colour is essential and can&nbsp;help not only with &#39;pop out&#39;, but also conveying meaning.</p>",
+    "displayTitle": "Using colour",
+    "title": "Using colour",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to find out how.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Colour has meaning",
+        "body": "<p>As well as making information &#39;pop out&#39;, colour can also convey&nbsp;meaning.</p><p>For example: red, amber and green represent danger, caution, and safety. As&nbsp;shown in traffic lights.&nbsp;</p><p>However, not all colours convey easily recognisable meaning, and too much use of colour can be confusing.&nbsp;In this way, try to keep the number of colours used to a minimum.&nbsp;</p><p>A good demonstration of when to stop using too much colour can be found on <a href=\"https://medium.com/@jakeybob/brexit-maps-d70caab7315e#.9rcl0v6a2\">this blog </a>about Brexit.</p>",
+        "_graphic": {
+          "src": "course/en/assets/38eacb3640bcb9352d696d144a38ad111db88f5c.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.quora.com/How-do-I-survive-a-plane-crash\" target=\"_blank\">popular mechanics </a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Colour has meaning"
+      },
+      {
+        "title": "One colour",
+        "body": "<p>The human eye is much more sensitive to changes in a single colour rather than having to process&nbsp;multiple colours.</p><p>Grey scales (using different shades of the same colour)&nbsp;are useful to convey change, as the human eye has far more rods (low light receptors for grey&nbsp;scale) than cones (which handle different ranges of colour each).&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/c81f325ec319036d82a74877c300839a4b5fff92.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"theodi.org\" target=\"_blank\">Dave Tarrant</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "One colour"
+      },
+      {
+        "title": "Picking the right colour",
+        "body": "<p>If you can&#39;t use a grey scale, then it is worth carefully considering the colours to use. Special care should be taken with colours that are too intense.&nbsp;</p><p>Intense colours are those that combine colours which have&nbsp;long wavelengths, stimulating a lot of cones in the eye simultaneously.&nbsp;</p><p>The most intense colour to the eye is yellow, as it combines the red and green receptor cones.&nbsp;</p><p>As yellow can be glaring and hard on the eye, try using more neutral tones such as blue and purple, which are both used prevalently in design.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/830a363e47beb192ee84e879a30985e533ae8b6a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"URL: http://www.instant-analysis.com/Principles/intensity.gif\" target=\"_blank\">Instant-Analysis</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Picking the right colour"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d19",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c57",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d1a",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c57",
+    "_type": "component",
+    "body": "<p>Visualising data&nbsp;enables us to&nbsp;grasp difficult concepts or identify new patterns quickly.</p><p>In this module, we introduce the key tricks that help the eye and brain process&nbsp;and understand data much faster.&nbsp;</p><p>We will cover:</p><ul><li>Visualisation and the visual cortex</li><li>Making information pop</li><li>Using color</li></ul>",
+    "displayTitle": "Visualisation best practice",
+    "title": "Visualisation best practice",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d1b",
+    "_layout": "full",
+    "_parentId": "59fc9c3fb06aac1706321c58",
+    "_type": "component",
+    "body": "<p>The human brain has been specifically designed to help us instantly process and react to what we see. Understanding how the visual cortex works is essential when creating powerful visualisations of data.</p>",
+    "displayTitle": "Visualisation and the visual cortex",
+    "title": "Visualisation and the visual cortex",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to find out how.",
+    "mobileInstruction": "Click the forward arrow to find out how.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The human eye",
+        "body": "<p>The human eye, along with the visual cortex, is capable of processing trillions of points of information simultaneously.</p><p>The human eye is very sensitive to detail. It can instantly re-focus on objects at different distances. It can also instantly change the amount of light that enters the eye in order to deal with high and low light&nbsp;levels.&nbsp;&nbsp;</p><p>Technologies such as <a href=\"https://en.wikipedia.org/wiki/Light-field_camera\">Light Field</a> cameras and <a href=\"https://en.wikipedia.org/wiki/High-dynamic-range_imaging\">High Dynamic Range</a>&nbsp;which have the ability to capture a level of detail similar to the eye are beginning to emerge, but have taken thousands of years longer than the eye.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f3eeff7b4f58fb6bbfd7172e16a925f54de5c763.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/7180688@N06/517565400/in/photostream/\" target=\"_blank\">Ahmed</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "The human eye"
+      },
+      {
+        "title": "The visual cortex",
+        "body": "<p>After light has entered the eye, the information carried with it is passed to the visual cortex for processing. This information is then split by the occipital lobe&nbsp;to be processed in parallel by the dorsal and ventral streams.&nbsp;</p><p>These two pathways have very different jobs, and understanding each is the key to effective data visualisation.&nbsp;</p><p><strong>Dorsal Stream:&nbsp;</strong>The where/how path<br /><strong>Ventral Stream:&nbsp;</strong>The what pathway</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/1949700df360ddc39b5615e5a066c8e8a1033bef.jpg",
+          "alt": "",
+          "attribution": "<a href=\" https://en.wikipedia.org/wiki/Two-streams_hypothesis\" target=\"_blank\">Wikipedia</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "The visual cortex"
+      },
+      {
+        "title": "Fast path visualisation",
+        "body": "<p>The dorsal stream is the pathway in the visual cortex. It is responsible for recognising where things are and how they are going to affect you.</p><p>For example, if someone throws something at you unexpectedly, it&#39;s the dorsal stream that will react to&nbsp;help defend you.&nbsp;You act without thinking.</p><p>We can use the same trick in data visualisation to make information pop without needed to rely on the ventral stream to work out what that information is first.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/098046310f1d2ad9e371db2a1abae89342b755a2.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Designed by Eightonesix</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "3D illusion"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d1c",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c59",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d1d",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c59",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to put theory into practice?",
+    "title": "Are you ready to put theory into practice?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d1e",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c5a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "instruction": "",
+    "_source": "https://davetaz.github.io/hiddenObjectGame/game2.html",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 430,
+      "_medium": 430,
+      "_large": 430
+    },
+    "_height": {
+      "_small": 460,
+      "_medium": 460,
+      "_large": 460
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d1f",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c5a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "responsiveIframe",
+    "instruction": "",
+    "_source": "https://davetaz.github.io/hiddenObjectGame/game1.html",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 430,
+      "_medium": 430,
+      "_large": 430
+    },
+    "_height": {
+      "_small": 460,
+      "_medium": 460,
+      "_large": 460
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d20",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c5b",
+    "_type": "component",
+    "body": "<p>What property of a visual image does the eye and brain process quickest?</p>",
+    "displayTitle": "Which is the fastest feature of the eye?",
+    "title": "Q: Which is the fastest feature of the eye?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "'What' things are",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "'Where' things are",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "'Why' things are there",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The dorsal stream recognises <strong>where</strong> things are very quickly. It helps us avoid obstacles when walking and running.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The dorsal stream recognises <strong>where</strong> things are very quickly. It helps us avoid obstacles when walking and running.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d21",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c5b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f3eeff7b4f58fb6bbfd7172e16a925f54de5c763.jpg",
+      "small": "course/en/assets/f3eeff7b4f58fb6bbfd7172e16a925f54de5c763.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/7180688@N06/517565400/in/photostream/\" target=\"_blank\">Ahmed</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d22",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c5c",
+    "_type": "component",
+    "body": "<p>Which&nbsp;visual features can you use to make information &#39;pop&#39;</p>",
+    "displayTitle": "Making information pop ",
+    "title": "Q: Making information pop ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Colour",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Texture",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Position",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Size",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>You can use colour, texture, position and size to make information pop.&nbsp;It is best, however, &nbsp;to use a combination of features. For example a thick red line, not just a red line.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>You can use colour, texture, position and size to make information pop.&nbsp;It is best, however, &nbsp;to use a combination of features. For example a thick red line, not just a red line.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d23",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c5c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/33d031e8e0dd609b862126d7230be817cd4b04ec.jpeg",
+      "small": "course/en/assets/33d031e8e0dd609b862126d7230be817cd4b04ec.jpeg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">Dave Tarrant</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d24",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c5d",
+    "_type": "component",
+    "body": "<p>When visualising data, which colour should be used to maximise the visibility of detail?</p>",
+    "displayTitle": "Using colour",
+    "title": "Q: Using colour",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Shades of yellow",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Shades of blue",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Shades of grey",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The eye is far more sensitive to low light, thus many more shades of grey can be seen that any other colour.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The eye is far more sensitive to low light, thus many more shades of grey can be seen that any other colour.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d25",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c5d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fa1fdff39dd90489ddeac2b8ea7dcb6319d444e6.jpeg",
+      "small": "course/en/assets/fa1fdff39dd90489ddeac2b8ea7dcb6319d444e6.jpeg",
+      "attribution": "<a href=\"theodi.org\" target=\"_blank\">Dave Tarrant </a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d26",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c5e",
+    "_type": "component",
+    "body": "<p>Not starting at zero causes what is known as &#39;baseline failure&#39;.</p><p>When looking at a bar chart, the human brain looks instantly at the size of the bar, not the value it represents.&nbsp;Therefore, to make a value difference&nbsp;appear larger than it is, the scale won&#39;t start at zero.&nbsp;</p><p>This is a very common trick used to emphasise a difference that would appear small otherwise.&nbsp;</p>",
+    "displayTitle": "Baseline failure",
+    "title": "Baseline failure",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d27",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c5e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/db9331e718cd2b758ef3a27ecb650cd34ef7fd33.jpg",
+      "small": "course/en/assets/db9331e718cd2b758ef3a27ecb650cd34ef7fd33.jpg",
+      "attribution": "<a href=\"http://www.foxnews.com/\" target=\"_blank\">Fox News </a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d28",
+    "_layout": "full",
+    "_parentId": "59fc9c3fb06aac1706321c5f",
+    "_type": "component",
+    "body": "<p>The first thing that the brain notices when looking at a visualisation is the size of different parts.&nbsp;</p>",
+    "displayTitle": "Adding depth and area",
+    "title": "Adding depth and area",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "Select the ‘+’ sign to explore further, then swipe the image to see more.",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Adding depth",
+        "body": "<p>Adding 3D effects increases the area of a graph. To the human brain the perceived size is now larger with the additional volume.&nbsp;</p><p>Providing that the volume is equal in all cases then this is fine (e.g. the volume of an area with value 4&nbsp;is&nbsp;exactly&nbsp;twice the volume of an area with value 2).&nbsp;</p><p>However, if the volumes are not proportional, or as is the case here&nbsp;potentially infinite, then it can be difficult to grasp real values.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/becc93fb17de6ed165b9891abe6fb851775ac273.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.edwardtufte.com/tufte/\" target=\"_blank\">Edward Tufte</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "New York state expenditure"
+      },
+      {
+        "title": "Removing depth",
+        "body": "<p>Removing the 3D infinite depth shows a different view of the data.&nbsp;</p><p>With the depth removed, previously large changes are no longer present in the data.&nbsp;</p><p>Interestingly, this data also suffers from the fact that the figures have not been adjusted for inflation. Adjusting the figures shows that state expenditure had not changed in real terms for the previous seven&nbsp;years.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/758439c9a2b0edc0fbb19e6ed6c66ad1ccd8497d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.edwardtufte.com/tufte/\" target=\"_blank\">Edward Tufte</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "New York state expenditure (simplified)"
+      },
+      {
+        "title": "Radius and area",
+        "body": "<p>Using raw values as the radius of a circle&nbsp;is another big mistake.&nbsp;</p><p>The easy way to spot this mistake is to attempt to fit a smaller circle inside a bigger circle. For example, a circle representing the value &#39;1&#39; should fit in another circle representing the value &#39;3&#39;&nbsp;exactly three times.&nbsp;</p><p>As can be seen in the example here, this is not the case. Smaller differences seem bigger, due to the incorrect scaling of the circles. &nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/7c422cfc6ad4640bd456aac607a7d776296f5302.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.slideshare.net/ICScreative/fast-cheapgreat-icscreative\" target=\"_blank\">Slideshare</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Radius and area failure"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d29",
+    "_layout": "full",
+    "_parentId": "59fc9c3fb06aac1706321c60",
+    "_type": "component",
+    "body": "<p>Perhaps one of the most confusing charts ever created. Introducing&nbsp;area, stacked area and the stream graph.</p>",
+    "displayTitle": "Area and stacked area charts",
+    "title": "Area and stacked area charts",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Area charts",
+        "body": "<p>Area charts are great for showing a single value that may consist of many parts. However if being used to compare two or more sets of values they should be avoided.&nbsp;</p><p>Why?&nbsp;</p><p>Because when the human brain looks at an area chart it sees mountains. Which means that one set of values is behind the other.&nbsp;</p><p>This is correct for an area graph, so why should you not use them? Click to the next section to find out...&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/62186a87264ebc59ab4c6bc73c6e88a07a62e343.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.cs.ox.ac.uk/people/max.vankleek/\" target=\"_blank\">Max Van Kleek</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Area chart"
+      },
+      {
+        "title": "Stacked area charts",
+        "body": "<p>The stacked area chart looks exactly the same as an area chart. However the two sets of values are now on top of each other not behind one another.</p><p>How do you tell?</p><p>There is no way for sure to tell what you are looking at unless it is stated.&nbsp;</p><p>Take a look at both examples here as they use exactly the same set of source data. Can you tell the difference?</p>",
+        "_graphic": {
+          "src": "course/en/assets/b364223b22fc06d77b12f50f39bd4da961d73030.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.cs.ox.ac.uk/people/max.vankleek/\" target=\"_blank\">Max Van Kleek</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Stacked area chart"
+      },
+      {
+        "title": "Stream graphs",
+        "body": "<p>Going one step further&nbsp;and introducing the stream graph.</p><p>Is this stacked or an area chart?&nbsp;</p><p>Where is the zero value on the y-axis?</p><p>Is the order of items significant?</p><p>Abandon all hope!&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/b1426dd8e5e24ae387c8d59ab5169aad6edb9001.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://techcrunch.com/\" target=\"_blank\">Techcrunch</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Stream graph"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d2a",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c61",
+    "_type": "component",
+    "body": "<p>Another common method used to emphasise a difference or correlation is to use multiple scales.&nbsp;</p><p>Typically, this involves having different scales on each side of the chart that each relate to different plots of data.&nbsp;</p><p>The example shown here from the Colorado Department of Transport uses two scales to try and emphasise how different fatal accidents are in 2016 compared to previous years.&nbsp;</p><p>Things to note:</p><ul><li>The scale on the right does not start at zero (baseline failure)</li><li>The intervals on the two scales are different</li><li>The coloured bars for other years are not always for the same years (i.e.&nbsp;green is not always&nbsp;2010)</li></ul>",
+    "displayTitle": "Multiple scales",
+    "title": "Multiple scales",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d2b",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c61",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/99da2f20fc6d50aa064a09aeb8c2fffd51651480.png",
+      "small": "course/en/assets/99da2f20fc6d50aa064a09aeb8c2fffd51651480.png",
+      "attribution": "<a href=\"http://www.medicaldaily.com/did-marijuana-legalization-lower-car-accident-deaths-colorado-state-sees-historic-lows-296886\" target=\"_blank\">Historical Fatal Car Crashes, Colorado Department of Transportation, Colorado Department of Transportation</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d2c",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c62",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d3f89a6758812def9582f6977de3872488742d4c.png",
+      "small": "course/en/assets/d3f89a6758812def9582f6977de3872488742d4c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d2d",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c62",
+    "_type": "component",
+    "body": "<p>As well as issues with area, pie charts can also be misleading when&nbsp;plotting percentages.&nbsp;</p><p>A close&nbsp;look at this pie chart shows that the values only add up to 62%. So what happened to the other 38% of safety concerns?</p><p>It is also worth observing that the size of the 19% quadrant is also far larger than a 25% quadrant should&nbsp;be.</p>",
+    "displayTitle": " Percentages",
+    "title": " Percentages",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d2e",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c63",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d2f",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c63",
+    "_type": "component",
+    "body": "<p>Visual representations of data vastly&nbsp;decrease the amount of time it takes to communicate a message. However, not all data visualisations are&nbsp;equal. In some cases, a combination of tricks are used to either emphasise a&nbsp;point or, in some cases, mislead the viewer.&nbsp;In this module we look at visual deception in data visualisation and how to avoid it.</p><p>In this module we&#39;ll explore the following:&nbsp;</p><ul><li>Baseline failure</li><li>Multiple&nbsp;scales</li><li>Adding depth and area</li><li>Percentages</li><li>Area and stacked area charts</li></ul>",
+    "displayTitle": "Visual deception",
+    "title": "Visual deception",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d30",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c64",
+    "_type": "component",
+    "body": "<p>Try our quiz to see if you can avoid being deceived by data visualisation!&nbsp;</p>",
+    "displayTitle": "Can you avoid being deceived?",
+    "title": "Can you avoid being deceived?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d31",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c64",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d32",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c65",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "small": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "attribution": "<a href=\"http://theodi.org\" target=\"_blank\">Max Van Kleek</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d33",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c65",
+    "_type": "component",
+    "body": "<p>In what way&nbsp;does the visualisation here attempt to mislead the viewer?</p>",
+    "displayTitle": "Identify the deception",
+    "title": "Q: Identify the deception",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Baseline failure",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Radius/area failure",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Baseline AND radius/are failure",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>This visualisation&#39;s scale starts at 6.3, thus it suffers from baseline failure. Furthermore,&nbsp;the areas of the triangles are not proportional to each other and are actually out by a distortion factor of 5!</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>This visualisation&#39;s scale starts at 6.3, thus it suffers from baseline failure. Furthermore,&nbsp;the areas of the triangles are not proportional to each other and are actually out by a distortion factor of 5!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d34",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c66",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png",
+      "small": "course/en/assets/4c2ff782b7863fb71b0c8cfb32e6d865d5d676bc.png",
+      "attribution": "<a href=\" https://www.cs.ox.ac.uk/people/max.vankleek/\" target=\"_blank\">Max Van Kleek</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d35",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c66",
+    "_type": "component",
+    "body": "<p>Is the chart shown here an area or stacked area chart?</p>",
+    "displayTitle": "What type of chart?",
+    "title": "Q: What type of chart?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Area",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Stacked area",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No way to tell",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Without additional information, it is impossible to tell which type of chart this is.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Without additional information, it is impossible to tell which type of chart this is.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d36",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c67",
+    "_type": "component",
+    "body": "<p>In what way&nbsp;does the visualisation here attempt to mislead the viewer?</p>",
+    "displayTitle": "Identify the deception",
+    "title": "Q: Identify the deception",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Doesn't add up to 100%",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Incorrectly labelled",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Radius/area failure",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The values add up to 100%, however the labels for the two largest values have been swapped over.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The values add up to 100%, however the labels for the two largest values have been swapped over.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321d37",
+    "_layout": "left",
+    "_parentId": "59fc9c3fb06aac1706321c67",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "small": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "attribution": "<a href=\"http://viz.wtf/post/143590868627/unhealthy-data\" target=\"_blank\">WTF Visualizations</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632207d",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322068",
+    "_type": "component",
+    "body": "<p>You may find something interesting in the data when you are cleaning, analysing and interrogating your dataset. If this finding is significant, the next stage will be to communicate this to others. Data visualisations help communicate insight found in data in a quick and easy way.</p><p>This module explores:</p><ul><li>Introduction to data visualisation</li><li>Why visualise data?</li><li>Data visualisations and their use</li><li dir=\"ltr\">Appropriate visualisation for data</li></ul>",
+    "displayTitle": "Data visualisation techniques",
+    "title": "Data visualisation techniques",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac170632207e",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322069",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance them; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;By the end of the module, you&#39;ll have a good understanding of the issues around digital mapping, and&nbsp;skills&nbsp;that can be used in your own work.</p><p>The module explores:</p><ul><li>Introduction to digital maps</li><li>Benefits of open mapping</li><li>How to describe something on a map</li><li>Formats and standards</li><li>Practical mapping with CartoDB</li></ul>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac170632207f",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac170632206a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322080",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac170632206b",
+    "_type": "component",
+    "body": "<p>Ramani Huria is an excellent case study in the benefits open mapping can have. The key to the success and multiplied benefits from the project all stem from the completely open approach taken.</p><p>From the choice of mapping platform to the community engagement and crowd sourcing, the project ensured that&nbsp;all data remained open and that the process of collecting it was open.&nbsp;</p><p>OpenStreetMap is a free, editable map of the world that is being built by volunteers largely from scratch and released with an open content license. This is a significantly different model to most mapping providers who guard their maps and charge for access and do not allow any edits. In countries such as Tanzania, OpenStreetMap allows&nbsp;incredibly rich maps to be created, which open up the data, so others can innovate.&nbsp;</p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322081",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac170632206b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "small": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">Open Street Map</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322082",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322070",
+    "_type": "component",
+    "body": "<p>Data visualisations can be a powerful&nbsp;way of bringing data to life, and helping others&nbsp;deduce meaning from it. But before you start visualising your data, you should consider some key aspects.</p>",
+    "displayTitle": "Appropriate visualisations for data",
+    "title": "Appropriate visualisations for data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Audience",
+        "body": "<p>Before creating a visualisation,&nbsp;you need to decide&nbsp;how you want to share it&nbsp;and who you want your audience to be.</p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p><p>You should also think about the medium for consumption and technology available and understandable by your audience. For example, it would not be wise to create a full-screen dashboard for those who only have access to mobile devices.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Purpose",
+        "body": "<p>Once you know your audience, consider the purpose to your data visualisation; why are you visualising the data?&nbsp;</p><p>Remember the four key reasons we introduced earlier:</p><ul><li>Clear communication</li><li>Storytelling</li><li>Aiding understanding</li><li>Encouraging interaction with the data</li></ul><p>Some visualisations can serve multiple purposes, however, you should try to avoid mixing clear communication with any other purpose (e.g. aiding understanding). This might dilute the message you are trying to communicate to the point where it is no longer obvious to the audience. Often this happens when the user is presented with too many visualisations or infographics together.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data",
+        "body": "<p>Not all data is suitable&nbsp;for a particular visualisation.&nbsp;</p><p>For example, a line or area chart should never be used for data that is not sampled over time.&nbsp;</p><p>Consider carefully your dataset type and how the data was collected. There are a number of typical types of data:</p><p><strong>Time series</strong>: Observations of the same thing over time &ndash; best represented on a line chart or animated graphic.</p><p><strong>Population data</strong>: Observations of different things at a single point in time &ndash; best represented by a bar chart, pie chart or&nbsp;other static visualisations.&nbsp;</p><p><strong>Observations</strong>: Observations of different things at different points in time &ndash; best represented on a dashboard.</p><p>Confusion can occur when a dataset combines one or more of these types of data and you must decide how to use that dataset.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322083",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322070",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322084",
+    "_layout": "full",
+    "_parentId": "59fc9cc9b06aac170632206d",
+    "_type": "component",
+    "body": "<p>There are many parts to a map and&nbsp;cartography can become an art. This section briefly looks at the many layers of a map.</p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Points",
+        "body": "<p>Points help you precisely locate something on a map, for example, a person or a place.&nbsp;</p><p>Often these are used to mark the middle of an object that might often be better represented by another map feature, such as a line or polygon.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Points"
+      },
+      {
+        "title": "Lines",
+        "body": "<p>Lines represent the shape and location of geographic objects, such as street centre&nbsp;lines, rivers or ferry routes.</p><p>Lines are also used to represent features that have length but no area, such as contour lines and boundaries.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/cc0743d56044f6e585a51f71e14e270e49ecf74e.png",
+          "alt": "",
+          "attribution": "<a href=\"http://ansoncfit.com\" target=\"_blank\">http://ansoncfit.com</a> <span class='assetLicence'>[CC-BY-NC-SA]</span>"
+        },
+        "strapline": "Lines"
+      },
+      {
+        "title": "Polygons",
+        "body": "<p>Polygons are complete shapes that represent a feature such as regions (as shown here) or buildings.</p><p>They can also be used to represent land-use or even soil type.&nbsp;</p><p>Using GIS software, you can automatically calculate which points are in which polygon. This is often used to shade areas on a map dependant on the data collected from many points, e.g. the performance of schools in a region.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+          "alt": "",
+          "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Polygons"
+      },
+      {
+        "title": "Bringing it all together",
+        "body": "<p>Bringing all these features together allows us to create powerful maps that accurately show the layout and features of a huge area.</p><p>The example here of the centre of Dar Es Salaam is one of the most comprehensive examples in the world. This data was gathered as part of the&nbsp;Ramani Huria project and shows roads (lines), buildings (polygons), building use (points) and annotations that describe each point.</p>",
+        "_graphic": {
+          "src": "course/en/assets/168853c0a47147e13d2dc80a40342372a4a63874.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.openstreetmap.org/#map=19/-6.80164/39.25077\" target=\"_blank\">Open Street Map contributors</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Bringing it all together"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322085",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322071",
+    "_type": "component",
+    "body": "<p>There are a number of different data formats and standards used to represent mapping data. It is important to understand that all of the different data formats rely on one or more standard ways of representing a simple location (or point). Putting many points together enables&nbsp;lines and polygons to be drawn. &nbsp;</p><p>Explore the different aspects below:</p>",
+    "displayTitle": "Formats and standards",
+    "title": "Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "A standard way to represent a location",
+        "body": "<p>The globally recognised way to represent a location of something is via the Global Positioning System&nbsp;(GPS). Devices that use this system typically give location in terms of two X-Y co-ordinates on a map.&nbsp;</p><p>There are however many different X-Y standards including longitude/latitude and easting/northing.&nbsp;</p><p>You will have to be very careful when processing and combining&nbsp;mapping data to ensure that all data is using the same co-ordinates system.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Common data formats",
+        "body": "<p>Representing simple point data (using one X-Y co-ordinate) can be done in a multitude of formats, including&nbsp;spreadsheets.&nbsp;</p><p>However, when it comes to more complex data, such as lines and polygons, there are many other formats more suited to the purpose including <a href=\"https://en.wikipedia.org/wiki/Keyhole_Markup_Language\" target=\"_blank\">KML</a>, <a href=\"https://en.wikipedia.org/wiki/GeoJSON\" target=\"_blank\">GeoJSON</a> and <a href=\"https://en.wikipedia.org/wiki/Shapefile\" target=\"_blank\">GIS Shapefiles</a> (as used by the National Bureau of Statistics in Tanzania).&nbsp;</p><p>As with data formats, not all geographic data formats are open and easily usable by all tools. It may be necessary to use a tool such as <a href=\"http://www.mapsdata.co.uk/online-file-converter/\" target=\"_blank\">maps data</a>&nbsp;to convert between the different formats.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322086",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322071",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "small": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322087",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322072",
+    "_type": "component",
+    "body": "<p><a href=\"http://cartodb.com/\" target=\"_blank\">CartoDB</a>&nbsp;is a very popular online tool for creating geographic visualisations on maps. It has simple wizards to help you get started but also allows you to expose the code and customise your GIS queries to take complete control. CartoDB can also merge and boundary-locate geographic data without you having to write complex GIS queries yourself.</p><p>Several exercises have been developed to help you explore the features of CartoDB</p>",
+    "displayTitle": "Practical mapping with CartoDB",
+    "title": "Practical mapping with CartoDB",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore the exercises below",
+    "_items": [
+      {
+        "title": "Population and education in Tanzania",
+        "body": "<p>This exercise focuses on plotting population statistics for the different districts in Tanzania. This is then combined with the educational attainment of each district.</p><p>You will need the following datasets for this exercise:</p><p><strong>Tanzania district boundaries</strong></p><p>Official boundary files for Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_regions.kml\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbstz/index.php/english/statistics-by-subject/population-and-housing-census/258-2012-phc-shapefiles-level-one-and-two\" target=\"_blank\">View source</a></p><p><strong>Tanzania population data</strong></p><p>Official statistics on Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_population.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbs/takwimu/references/Tanzania_in_Figures_2015.pdf\" target=\"_blank\">View source</a></p><p><strong>Tanzania education data</strong></p><p>Performance of schools with 40 or more pupils across Tanzania</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/BRN2015_RANKING_40_AND_MORE-PIVOT.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.necta.go.tz/brn2015/\" target=\"_blank\">View source</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzania.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Water points in Tanzania",
+        "body": "<p>This exercise focuses on plotting simple point-based data on a map. It focusses on combining many aspects to indicate the type of water supply and the quality of the water.</p><p>You will need the following datasets for this exercise:</p><p><strong>Water points in Tanzania (July 2015)</strong></p><p>Open data from the Tanzania Open Data portal.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/allwaterpointsjuly2015-cleaned.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://opendata.go.tz/dataset/water-dashboard/resource/58edfa63-b329-45b5-b17f-27603420cd10\" target=\"_blank\">View source</a></p><p><strong>Icon set for map</strong></p><p>A small icon set to use with the map.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/map_icons.zip\" target=\"_blank\">Download</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzaniawateredition.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322088",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322072",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "small": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "attribution": "<a href=\"http://opendata.go.tz/en/indicator/2cb7fed8-4af4-11e5-a53c-0e9d821ea90d\" target=\"_blank\">Tanzania government open data portal</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322089",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322073",
+    "_type": "component",
+    "body": "<p><strong>What is one reason why we visualise data?</strong></p>",
+    "displayTitle": "Why visualise data?",
+    "title": "Q: Why visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "To tell an engaging story",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To impress your audience",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To fundraise",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A good data visualisation can help&nbsp;to tell an engaging story. This can be a very effective way to entertain and directly educate users.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A good data visualisation can help&nbsp;to tell an engaging story. This can be a very effective way to entertain and directly educate users.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632208a",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322073",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+      "small": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632208b",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322074",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to visualise data?",
+    "title": "Are you ready to visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac170632208c",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322075",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "small": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "attribution": "<a href=\"http://www.usablestats.com/lessons/normal\" target=\"_blank\">Usable stats</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632208d",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322075",
+    "_type": "component",
+    "body": "<p><strong>Which of the following charts best shows the distribution of a dataset?</strong></p>",
+    "displayTitle": "Which chart shows the distribution of data?",
+    "title": "Q: Which chart shows the distribution of data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Pie chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Histogram",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Line chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632208e",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322076",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " Are you ready to map open data?",
+    "title": " Are you ready to map open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac170632208f",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322076",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322090",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322077",
+    "_type": "component",
+    "body": "<p><strong>What is the benefit of mapping data openly?</strong></p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Q: Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Only your organisation gets the value from the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Anyone can innovate with your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Google maps will benefit from your data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322091",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322077",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "small": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">Open Street Map</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322092",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322078",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "small": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322093",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322078",
+    "_type": "component",
+    "body": "<p><strong>What kind of data would you represent with polygons?</strong></p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "Q: How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Complete shapes, such as regions or buildings",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Street centres, rivers or ferry routes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Exact coordinates of places of interest",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322094",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322079",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "small": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322095",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322079",
+    "_type": "component",
+    "body": "<p><strong>When mapping location data, you should be aware that...</strong></p>",
+    "displayTitle": "Formats and standards",
+    "title": "Q: Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "there are many different standards for describing location",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "you can ensure maximum media coverage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "all mapping data is standardised and ready to use",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map&nbsp;but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map, but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322096",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac170632207a",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance maps; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;</p><p>In this module, we have explored the benefits of open mapping,&nbsp;how to describe something on a map and common formats and structures.</p>",
+    "displayTitle": "Mapping open data",
+    "title": "Summary: Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322097",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac170632207a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322099",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac170632207b",
+    "_type": "component",
+    "body": "<p><strong>Why do you need to consider your audience before you start creating your visualisation?</strong></p>",
+    "displayTitle": "Before you start",
+    "title": "Q: Before you start",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Your audience may have a set way of engaging with your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "You shouldn't, your audience is irrelevant",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your audience is your biggest critic",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632209a",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac170632207c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632209b",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322067",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "small": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "attribution": "<a href=\"URL: https://en.wikipedia.org/wiki/William_Playfair#/media/File:Playfair_TimeSeries-2.png\" target=\"_blank\">William Playfair</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632209c",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac170632207c",
+    "_type": "component",
+    "body": "<p>You may find something interesting&nbsp;when you are cleaning, analysing and interrogating your dataset. If this is significant, the next stage will be to communicate it to others. Data visualisations help to communicate insight found in data in a quick and easy way.</p><p>Creating effective visualisations is not as easy as it looks. The best examples take expertise and time to carefully create.</p><p>The transport research board in the US have produced an excellent report on <a href=\"https://www.nap.edu/catalog/24755/data-visualization-methods-for-transportation-agencies\" target=\"_blank\">data visualisation methods</a> which explores more of the areas outlined in this module.</p>",
+    "displayTitle": "Data visualisation techniques",
+    "title": "Summary: Data visualisation techniques",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac170632209d",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322074",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632209e",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322069",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "small": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "attribution": "<a href=\"http://dlab.or.tz\" target=\"_blank\">Tanzania dLab</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac170632209f",
+    "_layout": "right",
+    "_parentId": "59fc9cc9b06aac1706322068",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "small": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "attribution": "<a href=\"http://dlab.or.tz\" target=\"_blank\">Tanzania dLab</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59fc9cc9b06aac17063220a0",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac1706322067",
+    "_type": "component",
+    "body": "<p>Most&nbsp;charts used in modern data visualisation&nbsp;derive from the original design of&nbsp;<a href=\"http://en.wikipedia.org/wiki/William_Playfair\" rel=\"wikipedia\" title=\"William Playfair\">William Playfair</a>&nbsp;(1759&ndash;1823), a political economist.</p><p>William Playfair invented several types of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Information_graphics\" title=\"Information graphics\">diagram</a>: in 1786 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Line_chart\" title=\"Line chart\">line</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Area_chart\" title=\"Area chart\">area</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Bar_chart\" title=\"Bar chart\">bar chart</a>&nbsp;of economic data, and in 1801 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pie_chart\" title=\"Pie chart\">pie chart</a>&nbsp;and circle graph.&nbsp;</p><p>Playfair&nbsp;argued that charts communicated better than tables of data and was the early pioneer of visual communication using charts.</p><p><em>Read more about the history of data visualisation on <a href=\"https://en.wikipedia.org/wiki/Infographic#History\" target=\"_blank\">wikipedia</a>.&nbsp;</em></p>",
+    "displayTitle": "Data visualisation",
+    "title": "Data visualisation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac17063220a1",
+    "_layout": "full",
+    "_parentId": "59fc9cc9b06aac170632206e",
+    "_type": "component",
+    "body": "<p>William Playfair recognised that data tables did not effectively communicate to people. Even in the 18th century, he recognised the importance of visualising&nbsp;data to aid communication. Since this point, modern&nbsp;data literacy and access to data have meant that communication is not the only purpose of a data&nbsp;visualisation.</p>",
+    "displayTitle": "Why visualise data?",
+    "title": "Why visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Clear communication",
+        "body": "<p>Powerful messages need to be communicated clearly.</p><p>Bar charts, pie charts and clear numbers are a very effective way to communicate.</p><p>Other effective methods use large visuals and introduce figures that may help people relate to the story (e.g. stick figures could be added to represent the number of people with the visual shown here).</p>",
+        "_graphic": {
+          "src": "course/en/assets/f502c3303f08487ea656417341dde575e401bc62.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.homelandsecuritynewswire.com/dr20161005-comparing-u-s-deaths-from-terrorism-vs-gun-violence\" target=\"_blank\">HSNW / Politifact</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Clear communication"
+      },
+      {
+        "title": "Storytelling",
+        "body": "<p>A good data visualisation can also help tell an engaging story.</p><p>This piece of work by the New York Times&nbsp;asks readers to engage directly with the story and challenges their existing knowledge about how President Obama did during his presidency.</p><p>This can be a very effective way to entertain and directly educate users. This appears to learners who are kinesthetic&nbsp;and like to learn by doing.&nbsp;</p><p>Why not find out how much you know about the Obama presidency?</p><p><a class=\"button\" href=\"https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0\" target=\"_blank\">Explore this story</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+          "alt": "",
+          "attribution": "<a href=\"https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0\" target=\"_blank\">NY Times</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Storytelling"
+      },
+      {
+        "title": "Aiding understanding",
+        "body": "<p>Many visualisations are created to aid understanding of the patterns that exist in data.&nbsp;</p><p>Examples of such visualisations include scatter graphs, radar charts and bubble charts, which are often used to compare two or more aspects in data or look for early emergence of patterns in the data.</p><p>Such graphs are&nbsp;more complex and are not suitable for use to quickly communicate a clear message. To aid with explanation, other graphs or text will be required.</p><p>Shown is a radar graph comparing Tanzania&rsquo;s open data progress to that of the rest of Sub-Saharan Africa.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f2e9df69f26cbe1a3bdd8092c9b673832640cccc.png",
+          "alt": "",
+          "attribution": "<a href=\"http://opendatabarometer.org/data-explorer/?_year=2015&indicator=ODB&open=TZA\" target=\"_blank\">Open Data Barometer</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Aiding understanding"
+      },
+      {
+        "title": "Encouraging interaction with the data",
+        "body": "<p>Some visualisations add an&nbsp;interactive element that allows the free exploration of data. This type of visualisation&nbsp;can help get people interested in the data and help them to find their own story from it.&nbsp;</p><p>Dashboards are a good example of this type of visualisation. The one here shows water points in Tanzania and categorises them by how many are functional or not.&nbsp;</p><p>The key to any visualisation that is intended to get people interested in open data is to link directly to the raw data, such that people can interrogate it themselves.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3b2d594892830b2f90c1bb5026eadf0008ef9349.png",
+          "alt": "",
+          "attribution": "<a href=\"http://water.opendata.go.tz/#/dash/points/waterpoints/?_k=8rupjz\" target=\"_blank\">Tanzania Government Open Data Portal</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Encouraging interaction with the data"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9cc9b06aac17063220a2",
+    "_layout": "full",
+    "_parentId": "59fc9cc9b06aac170632206f",
+    "_type": "component",
+    "body": "<p>The type of data visualisation you need depends on the message you are trying to communicate and&nbsp;the data you are working with. The following sections explore these two aspects in more detail.</p>",
+    "displayTitle": "Data visualisations and their use",
+    "title": "Data visualisations and their use",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Bar charts",
+        "body": "<p>The human brain is very good at quickly judging the size of simple shapes, such as rectangles. Therefore, the bar chart can very effectively communicate differences.&nbsp;</p><p>Simple bar charts can communicate powerful messages quickly.&nbsp;Enhancing bar charts and pie charts with graphics and well-placed text can also aid clear understanding. You do not&nbsp;even always need scales or lines.</p><p>A bar chart is perfect for comparing the magnitude of two or more values.</p><p>The chart on the left compares the revenue of one product to the revenue of an entire company, where the product has made more money. If you were creating a visualisation to tell this story, what might you add to make this finding stand out even more?</p>",
+        "_graphic": {
+          "src": "course/en/assets/34eb7b4a0a4b7747b9d04b9920aff369a14523cc.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.businessinsider.com/iphone-bigger-than-microsoft-2012-2?IR=T\" target=\"_blank\">Business Insider</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Bar charts"
+      },
+      {
+        "title": "Line and area charts",
+        "body": "<p>Line and area charts should&nbsp;<strong>only</strong>&nbsp;be used where there is a time series to be displayed. In most countries and cultures,&nbsp;people read left to right. Therefore, line charts must be constructed to be read from left to right.&nbsp;</p><p>A line chart, as shown here, is best for comparing multiple sets of data over the same (or equivalent) timeframe.</p><p>An area chart can be used to emphasise the totals. When using area charts, it is best to use a stacked area to clearly show the total of all datasets over the same (or equivalent) period of time.</p>",
+        "_graphic": {
+          "src": "https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/mlo_full_record.png",
+          "alt": "",
+          "attribution": "<a href=\"https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/mlo_full_record.png\" target=\"_blank\">Scripps</a>"
+        },
+        "strapline": "Line and area charts"
+      },
+      {
+        "title": "Histograms",
+        "body": "<p>Histograms are used to examine the distribution of different measurements of a variable, such as the distribution of different heights in the&nbsp;figure here.</p><p>A histogram is perfect for showing graphically where the median and mode lie. They also&nbsp;show the distribution (or shape) of the data and surface any outliers that might skew the location of the mean.&nbsp;</p><p>Significantly, they can reveal whether&nbsp;the samples in your dataset are normally distributed, or contain data that might be skewed or falsified.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.usablestats.com/lessons/normal\" target=\"_blank\">Usable stats</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Histograms"
+      },
+      {
+        "title": "Maps",
+        "body": "<p>Many datasets are related in some way to locations, and so visualising data on a map is the perfect way to make the data come to life.</p><p>Care should be taken in creating&nbsp;the right type of map, and using&nbsp;the right features to direct the reader. This is something we look at in more detail in the next module.</p><p>The map shown here uses a simple traffic-light scale to show the teacher-to-pupil ratio in schools in Tanzania.</p><p>In the next module, we will create our own map from a similar dataset.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/54b8b64dfbbe5c7bd331bc3a43697369904987b4.png",
+          "alt": "",
+          "attribution": "<a href=\"http://opendata.go.tz/en/indicator/2cb7fed8-4af4-11e5-a53c-0e9d821ea90d\" target=\"_blank\">Tanzania Open Data Portal</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Maps"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9cc9b06aac17063220a3",
+    "_layout": "left",
+    "_parentId": "59fc9cc9b06aac170632206a",
+    "_type": "component",
+    "body": "<p>Digital maps and the associated Geographic Information Systems (GIS) enable us to easily capture, manipulate, analyse and present spatial and geographic data.&nbsp;</p><p>Geographic data here refers to any data that has an implicit or explicit association with a location. Typically, this covers a wide range of&nbsp;data, including positional data (e.g. locations of schools), boundary data (e.g. regions of Tanzania) and elevation data (e.g. the height of Kilimanjaro).&nbsp;</p><p>Maps have for centuries been critical to helping us to understand where we are and what is around us. Digital maps go beyond this and allow us to create new data visualisations for any dataset that has a geographic connection.&nbsp;Digital maps can help to inform decisions that we need to make, for example...</p>",
+    "displayTitle": "Introduction to digital mapping",
+    "title": "Introduction to digital mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9cc9b06aac17063220a4",
+    "_layout": "full",
+    "_parentId": "59fc9cc9b06aac170632206c",
+    "_type": "component",
+    "body": "<p>Taking an open approach to digital mapping enables other people to help create or enrich geographic data and makes the data available for other people to benefit from.&nbsp;Open digital mapping platforms (e.g. OpenStreetMap) enable anyone to create their own maps using this approach.&nbsp;</p><p>Ramani Huria is a community-based mapping project that began in Dar es Salaam. Its initial&nbsp;aim is to&nbsp;create highly accurate maps of the most flood-prone areas of the city and inform decisions about&nbsp;how to protect these areas. As the maps have taken shape, their benefits have multiplied and their potential magnified. They now serve as foundational tools for development within all socio-economic spheres in Tanzania.&nbsp;</p>",
+    "displayTitle": "Community mapping for flood resilience and development",
+    "title": "Community mapping for flood resilience and development",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Watch the video to find out more about the Ramani Huria project.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=7Pa0wgMstE8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "59fc9d55b06aac170632220d",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac1706322167",
+    "_type": "component",
+    "body": "<p>If you have quoted or mentioned specific people or organisations in your piece, you could...</p>",
+    "displayTitle": "How can others help you share your story?",
+    "title": "Q: How can others help you share your story?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Put a picture of them in your article",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Ask one of their colleagues or friends to share the article",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Link to their profiles on social media so they will see it and share it",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Tagging and linking to people&#39;s profiles on social media will increase the likelihood that they will share it.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Tagging and linking to people&#39;s profiles on social media will increase the likelihood that they will share it.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9d55b06aac170632220e",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac1706322166",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d7a487640199afa9851a47a50d91fd638dec930b.jpg",
+      "small": "course/en/assets/d7a487640199afa9851a47a50d91fd638dec930b.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/free-vector/retro-newspaper-illustration_725027.htm#term=news&page=1&position=23\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59fc9d55b06aac1706322217",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac1706322165",
+    "_type": "component",
+    "body": "<p>There are 3 steps you need to take when planning a story. These are...</p>",
+    "displayTitle": "Which 3 steps do you need to take when planning your story?",
+    "title": "Q: Which 3 steps do you need to take when planning your story?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Setting the structure, gathering resources, drafting the headline",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Setting the structure, drafting the headline, making it up",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Drafting the story, adding a title, adding pictures",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Before you start drafting your story, make sure that you know what structure the story will take, that you have the right resources (including data visualisation and any research), and have&nbsp;a catchy headline.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Before you start drafting your story, make sure that you know what structure the story will take, that you have the right resources (including data visualisation and any research), and have&nbsp;a catchy headline.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9d55b06aac1706322218",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac1706322166",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "How many lines should your headline fit on to?",
+    "title": "Q: How many lines should your headline fit on to?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Up to 3 lines",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Up to 2 lines",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Up to 4 lines",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Headlines should only be 2 lines of text maximum. Readers should only be able to glance at the headline to deduce meaning and want to learn more.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Headlines should only be 2 lines of text maximum. Readers should only be able to glance at the headline to deduce meaning and want to learn more.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59fc9d55b06aac170632221c",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac1706322165",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ff8b3184892564b2714b35ce1d5976d82cbffea.png",
+      "small": "course/en/assets/7ff8b3184892564b2714b35ce1d5976d82cbffea.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9d55b06aac170632221d",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac1706322167",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1b33f1c8a7fa8128d4f6048d1c9d133b044bf1b9.jpg",
+      "small": "course/en/assets/1b33f1c8a7fa8128d4f6048d1c9d133b044bf1b9.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9d56b06aac17063222f8",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac17063221e6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9d56b06aac17063222f9",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac17063221e6",
+    "_type": "component",
+    "body": "<p>Data visualisations can be a powerful&nbsp;way of bringing data to life, and helping others&nbsp;deduce meaning from data.</p><p>But to add context to the visualisation,&nbsp;build&nbsp;a shareable story around it and disseminate that&nbsp;story widely for&nbsp;maximum impact, visualisations should be accompanied by a written narrative.&nbsp;</p><p>This module goes through&nbsp;the steps you should take in putting your story into words for the best possible impact:</p><ul><li>Choosing the right format</li><li>Planning and framing your story</li><li>Drafting your story</li><li>Polishing, publishing and promoting your story</li><li>Great data journalism examples</li></ul>",
+    "displayTitle": "Narrating your story ",
+    "title": "Narrating your story ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9d56b06aac17063222fa",
+    "_layout": "full",
+    "_parentId": "59fc9d55b06aac17063221e7",
+    "_type": "component",
+    "body": "<p>Writer Anna Scott introduces why and how you should add narrative to your story.</p>",
+    "displayTitle": "Story narration in 2 minutes",
+    "title": "Story narration in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/201640013",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59fc9d56b06aac17063222fb",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac17063221e8",
+    "_type": "component",
+    "body": "<p>Stories come in many different shapes and sizes. When you want to&nbsp;communicate a story,&nbsp;you need to decide&nbsp;how you want to share it&nbsp;and who you want your audience to be.</p><p>It may be that your data story is part of a wider bit of research. In this case, you might want to write a detailed book about it. However, books are a huge time investment, and will only be read by those who are already interested in your specialist subject. To maximise your impact and reach, your story needs to be easily shareable, searchable and succinct.&nbsp;</p><p>This module will focus on writing compelling online articles and blogs to share your findings, give context to your visualisations&nbsp;and tell your story.&nbsp;</p><p>Many different businesses and organisations now invest in blogging as an agile form of communicating ideas, projects and news to the wider world. When they are well&nbsp;structured and&nbsp;engaging they can attract widespread readership and help&nbsp;raise&nbsp;the organisation&#39;s profile. On the other hand, if they are not well&nbsp;structured, they can put people off and even pose a risk to the organisation&#39;s reputation.&nbsp;</p>",
+    "displayTitle": "Choosing the right format",
+    "title": "Choosing the right format",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9d56b06aac17063222fc",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac17063221e8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fa4f8ebbd4c99e24a5f92eece50097782c9707bd.jpg",
+      "small": "course/en/assets/fa4f8ebbd4c99e24a5f92eece50097782c9707bd.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Designed by Photoroyalty</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9d56b06aac17063222fd",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac17063221e9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7ff8b3184892564b2714b35ce1d5976d82cbffea.png",
+      "small": "course/en/assets/7ff8b3184892564b2714b35ce1d5976d82cbffea.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9d56b06aac17063222fe",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac17063221e9",
+    "_type": "component",
+    "body": "<p>In order to ensure your blogpost or article is well structured and engaging, it is important to take time to plan and frame your story. &nbsp; &nbsp; &nbsp;</p><p>Before your begin to write, you can follow these three simple steps to make sure you have everything you need: setting out your structure, gathering your resources and drafting your headline.</p>",
+    "displayTitle": "Planning and framing your story",
+    "title": "Planning and framing your story",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Setting out your structure ",
+    "_items": [
+      {
+        "title": "Set out your structure ",
+        "body": "<p>Write a summary of your story with the main points that you want it to cover. It is helpful to use bullet points for this, being sure to cover the beginning, middle and end. (You might tweak these later, after having gathered your resources, but it will help to have this as a basis to draw on in the drafting stage.)</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Gather your resources",
+        "body": "<p>Once you have your draft structure set out, you can begin to gather your resources.&nbsp;</p><p>You will need evidence to draw on in your story. This may come from&nbsp;information or quotes you find&nbsp;from another news story, a report, a book or an interview.</p><p>Be sure to carefully check the provenance of any sources to ensure that the data is reliable and trustworthy. Note down&nbsp;where the&nbsp;information is from&nbsp;and who wrote or said it. This will help with provenance checks and transparency. You should use this information to&nbsp;properly reference your sources&nbsp;when you come to drafting the piece.&nbsp;</p><p>Learn more about gathering data <a href=\"#/id/5891cb83b61c46e176e7ebb7\">here</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Draft your headline",
+        "body": "<p>After having written your summary and gathered your resources you should have a good idea of what the focus of your piece will be.&nbsp;</p>\n\n<p>At this point it is very helpful to&nbsp;write a draft headline and&nbsp;standfirst (the two-sentence summary you see under headlines in news stories, usually in italics.)&nbsp;Again. this might change once you have written your piece, but it will help you to keep your main focus on mind as you write.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9d56b06aac17063222ff",
+    "_layout": "full",
+    "_parentId": "59fc9d55b06aac17063221ea",
+    "_type": "component",
+    "body": "<p>Once you have written your summary and gathered your resources, you should be well prepared to draft your story. If you think you don&#39;t have enough resources to write what is detailed in your summary, either return to gathering resources or tweak the summary to fit with what you know. Once you have finished, read through your draft and check it for the things that will make it engaging, accessible and accurate.</p><p>This&nbsp;checklist will help you make sure your blog is well-structured. Ask yourself:</p><p>&nbsp;</p>",
+    "displayTitle": "Drafting your story",
+    "title": "Drafting your story",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Does my draft have a clear beginning, middle and end?",
+        "body": "<p>Think of your storyline as taking the shape of an arc.</p>\n\n<p>Begin&nbsp;simply&nbsp;by setting the scene - what is the main takeaway of the article?</p>\n\n<p>Then build up your story. Towards the end of the article, the reader should have all the information they need.</p>\n\n<p>The ending hammers home the main takeaway of the story again, bringing together the main points covered throughout the article.&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/eb3749e20dc0c2536023369a18a343452035d4e5.jpg",
+          "alt": ""
+        },
+        "strapline": "Does my draft have a clear beginning, middle and end?"
+      },
+      {
+        "title": "Does my headline fit onto two lines?",
+        "body": "<p>Five times as many people will read the headline, as will read the rest of the article.</p><p>Ask yourself, &#39;what will make people want to read more?&#39;, and keep it short and snappy.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/eccf2427aa0ac445191dcf082e37032c66d25a45.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/free-vector/retro-newspaper-illustration_725027.htm#term=news&page=1&position=23\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Does my headline fit onto two lines?"
+      },
+      {
+        "title": "Does my draft include URL links (or footnotes)?",
+        "body": "<p>Make sure you can substantiate your claims by&nbsp;pointing to the data and attributing&nbsp;where you can.&nbsp;</p><p>Linking your publication to other websites and resources will also increase your story&#39;s exposure on the web.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/0f276a90dab52a9118849750823256de722bc2dd.jpg",
+          "alt": "",
+          "attribution": "<a href=\"\"http://www.freepik.com\" target=\"_blank\"> Jannoon028</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Does my draft include URL links (or footnotes)?"
+      },
+      {
+        "title": "Is there a call to action?",
+        "body": "<p>What do you want your readers do differently after reading the piece?</p><p>Whether your goal is to educate or inspire, motivate or amuse, make sure that you point towards the right resources for your readers to take action.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Is there a call to action?"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9d56b06aac1706322300",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac17063221eb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1b33f1c8a7fa8128d4f6048d1c9d133b044bf1b9.jpg",
+      "small": "course/en/assets/1b33f1c8a7fa8128d4f6048d1c9d133b044bf1b9.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59fc9d56b06aac1706322301",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac17063221eb",
+    "_type": "component",
+    "body": "<p>Once you&#39;re happy with your draft, take steps to getting&nbsp;your story out there.&nbsp;</p>",
+    "displayTitle": "Polish, Publish, Promote!",
+    "title": "Polish, Publish, Promote!",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "1. Polish",
+        "body": "<p>Read your draft through fully&nbsp;once more to make sure it is ready to launch.</p>\n\n<p>Make sure all the hyperlinks are correct and link to active webpages, and be sure you have linked relevant content to the side panel if that is possible on the platform you are using to publish.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Publish",
+        "body": "<p>You should not see publishing your piece as the end of the process, but rather the beginning.</p>\n\n<p>You want the blog to be read by the audience you had in mind when you wrote it, so make sure it is easy for them to find. Keeping Search Engine Optimisation (SEO) in mind when writing your headline is one of the ways in which you can make sure your piece will be visible to people who are interested in the subject of your blog.&nbsp;</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Promote",
+        "body": "<p>Once you have published your piece, be sure to promote it using social media.</p>\n\n<p>If you have quoted or mentioned specific people or organisations in your piece, link to their profiles on&nbsp;social media channels so they are notified and can easily share it. Asking your contacts or relevant organisations to share it across their social media channels can help you to get the widest possible reach.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59fc9d56b06aac1706322302",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac17063221ec",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to communicate your story?",
+    "title": "Are you ready to communicate your story?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9d56b06aac1706322303",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac17063221ec",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-three",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59fc9d56b06aac1706322304",
+    "_layout": "full",
+    "_parentId": "59fc9d55b06aac17063221ed",
+    "_type": "component",
+    "body": "<p>Stories help us put data into the world. When put together effectively they can&nbsp;delight, enchant, inspire, educate, motivate and challenge us. Take a look a a number of the excellent examples here.</p>",
+    "displayTitle": "Great data journalism examples",
+    "title": "Great data journalism examples",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "You Draw It: What Got Better or Worse During Obama’s Presidency?",
+        "body": "<p>In this piece of work by the New York Times they ask readers to engage directly with the story and challenge their existing knowledge.&nbsp;</p><p>This can be a very effective way to not only entertain but also to directly educate users. This appears to learners who are very kinetic and like to learn by doing.&nbsp;</p><p>Why not find out how much you know about the Obama years?</p><p><a class=\"button\" href=\"https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0\" target=\"_blank\">Explore this story</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+          "alt": ""
+        },
+        "strapline": "You Draw It: What Got Better or Worse During Obama’s Presidency?"
+      },
+      {
+        "title": "In flight: 100 years of aviation",
+        "body": "<p>To mark 100 years of passenger air travel, the Guardian created an&nbsp;interactive story that used&nbsp;live data from FlightStats. The data allowed them&nbsp;to show every one of the thousands of commercial planes currently in the air.</p><p>This data was one of many datasets that were combined in this inteactive story to&nbsp;charts the history of aviation since 1914, and ask&nbsp;what comes next for the industry.</p><p><a class=\"button\" href=\"https://www.theguardian.com/world/ng-interactive/2014/aviation-100-years\" target=\"_blank\">Explore for yourself</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/c56d1263c91e83368f4417937616c16cb704c7b1.png",
+          "alt": ""
+        },
+        "strapline": "In flight: 100 years of aviation"
+      },
+      {
+        "title": "American deaths in terrorism vs. gun violence",
+        "body": "<p>In the wake of the Oct. 1 shooting at Umpqua Community College in Oregon, President Barack Obama tasked the media to put the number of gun violence-related deaths into perspective.</p><p>Obama knew that the data was available and could be analysed in many ways, all with the same stark result (if you wanted to report it).</p><p>Explore the story at some of the links below:</p><p><a class=\"button\" href=\"http://edition.cnn.com/2016/10/03/us/terrorism-gun-violence/\" target=\"_blank\">CNN</a> <a class=\"button\" href=\"https://www.washingtonpost.com/news/the-fix/wp/2015/08/27/obama-is-right-that-guns-kill-more-americans-than-terrorism-so-do-lots-of-things/?utm_term=.0db91b525a32\" target=\"_blank\">Washington Post</a>&nbsp;</p><p><a class=\"button\" href=\"http://insider.foxnews.com/2015/08/27/obama-responds-wdbj7-shootings-gun-deaths-dwarf-terrorism-deaths\" target=\"_blank\">Fox</a>&nbsp;<a class=\"button\" href=\"http://www.politifact.com/truth-o-meter/statements/2015/oct/05/viral-image/fact-checking-comparison-gun-deaths-and-terrorism-/\" target=\"_blank\">politifact</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/18738e0898ac8f711ed72e3be0a1bfe45e5c7aaa.jpg",
+          "alt": ""
+        },
+        "strapline": "American deaths in terrorism vs. gun violence"
+      }
+    ]
+  },
+  {
+    "_id": "59fc9d56b06aac1706322306",
+    "_layout": "left",
+    "_parentId": "59fc9d55b06aac17063221ee",
+    "_type": "component",
+    "body": "<p>Data increases in value the more it can be understood and shared.</p><p>In additional to a&nbsp;visualisation,&nbsp;build&nbsp;a shareable story around it and disseminate that&nbsp;story widely for&nbsp;maximum impact.&nbsp;</p><p>So when you&rsquo;ve found a &nbsp;great story, make sure you tell it in a way that&rsquo;s clear, relatable, and impactful.</p><p>When done effectively, telling data stories in the workplace can be a catalyst for change. Creating compelling stories is an essential skill for those who want to truly have impact.</p><p><a class=\"button\" href=\"#/id/5891cb83b61c46e176e7ebb8\">Previous module</a> <a class=\"button\" href=\"#/\">Menu</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59fc9d56b06aac1706322305",
+    "_layout": "right",
+    "_parentId": "59fc9d55b06aac17063221ee",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-three",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  }
+]

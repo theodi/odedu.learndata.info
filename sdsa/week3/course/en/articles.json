@@ -1,0 +1,275 @@
+[
+  {
+    "_id": "59fc9c3fb06aac1706321bf4",
+    "_parentId": "59fc9c3fb06aac1706321bd6",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321bf8",
+    "_parentId": "59fc9c3fb06aac1706321bd8",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321bfa",
+    "_parentId": "59fc9c3fb06aac1706321bd9",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322061",
+    "_parentId": "59fc9cc9b06aac1706322060",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322062",
+    "_parentId": "59fc9cc9b06aac170632205f",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9d55b06aac1706322153",
+    "_parentId": "59fc9d54b06aac1706322125",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "    ",
+    "title": "    ",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321bf5",
+    "_parentId": "59fc9c3fb06aac1706321bd6",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321bf9",
+    "_parentId": "59fc9c3fb06aac1706321bd8",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321bfb",
+    "_parentId": "59fc9c3fb06aac1706321bd9",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322063",
+    "_parentId": "59fc9cc9b06aac1706322060",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322064",
+    "_parentId": "59fc9cc9b06aac170632205f",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9d54b06aac1706322133",
+    "_parentId": "59fc9d54b06aac1706322125",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "    ",
+    "title": "    ",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "ODILloyds14",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321bde",
+    "_parentId": "59fc9c3fb06aac1706321bd9",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321be1",
+    "_parentId": "59fc9c3fb06aac1706321bd8",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9c3fb06aac1706321be5",
+    "_parentId": "59fc9c3fb06aac1706321bd6",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322065",
+    "_parentId": "59fc9cc9b06aac170632205f",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9cc9b06aac1706322066",
+    "_parentId": "59fc9cc9b06aac1706322060",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "59fc9d55b06aac1706322154",
+    "_parentId": "59fc9d54b06aac1706322125",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  }
+]
