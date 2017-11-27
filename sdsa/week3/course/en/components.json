@@ -180,44 +180,6 @@
     "instruction": ""
   },
   {
-    "_id": "59fc9c40b06aac1706321cf8",
-    "_layout": "right",
-    "_parentId": "59fc9c3fb06aac1706321c45",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "media",
-    "instruction": "",
-    "_media": {
-      "mp4": "course/en/assets/e8665f7df3eb3bb19b9c8bcba1bacf34892e333f.mp4",
-      "ogv": "",
-      "mp3": "",
-      "source": "",
-      "type": "",
-      "poster": "course/en/assets/4833f117f2b3d5f33f3f11c1dee9ed94a55acb4b.png",
-      "cc": []
-    },
-    "_setCompletionOn": "inview",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_allowFullScreen": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
     "_id": "59fc9c40b06aac1706321cf9",
     "_layout": "left",
     "_parentId": "59fc9c3fb06aac1706321c45",
@@ -314,10 +276,14 @@
     "_isOptional": false,
     "_classes": "",
     "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
     "instruction": "",
     "_media": {
       "mp4": "course/en/assets/da7174fb6b713a99418e20ed9293bd6779ee1c60.mp4",
       "ogv": "",
+      "webm": "",
       "mp3": "",
       "source": "",
       "type": "",
@@ -327,7 +293,8 @@
     "_setCompletionOn": "inview",
     "_useClosedCaptions": false,
     "_startLanguage": "en",
-    "_allowFullScreen": false,
+    "_allowFullScreen": true,
+    "_playsinline": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -369,10 +336,14 @@
     "_isOptional": false,
     "_classes": "",
     "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
     "instruction": "",
     "_media": {
       "mp4": "course/en/assets/12f8f77a8589db3875d48bfe8db3e59be30e2982.mp4",
       "ogv": "",
+      "webm": "",
       "mp3": "",
       "source": "",
       "type": "",
@@ -382,7 +353,8 @@
     "_setCompletionOn": "inview",
     "_useClosedCaptions": false,
     "_startLanguage": "en",
-    "_allowFullScreen": false,
+    "_allowFullScreen": true,
+    "_playsinline": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -454,10 +426,14 @@
     "_isOptional": false,
     "_classes": "",
     "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
     "instruction": "",
     "_media": {
       "mp4": "course/en/assets/3f625479e5274063900e516b0d2618d0c4d45239.mp4",
       "ogv": "",
+      "webm": "",
       "mp3": "",
       "source": "",
       "type": "",
@@ -467,7 +443,8 @@
     "_setCompletionOn": "inview",
     "_useClosedCaptions": false,
     "_startLanguage": "en",
-    "_allowFullScreen": false,
+    "_allowFullScreen": true,
+    "_playsinline": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -4093,5 +4070,48 @@
       "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
+  },
+  {
+    "_id": "59fc9c40b06aac1706321cf8",
+    "_layout": "right",
+    "_parentId": "59fc9c3fb06aac1706321c45",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/e8665f7df3eb3bb19b9c8bcba1bacf34892e333f.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/4833f117f2b3d5f33f3f11c1dee9ed94a55acb4b.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]
