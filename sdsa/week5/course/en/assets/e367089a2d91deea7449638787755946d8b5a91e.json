@@ -1,0 +1,30 @@
+{
+	"fields": [
+		{ 
+			"name": "FirstName",
+			"type": "string",
+			"constraints": { 
+				"required": true 
+			} 
+		},
+		{ 
+			"name": "LastName",
+			"type": "string",
+			"constraints": { 
+				"required": true 
+			} 
+		},
+		{ 
+			"name": "Instrument",
+			"enum": ["Vocal", "Guitar", "Bass Guitar", "Drums"],
+			"constraints": { 
+				"required": true 
+			} 
+		},
+		{ 
+			"name": "DateOfBirth",
+			"type": "string",
+			"format": "date-time"
+		}
+	]
+}

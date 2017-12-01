@@ -1,0 +1,74 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/809f1e5e6778d0fee4519e132e89f5b92697e05b.jpg"
+    },
+    "_id": "5a15862fd78e42cc3a9cb92e",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Consistent availability of data is key to enabling reuse. This module looks at how to design and implement an Application Programming Interface (API) for data.&nbsp;</p>",
+    "displayTitle": "Having a REST with API design",
+    "title": "Having a REST with API design",
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
+    },
+    "_id": "5a214885d78e42cc3a9cc918",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Big data is a frequently used term that is associated with advances in technologies and science that can both store and process ever diverse and large quantities of data.&nbsp;</p><p>This module looks at what big data is and what to be aware of when working with it.</p>",
+    "displayTitle": "Working with Big Data",
+    "title": "Working with Big Data",
+    "_ODILicence": {
+      "_items": []
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  }
+]

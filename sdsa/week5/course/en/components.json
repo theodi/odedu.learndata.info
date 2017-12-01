@@ -1,0 +1,1511 @@
+[
+  {
+    "_id": "5a15862fd78e42cc3a9cba0a",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb976",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba0b",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb976",
+    "_type": "component",
+    "body": "<p>Consistent availability of data is key to enabling reuse. This module looks at how to design and implement an Application Programming Interface (API) for data. More specifically, this module looks at the importance of an API for resources and the&nbsp;relation of this to linked open data.&nbsp;</p><p>In this module we explore:</p><ul><li>What is an API?</li><li>What is a REST&nbsp;API?</li><li>REST in practice</li><li>Designing a RESTful API</li><li>&#39;Off the shelf&#39; REST APIs</li></ul>",
+    "displayTitle": "Having a REST with API design",
+    "title": "Having a REST with API design",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba0c",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb977",
+    "_type": "component",
+    "body": "<p>An Application Programme Interface (API) is best described as a &quot;promise&quot; by one system to constantly and consistently provide a service to another that allows to the two to interact.&nbsp;</p><p>One simple way of thinking of this is to think of spoken languages as an API. Each language has words and grammatical structures that form sentences through which information can be exchanged between people. However&nbsp;not everyone speaks the same language. To solve this problem sometimes you have to learn the new language or use a third party to translate.</p><p>Exactly the same is true of machine APIs, except there are many more APIs than languages so applying some standard design principals helps everyone understand the API. This is much like having many dialects of a single spoken languages. In this module we investigate the REST &#39;<em>dialect</em>&#39; for API design.</p>",
+    "displayTitle": "What is an API?",
+    "title": "What is an API?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba0d",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb977",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f888df70572ed5a27b7d07ea1c45f2e9349f693.jpg",
+      "small": "course/en/assets/6f888df70572ed5a27b7d07ea1c45f2e9349f693.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/robot-application-programming-interface-sign-technology-154822901?src=id\" target=\"_blank\">kirill_makarov</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba0e",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb979",
+    "_type": "component",
+    "body": "<p>Follow the steps below to design a REST API for your resources and data.&nbsp;</p>",
+    "displayTitle": "Designing a REST API",
+    "title": "Designing a REST API",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Step 1 - Design core identifier structure",
+        "body": "<p>Follow the template above to design and document your web sites structure for where your resources are going to be. This step has several stages:</p><p>1. <strong>Pick the scheme</strong>: http (insecure) or https (secure) - If you are going to support updating of resources you should use https.</p><p>2. <strong>Pick the authority</strong> - &nbsp;You might have already decided that the website base address you have is the right one.</p><p>3. <strong>Organise your resources into paths</strong>&nbsp;- Pick paths (normally these correspond to database tables or resource types as a way to organise your data. e.g. /companies /students /news /events /transactions /projects /contracts etc etc</p><p>4.&nbsp;<strong>Decide on identifier patterns</strong>&nbsp;- Follow an identifier scheme you already and remember what happens if you allow creation.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Step 2 - Document this structure",
+        "body": "<p>The next step is to document your path structure. Usually providers documentation will mirror the design pattern shown above, informing people about the available endpoints.&nbsp;</p><p>e.g.&nbsp;</p><p><strong>List all companies</strong><br />/companies&nbsp;</p><p><strong>Individual records</strong><br />/companies/{company-number}<br />/students/:student-number</p><p>Dependant on the documentation standard either &quot;{}&quot; or &quot;:&quot; will be used to denote properties that need to be replaced with the identifier before interaction can happen.&nbsp;</p><p>For some examples see the <a href=\"https://api.opencorporates.com/documentation/API-Reference\" target=\"_blank\">OpenCorporates API</a> and the <a href=\"https://api.opencorporates.com/documentation/API-Reference\" target=\"_blank\">ODI data API</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Step 3 - Choose HTTP verbs to support",
+        "body": "<p>The majority of REST APIs are only for the purposes of retrieving (GET) resources however it might be advantageous to also support the ability to add to the data via the API.</p><p>The majority of systems need a way to create resources, sometimes only have a single system can be a good thing to control identifiers.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Step 4 - Decide on formats/representations",
+        "body": "<p>Having designed the API, it is now time to decide which representations/formats (e.g. html, son, xml etc)&nbsp;will be supported.</p><p>There is no ideal answer here as different applications suit different representations, structures and formats for data. The minimum requirement should be to make available at least one human and one machine readable representation of each resource.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Step 5 - Add support for queries on lists",
+        "body": "<p>The optional step could enable you to take advantage of query parameters added to list endpoints (IRIs without the identifier on the end) to customise the search for a user.&nbsp;</p><p>For example a GET request to the following location could return all companies with a status &quot;inactive&quot; from open corporates.&nbsp;</p><p>GET /companies/gb?Status=Inactive HTTP/1.1</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba0f",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb979",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b60cad5a4c51b4e1a5f53738920c658dc0e4af86.jpg",
+      "small": "course/en/assets/b60cad5a4c51b4e1a5f53738920c658dc0e4af86.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba10",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb97a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ed391d8fae98ab0914a57a3089ff1638f77b72e8.png",
+      "small": "course/en/assets/ed391d8fae98ab0914a57a3089ff1638f77b72e8.png",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=1146341&term=cloud\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba11",
+    "_layout": "full",
+    "_parentId": "5a15862fd78e42cc3a9cb97b",
+    "_type": "component",
+    "body": "<h2 style=\"font-size:1.5em;\">{scheme} :// {authority} / {path} / {identifier} &nbsp;[ # {fragment} ]&nbsp;OR [ ?&nbsp;{query} ]&nbsp;</h2>",
+    "displayTitle": "REST resource identifier template:",
+    "title": "REST resource identifier template:",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba12",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb97c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f888df70572ed5a27b7d07ea1c45f2e9349f693.jpg",
+      "small": "course/en/assets/6f888df70572ed5a27b7d07ea1c45f2e9349f693.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/robot-application-programming-interface-sign-technology-154822901?src=id\" target=\"_blank\">kirill_makarov</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba13",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb97c",
+    "_type": "component",
+    "body": "<p>Which of the follow best describes what an Application Programming Interface (API) is?</p>",
+    "displayTitle": "What is an API?",
+    "title": "Q: What is an API?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Pick you answer and then click 'submit'",
+    "_items": [
+      {
+        "text": "A programming language specification",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A specialist website",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A \"promise\" by one system to another",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>An Application Programme Interface (API) is best described as a &quot;promise&quot; by one system to constantly and consistently provide a service to another that allows to the two to interact.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>An Application Programme Interface (API) is best described as a &quot;promise&quot; by one system to constantly and consistently provide a service to another that allows to the two to interact.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba14",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb97d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91627e27077a28d5edb249153a308ab66f3af1b0.png",
+      "small": "course/en/assets/91627e27077a28d5edb249153a308ab66f3af1b0.png",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=1010276&term=data\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba15",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb97d",
+    "_type": "component",
+    "body": "<p>What core feature makes an API RESTful?</p>",
+    "displayTitle": "What makes an API RESTful?",
+    "title": "Q: What makes an API RESTful?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select you answer and click 'submit'",
+    "_items": [
+      {
+        "text": "An open licence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Use of web based identifiers (IRIs) to identify resources",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The requirement to expose data in the JSON format",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>All of these different specifications agree that using Internationalised Resource Identifiers (IRIs) to identify resources or things with web addresses provides an easy and widely support way to look things up on the web.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>All of these different specifications agree that using Internationalised Resource Identifiers (IRIs) to identify resources or things with web addresses provides an easy and widely support way to look things up on the web.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba16",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb97e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b60cad5a4c51b4e1a5f53738920c658dc0e4af86.jpg",
+      "small": "course/en/assets/b60cad5a4c51b4e1a5f53738920c658dc0e4af86.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba17",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb97e",
+    "_type": "component",
+    "body": "<p>Match the request below to the correct description of what the request represents.&nbsp;</p><p>GET /companies/gb?City=London HTTP/1.1<br />HOST: opencorporates.com<br />ACCEPT: text/csv</p>",
+    "displayTitle": "REST in practice",
+    "title": "Q: REST in practice",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Load a webpage showing companies in London",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Retrieve a list of companies in London in the CSV format",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Retrieve a single company record in CSV format",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s Right!</strong></p><p>This request is directed at the <em>/companies/gb&nbsp;</em>endpoint in open corporates (the host). The request also contains a query that asks for records where City=London, limiting the list. The last part of the request asks for the list in CSV format for ease of use on a machine. Note that open corporates does not support this type of request as it is not in their API design.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>This request is directed at the <em>/companies/gb&nbsp;</em>endpoint in open corporates (the host). The request also contains a query that asks for records where City=London, limiting the list. The last part of the request asks for the list in CSV format for ease of use on a machine. Note that open corporates does not support this type of request as it is not in their API design.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba18",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb97f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba19",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb97f",
+    "_type": "component",
+    "body": "<p>This module looked at APIs for data. An API is best described as a &quot;promise&quot; by one system to constantly and consistently provide a service to another that allows to the two to interact.&nbsp;</p><p>Specifically this module looked REST APIs which use the web architecture to not only transfer web pages between server and client but also allow the same two actors to transact data using both read and write operations.&nbsp;</p><p>Combining good design patterns for web based identifiers (IRIs) with a REST API can enable the web to move from being a web of documents (web pages) to a web of linked open data. A web of linked open data will enable machines to automatically augment our browsing experience and perhaps we will be able to &#39;browse the web for the first time as if it is actually a web&#39;.&nbsp;</p><p>Watch the video below to find out what might be possible on a web of linked open data.&nbsp;</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba1c",
+    "_layout": "full",
+    "_parentId": "5a15862fd78e42cc3a9cb980",
+    "_type": "component",
+    "body": "<p>This section introduces the practical application of a RESTful API using the core http verbs.&nbsp;In all cases the interaction is going to be performed with the IRI that represented&nbsp;The Open Data Institute (ODI) as listed in Open Corporates:&nbsp;</p><p><a href=\"https://opencorporates.com/companies/gb/08030289\"><strong>https://opencorporates.com/companies/gb/08030289</strong></a></p>",
+    "displayTitle": "REST in practice",
+    "title": "REST in practice",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Retrieve (GET)",
+        "body": "<p>The simplest operation we can perform is a retrieve. In the HTTP (or CRUD) specification this is referred to as a GET operation as it uses the GET HTTP verb.</p><p>The following is what actually happens under the hood when your web browser requests the resource identified by the ODI URI in Open Corporates.</p><p><code>GET /companies/gb/08030289 HTTP/1.1<br />HOST:&nbsp;opencorporates.com<br />ACCEPT: text/html</code></p><p>In this GET request it is requesting a specific resource (using the HTTP/1.1 protocol) from opencorproates.com and your browser wants a text/html human readable version it can render.&nbsp;</p><p>For a machine to get a machine readable version the request changes very slightly:</p><p><code>GET /companies/gb/08030289 HTTP/1.1<br />HOST:&nbsp;opencorporates.com<br />ACCEPT: <strong>application/json</strong></code></p><p>The request is simply asking for a different representation that is supported by the Open Corporates API specification. Currently the JSON format (application/json) is the most common with REST APIs.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Create of overwrite (PUT)",
+        "body": "<p><code><strong>PUT</strong>&nbsp;/companies/gb/08030289 HTTP/1.1<br />HOST:&nbsp;opencorporates.com<br /><strong>CONTENT-TYPE</strong>:&nbsp;application/json</code></p><p>The PUT HTTP is used to create or completely overwrite a resource at a given IRI. Rather than the server sending back a response the client should provide a representation of the resource to the server and specify which one with a CONTENT-TYPE header.&nbsp;</p><p>It is important to note that in this PUT request the client has specified the whole of the IRI in the request and the server cannot modify it.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Create or update (POST)",
+        "body": "<p><code><strong>POST</strong> /companies/gb/ HTTP/1.1<br />HOST:&nbsp;opencorporates.com<br /><strong>CONTENT-TYPE</strong>:&nbsp;application/json</code></p><p>Conversely to PUT, if the IRI is being set by the server then a POST should be used to add something to a collection.&nbsp;</p><p>In the case of the request above this would create a new company entry in the&nbsp;<strong>gb</strong>&nbsp;part of the companies database of open corporates. The server should then respond with the IRI of the new company resource or appropriate error message.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Other operations",
+        "body": "<p>There are a series of other useful HTTP verbs that can be used directly on an IRI including:</p><p><strong>HEAD:&nbsp;</strong>Identical to GET but the data or documents is not returned by the server, just a description of the requested content (known as headers). These headers include metadata such as last-modified which is used for checking if a resource has changed since the user (browser) last requested it.&nbsp;</p><p><strong>DELETE:&nbsp;</strong>Delete the resource and all representations. Any further GET/HEAD requests should result in a &quot;410 Gone&quot; response from the server.</p><p><strong>OPTIONS:</strong>&nbsp;See which HTTP verbs the server supports on a given IRI.</p><p><strong>PATCH:&nbsp;</strong>Partially update a resource (not widely supported).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba1e",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb981",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to design a REST API?",
+    "title": "Are you ready to design a REST API?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba1f",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb982",
+    "_type": "component",
+    "body": "<p>There are many products and solutions available that offer in built API and/or REST functionality however the in built support might not match your own&nbsp;design.&nbsp;</p><p>One of the most popular products for managing web presences is WordPress which has its own <a href=\"https://developer.wordpress.org/rest-api/\" target=\"_blank\">REST API</a>. The design of the resource identifiers IRIs does not follow the design pattern outlined in this module however it is possible to <a href=\"https://developer.wordpress.org/rest-api/extending-the-rest-api/\" target=\"_blank\">extend the WordPress REST API</a> to add your own endpoints and formats. This does mean it is not exactly an out of the box solution.</p>",
+    "displayTitle": "'Off the shelf' REST APIs",
+    "title": "'Off the shelf' REST APIs",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba20",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb982",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/77fa7294cb88aa4f745b80f80034c64bca3963d7.jpg",
+      "small": "course/en/assets/77fa7294cb88aa4f745b80f80034c64bca3963d7.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=898425&term=shelf%20computer\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba21",
+    "_layout": "full",
+    "_parentId": "5a15862fd78e42cc3a9cb983",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Exploring the web of data with Pivot",
+    "title": "Exploring the web of data with Pivot",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/1f8f943e1933dc5912d92d9d874fdcfcf6aac592.mov",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/6dad6c20cb00c81a34e315a9772193140fcd7d77.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "5a158630d78e42cc3a9cba62",
+    "_layout": "right",
+    "_parentId": "5a15862fd78e42cc3a9cb981",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a15862fd78e42cc3a9cba1a",
+    "_layout": "left",
+    "_parentId": "5a15862fd78e42cc3a9cb97a",
+    "_type": "component",
+    "body": "<p>REpresentational State Transfer (REST) is an API designed specifically for&nbsp;the web. It has a specific set of guidelines and rules that control if something is a RESTful API.&nbsp;</p>",
+    "displayTitle": "What is a REST API?",
+    "title": "What is a REST API?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Uses web identifiers to address resources",
+        "body": "<p>In a REST API all interaction is done directly with resource web based identifiers (URI/IRIs).</p><p>Resources were first defined on the web as documents or files identified by their URLs. Today however it is much better to think a lot more abstract and thing of these URLs as Identifiers (URIs). Thus a URI can have an abstract definition and refer to ANY entity that can be identified, named, addressed or handled, in any way whatsoever on the web!</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Takes advantage of the web architecture ",
+        "body": "<p>The web is built using a client-server architecture. For example, to browse the web you do not need to be at the terminal of the computer that holds the files you need.</p><p>The web is also stateless, meaning that the server will not maintain information or status of a client between requests. This is the main aspect which helps the web scale.&nbsp;&nbsp;</p><p>The same should be true of a RESTful API.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Uses the HTTP protocol as the language",
+        "body": "<p>The main language in a REST API is HTTP. The HTTP specification outlines a series of <strong>verbs </strong>that define how clients can interact with a server and the resources it holds. Verbs allow the client to&nbsp;retrieve (GET), update (POST), overwrite (PUT) and delete (DELETE) resources.&nbsp;</p><p>A REST API that supports all these features is also known as a CRUD (Create, Retrieve, Update, Delete) API.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a214886d78e42cc3a9cc92a",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc91d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a214886d78e42cc3a9cc92e",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc91e",
+    "_type": "component",
+    "body": "<p>There is no one clear definition of big as the term big is subjective. The most widely used definition of big data is &ldquo;data that is a challenge for businesses to ingest, process and derive insight from in a time that matches need&rdquo;.</p><p>Another common classification schema for data being big comes from the 4 V&rsquo;s of big data:</p><ul><li>Volume</li><li>Velocity</li><li>Variety</li><li>Veracity</li></ul><p>For the purpose of this module we will explore the 4 Vs of big data and the implication of each on data analysis.&nbsp;</p>",
+    "displayTitle": "What is Big Data?",
+    "title": "What is Big Data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a214887d78e42cc3a9cc92f",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc91e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2201d0a21753f4322792d9ec249b0f75bdb0b6e3.jpg",
+      "small": "course/en/assets/2201d0a21753f4322792d9ec249b0f75bdb0b6e3.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a214887d78e42cc3a9cc953",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc920",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f49cceb5094c6fdd4fcfdf0a2098ea7d5374267e.jpg",
+      "small": "course/en/assets/f49cceb5094c6fdd4fcfdf0a2098ea7d5374267e.jpg",
+      "attribution": "<a href=\"https://hubpages.com/technology/big_data_what_is_it\" target=\"_blank\">Hub Pages</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a214887d78e42cc3a9cc95d",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc923",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to work with Big Data?",
+    "title": "Are you ready to work with Big Data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a214887d78e42cc3a9cc95e",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc923",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a214887d78e42cc3a9cc98f",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc924",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/07f8436ce08f1e36a911c15ea1626659bb7413d8.jpeg",
+      "small": "course/en/assets/07f8436ce08f1e36a911c15ea1626659bb7413d8.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/person-holding-chart-and-bar-graph-669612/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a214887d78e42cc3a9cc9b8",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc925",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2201d0a21753f4322792d9ec249b0f75bdb0b6e3.jpg",
+      "small": "course/en/assets/2201d0a21753f4322792d9ec249b0f75bdb0b6e3.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a214888d78e42cc3a9cc9eb",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc925",
+    "_type": "component",
+    "body": "<p>What is big data?</p>",
+    "displayTitle": "What is big data?",
+    "title": "Q: What is big data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Pick you answer and then click 'submit'",
+    "_items": [
+      {
+        "text": "Data that is a challenge for businesses to ingest, process and derive insight from in a time that matches need",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data that excel cannot load",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data that is greater than 100Mb in file size",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Big data is data that is a challenge for businesses to ingest, process and derive insight from in a time that matches need.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Big data is data that is a challenge for businesses to ingest, process and derive insight from in a time that matches need.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a214888d78e42cc3a9cc9ec",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc926",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0d6b5faf5f2b6bddd756f0f21316987b9303a5e1.jpg",
+      "small": "course/en/assets/0d6b5faf5f2b6bddd756f0f21316987b9303a5e1.jpg",
+      "attribution": "<a href=\"https://hubpages.com/technology/big_data_what_is_it\" target=\"_blank\">Hub Pages</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a214888d78e42cc3a9cca1e",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc926",
+    "_type": "component",
+    "body": "<p>Which of the following are characteristics of big data (as covered in this module)</p>",
+    "displayTitle": "The characteristics of big data?",
+    "title": "Q: The characteristics of big data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select you answer and click 'submit'",
+    "_items": [
+      {
+        "text": "Volume",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Veracity",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Velocity",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Variety",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Value",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Visualisation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Volume, Veracity, Velocity and Variety are the characteristics&nbsp;of big data. Big data might have value, but it doesn&#39;t have to have value to be big data. A visualisation will often be of processed data that is much smaller.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Volume, Veracity, Velocity and Variety are the characteristics&nbsp;of big data. Big data might have value, but it doesn&#39;t have to have value to be big data. A visualisation will often be of processed data that is much smaller.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a214888d78e42cc3a9cca44",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc927",
+    "_type": "component",
+    "body": "<p>Which of the following should you look to do when working with big data?</p>",
+    "displayTitle": "Using big data effectively",
+    "title": "Q: Using big data effectively",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select two answers and click 'submit'",
+    "_items": [
+      {
+        "text": "Use big data and AI exclusively",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Complement existing analysis with big data ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Minimise the impact of the characteristics of big data on your analysis",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Do analysis in real time whenever you can",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s Right!</strong></p><p>Big data should be used to compliment existing analysis techniques, not completely and blindly replace them with new and unproven&nbsp;AI driven techniques. When working with big data, you should try and minimise the effect of the 4 V&#39;s on your analysis to reduce complexity and number of unknown variables (like quality).</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Big data should be used to compliment existing analysis techniques, not completely and blindly replace them with new and unproven&nbsp;AI driven techniques. When working with big data, you should try and minimise the effect of the 4 V&#39;s on your analysis to reduce complexity and number of unknown variables (like quality).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a214888d78e42cc3a9cca45",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc928",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a214888d78e42cc3a9cca48",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc928",
+    "_type": "component",
+    "body": "<p>Big data is a frequently used term that is associated with advances in technologies and science that can both store and process ever diverse and large quantities of data.</p><p>If artificial intelligence and machine learning are the trending new scientific topics, then big data is the current trend in data.</p><p>However, a good data scientist should be careful when working with big data that both the data and the machinist used to process it are reliable and you don&#39;t fall into a big data hubris trap!</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a214886d78e42cc3a9cc92d",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc91d",
+    "_type": "component",
+    "body": "<p>Big data is a frequently used term that is associated with advances in technologies and science that can both store and process ever diverse and large quantities of data.</p><p>If artificial intelligence and machine learning are the trending new scientific topics, then big data is the current trend in data.</p><p>Many believe that big data combined with new sciences will help us automatically discover new insights from new data not possible with traditional techniques. Data science, AI and machine learning is the new cool and statistics is dead?</p><p>This module looks:</p><ul><li>What makes data big?</li><li>The characteristics of big data?</li><li>The benefits of using big data?</li><li>The big data hubris</li><li>Using big data effectively&nbsp;</li></ul>",
+    "displayTitle": "Working with Big Data",
+    "title": "Working with Big Data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a214887d78e42cc3a9cc95a",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc920",
+    "_type": "component",
+    "body": "<p>Explore each of 4 V&rsquo;s below and their implications on businesses using this type of data to generate insight in reasonable time.</p>",
+    "displayTitle": "The 4 V’s of Big Data",
+    "title": "The 4 V’s of Big Data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Volume",
+        "body": "<p>The first V of big data is Volume. The basic premise here is that we are now generating more data through every digital interaction than we can possibly store. If we could store and analyse this quantity of data then it would provide unlimited opportunity for new types of data analysis.</p><p>At a smaller scale, there are already open data sets that have huge volume and present challenges for even the owner of the data to process. Both NASA and the European space agencies are making available big datasets via cloud services such as Amazon. As well as looking into deep space these datasets can also help us model extreme weather events here on earth.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Velocity",
+        "body": "<p>A large volume of data is often accompanied by the second V of big data; velocity. With today&rsquo;s fast modern infrastructure we are able to measure most things in real time, meaning that by the time you have used the data to perform an analysis that data is already out of date and has been replaced with new data.</p><p>As well as live satellite and weather data, data sources with high velocity include the live location and track data for every part of the national UK railway network.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Variety",
+        "body": "<p>Being able to digital record all our interactions means that the variety of data on any given area is now vast. There are opportunities to use new sources of data to analyse existing problems or complement existing techniques with this new data.</p><p>But is having too much to choose between a good thing (think restaurant menus)? Having a wide variety of data can present challenges for organisations trying to find insight in an area not previously explored.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Veracity",
+        "body": "<p>The final V of big data is very familiar to all types of data and it talks about quality. Even within a single dataset there is likely to be inconsistency in the collection methods that lead to problems with longitudinal analysis of that data. This combined with any of the other Vs leads to a data cleaning problem at a different scale to before.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a214ae5d78e42cc3a9cca54",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc922",
+    "_type": "component",
+    "body": "<p>Other than the veracity problem, all other Vs offer both clear benefits as well as challenges. Having a huge variety of data to choose from offers new ways to potentially analyse something not possible before.</p><p>The ability to collect a huge volume of data in a short amount of time gave Transport for London (TfL) the opportunity to collect location data from people who have mobile devices to track movement of people through their network using WiFi. Analysis of this data helps inform TfL about popular routes and potential bottlenecks in their system to help better planning. For TfL the WiFI data is a new variety of data, a huge, but not unusable, amount of data was produced. As TfL didn&rsquo;t want to analyse the data live, they didn&rsquo;t have a velocity problem and the short period of collection (from one common set of infrastructure) minimised the veracity problem.</p><p>As TfL did, for any work using Big Data, you should carefully control the impact of the 4 Vs on your work, or only have to deal with one of them in each dataset you use. For example, if you have a veracity and velocity problem then you are unlikely to be able to increase the quality of the data to a level of trust where you will be able to trust the result!&nbsp;</p>",
+    "displayTitle": "The benefits of big data",
+    "title": "The benefits of big data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a214b15d78e42cc3a9cca56",
+    "_layout": "full",
+    "_parentId": "5a214886d78e42cc3a9cc91f",
+    "_type": "component",
+    "body": "<p>The big data hubris is the idea that big data and AI/machine learning alone can perform new analysis without the need for existing techniques. The video below from the University of Washington looks at the Big Data Hubris and how even Google failed to realise there were dealing with more than one V in their data.&nbsp;</p>",
+    "displayTitle": "The big data hubris",
+    "title": "The big data hubris",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=X0XqnAqvyIk",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": true,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_id": "5a214b68d78e42cc3a9cca57",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc924",
+    "_type": "component",
+    "body": "<p>Big data and open data are different but you can have big open data, and there are clear opportunities to use big data in your work. The following tips might help you work more effectively with big data.</p>",
+    "displayTitle": "Using big data effectively",
+    "title": "Using big data effectively",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Compliment not supplement",
+        "body": "<p>Big data should be used to compliment existing analysis techniques, not completely and blindly replace them. Big data, like any other data will still need to prove its significance.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "AI is not the answer",
+        "body": "<p>AI is still programmed by humans and humans make mistakes. AI can be used to complement existing techniques however any person using AI should understand the implication of its use on the result. Cheetahs can move at 60Mph, but this doesn&rsquo;t mean they are a good form of personal transport... because a Cheetah is a Cat, sounds obvious, but what is your algorithm?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3)\tMinimise the impact of the 4 V’s on your analysis",
+        "body": "<p>If you have data that has any of the characteristics of the 4 Vs then you should make every attempt to minimise their effect on the analysis. If you have to analyse the data in real time (Velocity problem), then make sure you also don&rsquo;t have a veracity problem. If you have a veracity problem, try not to combine this with a variety problem by using too many datasets as this will once again increase the number of unknown variables you are dealing with (something that statisticians try to avoid). Basically if you are dealing with more than one V then this should send up warning signs.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a214ae8d78e42cc3a9cca55",
+    "_layout": "left",
+    "_parentId": "5a214886d78e42cc3a9cc922",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/10a6550895a7e3711ac2ca53692a2ab908204930.jpg",
+      "small": "course/en/assets/10a6550895a7e3711ac2ca53692a2ab908204930.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/ecodallaluna/33844301132/in/photolist-TyGTBj-nGebUt-nXEd2j-fKfCEz-dNKB86-6DbcAa-SZT4mk-pAnyto-ppm4iP-6pH6NN-oQHvuP-o8j6cV-pv2hCZ-deSFfA-6eR225-afXqVR-cyYZF5-p85npB-dNRcZu-qdz3Ds-fUCGxU-fKfLPg-ng23gb-nApG3R-cjeFwj-5QXE5S-o4hPi1-8iRqQN-6NMMai-nh98wT-av6GEQ-aNsrNi-nh9aRS-gpCt5e-dNKAor-nwzZHh-6iDR7x-p7DmPw-gh7DMt-hbKmFi-9ofaa5-Sf7Z44-c3aB65-qgaJbc-fKx9Qb-nykNma-fJG5Fp-bpKkvY-bUHm52-bCDtR4\" target=\"_blank\">Eco Dalla Luna</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a214888d78e42cc3a9cca1f",
+    "_layout": "right",
+    "_parentId": "5a214886d78e42cc3a9cc927",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/07f8436ce08f1e36a911c15ea1626659bb7413d8.jpeg",
+      "small": "course/en/assets/07f8436ce08f1e36a911c15ea1626659bb7413d8.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/person-holding-chart-and-bar-graph-669612/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  }
+]

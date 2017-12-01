@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+  <Person>
+    <FirstName>John</FirstName>
+    <LastName>Lennon</LastName>
+    <Instrument>Vocal</Instrument>
+    <DateOfBirth>1940-10-09</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>Paul</FirstName>
+    <LastName>McCartney</LastName>
+    <Instrument>Bass Guitar</Instrument>
+    <DateOfBirth>1942-06-18</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>George</FirstName>
+    <LastName>Harrison</LastName>
+    <Instrument>Guitar</Instrument>
+    <DateOfBirth>1943-02-25</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>Ringo</FirstName>
+    <LastName>Starr</LastName>
+    <Instrument>Drums</Instrument>
+    <DateOfBirth>1940-07-07</DateOfBirth>
+  </Person>
+</People>
