@@ -1,0 +1,297 @@
+{
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading "
+      }
+    },
+    "_components": {
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_media": {
+        "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_gmcq": {
+        "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below."
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      }
+    },
+    "_extensions": {
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
+      },
+      "_skillsFramework": {
+        "linkText": "Outcomes",
+        "titleText": "Learning outcomes"
+      },
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "<p>&copy; <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>.&nbsp;This project has been funded with the support of the Erasmus+ programme of the European Union.</p>",
+        "SL_text": "<p>Developed for <a href=\"http://odedu-project.eu/\" target=\"_blank\">ODEdu</a> by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
+      }
+    }
+  },
+  "_start": {
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "5b33ab677066b87b05d1e357",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": true,
+    "_isMenuDisabled": false
+  },
+  "_type": "course",
+  "_lockType": "",
+  "_classes": "",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_latestTrackingId": 80,
+  "body": "<p>Welcome to this set of modules which look at a possible future for the web of linked data.&nbsp;</p><p>This set of modules has been put together by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;as part of the&nbsp;<a href=\"http://odedu-project.eu/\">Open Data Education</a>(ODEdu) project.&nbsp;</p><p>There are a total of 6 interactive lessons that will take approximately 2 hours to complete. In part these modules have been designed to follow on from the existing&nbsp;<a href=\"https://www.europeandataportal.eu/elearning/en/#/id/co-01\" target=\"_blank\">open data modules</a>&nbsp;available on the European Open Data portal.&nbsp;</p><p>We hope you find them useful!</p><p>&nbsp;</p>",
+  "displayTitle": "ODEdu: The web of linked data",
+  "title": "ODEdu: The web of linked data",
+  "_assessment": {
+    "_postTotalScoreToLms": true,
+    "_isPercentageBased": true,
+    "_scoreToPass": 60,
+    "_requireAssessmentPassed": false
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "title": "Resources",
+    "description": "Click here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_link": "course/en/assets/7c45f24f01fa0026720e0545d48a064937b15fec.xsd",
+        "description": "XSD Schema",
+        "filename": "schema.xml",
+        "title": "XSD Schema",
+        "_type": "document"
+      },
+      {
+        "_link": "course/en/assets/d1242d755f80847ec9fcaa2ebc09546a79727e7a.xml",
+        "description": "XML data",
+        "filename": "data.xml",
+        "title": "XML data",
+        "_type": "document"
+      },
+      {
+        "_link": "course/en/assets/d466f522c9b280bdf8e0050e0899efe7cb184c9d.csv",
+        "description": "CSV data",
+        "filename": "data.csv",
+        "title": "CSV data",
+        "_type": "document"
+      },
+      {
+        "_link": "course/en/assets/e367089a2d91deea7449638787755946d8b5a91e.json",
+        "description": "JSON Schema",
+        "filename": "schema.json",
+        "title": "JSON Schema",
+        "_type": "document"
+      },
+      {
+        "_type": "document",
+        "title": "CSV data (valid)",
+        "filename": "data.csv",
+        "description": "CSV data",
+        "_link": "course/en/assets/da9793582d26c3ab178803a6b9f7259363dec8de.csv"
+      }
+    ]
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg",
+          "alt": ""
+        },
+        "description": "<p>This content has been funded with support from the European Commission. The content reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</p>",
+        "title": "European Commission"
+      },
+      {
+        "_graphic": {
+          "src": "http://odedu-project.eu/wp-content/uploads/2016/04/ODEduLogo03-e1461764027797.png",
+          "alt": ""
+        },
+        "description": "<p>This content was developed as part of the <a href=\"http://odedu-project.eu/\" target=\"_blank\">ODEdu project</a> by the Open Data Institute.</p>",
+        "title": "ODEdu project"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": ""
+        },
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> training team.</p>",
+        "title": "ODI Training Team"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/adapt.png",
+          "alt": ""
+        },
+        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
+        "title": "Adapt learning"
+      }
+    ]
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png",
+          "alt": ""
+        },
+        "description": "<p>ODEdu eLearning by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+        "title": ""
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+        "title": "Attribution requirements"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+        "title": "Content usage"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trademarks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+        "title": "Exclusions"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "title": "Non-endorsement"
+      },
+      {
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "title": "No warranty"
+      }
+    ]
+  }
+}
