@@ -4,25 +4,31 @@
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "screenSize": {
-    "large": 1024,
-    "medium": 759,
-    "small": 519
+  "_id": "5b339a5b7066b87b05d1de0d",
+  "__v": 0,
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": false
   },
+  "_courseId": "5b339a5a7066b87b05d1dcbd",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
     "_showEasing": "easeOutQuart"
   },
-  "_courseId": "5b339a5a7066b87b05d1dcbd",
-  "_accessibility": {
-    "_isTextProcessorEnabled": false,
-    "_shouldSupportLegacyBrowsers": true,
-    "_isDisabledOnTouchDevices": false,
-    "_isEnabled": false
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
   },
-  "__v": 0,
-  "_id": "5b339a5b7066b87b05d1de0d",
+  "_logging": {
+    "_isEnabled": false,
+    "_level": null,
+    "_console": false
+  },
   "_tutor": {
     "_isEnabled": false
   },
